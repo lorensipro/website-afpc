@@ -15,5 +15,7 @@ with open(filein, 'rt') as jf:
             of.write("---\n")
             d = entry["date"]
             of.write(f"date_content: {d}\n")
+            d = entry["title"]
+            of.write(f"title_content: {d}\n")
             of.write("---\n")
             of.write(entry["introtext"])
