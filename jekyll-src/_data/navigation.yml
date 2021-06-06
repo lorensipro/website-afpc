@@ -1,0 +1,61 @@
+- title: AFPC 
+  url: "/"
+  side: left
+
+- title: "Qui sommes-nous ?"
+  url: "/presentation/"
+  side: left
+  dropdown:
+    - title: "Histoire de l'AFPC"
+      url: "/presentation/histoire"
+    - title: "Status, Bureau, CA"
+      url: "/presentation/association"
+    - title: "Adhésion"
+      url: "/presentation/adhesion"
+    - title: "Contacts"
+      url: "/presentation/contacts"
+
+- title: "La PPC"
+  side: left
+  url: "/ppc/"
+  dropdown:
+    - title: "La recherche en PPC"
+      url: /ppc/labos
+    - title: "les entreprises"
+      url: /ppc/entreprises
+    - title: "la PPC à l'international"
+      url: /ppc/international
+
+- title: "Actualité"
+  url: "/actualites/"
+  side: left
+
+- title: "Les JFPC"
+  url: "/jfpc/"
+  side: left
+  dropdown:
+    - title: "les JFPC"
+      url: "/jfpc/2021"
+    - title: "les Actes des JFPCS"
+      url: "/jfpc/actes"
+    - title: "Anciennes éditions"
+      url: "/jfpcs/anciennes-editions"
+
+- title: "Ressources"
+  url: "/ressources/"
+  side: "left"
+  dropdown:
+    - title: "Derniers travaux"
+      url: "/ressources/travaux"
+    - title: "Thèses et HDR autour de la PPC"
+      url: "/ressources/documents"
+    - title: "Soumettre un lien"
+      url: "/ressources/soumettre"
+
+- title: "Chercher"
+  url: "/recherche/"
+  side: right
+
+- title: "Contacts"
+  url: "/contacts/"
+  side: right
