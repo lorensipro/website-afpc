@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Derniers articles",
+    "alias": "accueil",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Soutien de groupes de travail",
+    "alias": "parrainage",
+    "menutype": "association"
+  },
+  {
+    "name": "FAQ",
+    "alias": "faq",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Dernières nouvelles",
+    "alias": "news",
+    "menutype": "topmenu"
+  },
+  {
+    "name": "Mon profil",
+    "alias": "info-perso",
+    "menutype": "usermenu"
+  },
+  {
+    "name": "Déconnexion",
+    "alias": "logout",
+    "menutype": "usermenu"
+  },
+  {
+    "name": "Thèses et habilitations",
+    "alias": "memoires",
+    "menutype": "ressources"
+  },
+  {
+    "name": "Parrainage de séminaires",
+    "alias": "seminaires",
+    "menutype": "association"
+  },
+  {
+    "name": "Qui sommes-nous ?",
+    "alias": "about-afpc",
+    "menutype": "topmenu"
+  },
+  {
+    "name": "Fonctionnalités et contenu à venir",
+    "alias": "avenir",
+    "menutype": "topmenu"
+  },
+  {
+    "name": "Adhérer",
+    "alias": "devenir-membre",
+    "menutype": "topmenu"
+  },
+  {
+    "name": "Liste des séminaires passés",
+    "alias": "liste-seminaires",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Extensions",
+    "alias": "extensions",
+    "menutype": "ressources"
+  },
+  {
+    "name": "temporaire",
+    "alias": "tempo1",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Actes des JFPC",
+    "alias": "actes-jfpc",
+    "menutype": "ressources"
+  },
+  {
+    "name": "La PPC à l'international",
+    "alias": "international",
+    "menutype": "externes"
+  },
+  {
+    "name": "Actes des JFPC",
+    "alias": "actesjfpc",
+    "menutype": "ressources"
+  },
+  {
+    "name": "Règlement intérieur (PDF)",
+    "alias": "reglement",
+    "menutype": "association"
+  },
+  {
+    "name": "Créer un compte sur le site",
+    "alias": "creercompte",
+    "menutype": "association"
+  },
+  {
+    "name": "Conférences",
+    "alias": "conferences",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Laboratoires français",
+    "alias": "liens",
+    "menutype": "externes"
+  },
+  {
+    "name": "News Feeds",
+    "alias": "news-feeds",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Dernières nouvelles",
+    "alias": "news",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Soumettre un article",
+    "alias": "soumettre-article",
+    "menutype": "usermenu"
+  },
+  {
+    "name": "Soumettre un lien",
+    "alias": "soumettre-lien",
+    "menutype": "usermenu"
+  },
+  {
+    "name": "Liste des séminaires passés",
+    "alias": "liste-seminaires-passes",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Supports de cours",
+    "alias": "enseignement",
+    "menutype": "ressources"
+  },
+  {
+    "name": "Devenir des anciens doctorants",
+    "alias": "anciens-doctorants",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Adhérer",
+    "alias": "adhesion",
+    "menutype": "association"
+  },
+  {
+    "name": "Qui sommes-nous ?",
+    "alias": "statutsmembres",
+    "menutype": "association"
+  },
+  {
+    "name": "Logiciels",
+    "alias": "logiciels",
+    "menutype": "ressources"
+  },
+  {
+    "name": "La Programmation par Contraintes et la Programmation Logique",
+    "alias": "ppcpl",
+    "menutype": "ressources"
+  },
+  {
+    "name": "Emplois",
+    "alias": "emploi",
+    "menutype": "ressources"
+  },
+  {
+    "name": "Dernières nouvelles",
+    "alias": "news",
+    "menutype": "topmenu"
+  },
+  {
+    "name": "Sites des JFPC",
+    "alias": "jfpc",
+    "menutype": "externes"
+  },
+  {
+    "name": "La PPC sur Wikipedia",
+    "alias": "ppcwikipedia",
+    "menutype": "externes"
+  },
+  {
+    "name": "Emplois",
+    "alias": "emplois",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Conseil d'administration",
+    "alias": "ca",
+    "menutype": "association"
+  },
+  {
+    "name": "Événements divers",
+    "alias": "evenements",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Ouvrages parus",
+    "alias": "ouvrages",
+    "menutype": "mainmenu"
+  },
+  {
+    "name": "Créer un compte sur le site",
+    "alias": "creercompte",
+    "menutype": "topmenu"
+  },
+  {
+    "name": "Conseils pour contribuer",
+    "alias": "soumission",
+    "menutype": "usermenu"
+  },
+  {
+    "name": "Listes de diffusion",
+    "alias": "listes-de-diffusion-et-dinformation",
+    "menutype": "association"
+  }
+]
