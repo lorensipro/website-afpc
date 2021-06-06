@@ -12,4 +12,8 @@ with open(filein, 'rt') as jf:
     for entry in data:
         name = dirout + entry["alias"] + ".html"
         with open(name, "wt") as of:
+            of.write("---\n")
+            d = entry["date"]
+            of.write(f"date_content: {d}\n")
+            of.write("---\n")
             of.write(entry["introtext"])
