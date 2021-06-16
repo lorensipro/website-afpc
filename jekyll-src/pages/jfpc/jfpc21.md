@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Actualités et News autour de l'AFPC"
-subheadline: "Dernières informations et actualités autour de la programmation par Contraintes"
+title: "L'édition 2021 des Journées Francophones de Programmation par Contraintes"
+subheadline: "La rencontre de la recherche autour de la PPC"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/actualites/"
+permalink: "/jfpc/2021"
 ---
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.

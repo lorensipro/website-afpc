@@ -1,11 +1,12 @@
 ---
 layout: page
 show_meta: false
-title: "Actualités et News autour de l'AFPC"
-subheadline: "Dernières informations et actualités autour de la programmation par Contraintes"
+title: "Statut de l'AFPC"
+subheadline: "Les Statuts de l'Association Française de programmation par Contraintes"
+teaser: "Statuts de l'AFPC, société scientifique"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/actualites/"
+permalink: "/presentation/association"
 ---
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.

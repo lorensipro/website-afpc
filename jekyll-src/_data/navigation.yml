@@ -39,7 +39,7 @@
     - title: "les Actes des JFPCS"
       url: "/jfpc/actes"
     - title: "Anciennes éditions"
-      url: "/jfpcs/anciennes-editions"
+      url: "/jfpc/anciennes-editions"
 
 - title: "Ressources"
   url: "/ressources/"
@@ -52,10 +52,6 @@
     - title: "Soumettre un lien"
       url: "/ressources/soumettre"
 
-- title: "Chercher"
-  url: "/recherche/"
-  side: right
-
 - title: "Contacts"
-  url: "/contacts/"
+  url: "/presentation/contacts/"
   side: right

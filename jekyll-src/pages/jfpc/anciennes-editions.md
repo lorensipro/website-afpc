@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Actualités et News autour de l'AFPC"
-subheadline: "Dernières informations et actualités autour de la programmation par Contraintes"
+title: "Les anciennes éditions des JFPC"
+subheadline: "Retrouvez toutes les anciennes éditions des JFPC"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/actualites/"
+permalink: "/jfpc/anciennes-editions"
 ---
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.

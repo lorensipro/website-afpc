@@ -6,7 +6,9 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+#  image_fullwidth: header_unsplash_12.jpg
+   text: "
+<p>L'AFPC (Association Française pour la Programmation par Contraintes) est association de loi 1901. Sa vocation est de réunir toutes les personnes s'intéressant, professionnellement ou non, à la <a href=\"http://fr.wikipedia.org/wiki/Programmation_par_contraintes\">programmation par contraintes</a> : son étude, ses fondements théoriques, ses applications, son évolution, son enseignement et sa diffusion. Les domaines couverts incluent : la programmation en logique, la programmation par contraintes et leurs extensions, la logique, les problèmes de satisfaction de contraintes discrets et continus (SAT, CSP), la programmation mathématique et l'optimisation combinatoire.</p>\r\n<p>L'AFPC est née le 21 juin 2004 de la fusion de l'AFPLC (Association Française de Programmation Logique et de Programmation par Contraintes) et de la communauté animée par la conférence JNPC (Journées sur la résolution pratique de Problèmes NP-Complets).</p>"
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -43,6 +45,8 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+<p>L'AFPC (Association Française pour la Programmation par Contraintes) est association de loi 1901. Sa vocation est de réunir toutes les personnes s'intéressant, professionnellement ou non, à la <a href="http://fr.wikipedia.org/wiki/Programmation_par_contraintes">programmation par contraintes</a> : son étude, ses fondements théoriques, ses applications, son évolution, son enseignement et sa diffusion. Les domaines couverts incluent : la programmation en logique, la programmation par contraintes et leurs extensions, la logique, les problèmes de satisfaction de contraintes discrets et continus (SAT, CSP), la programmation mathématique et l'optimisation combinatoire.</p>\r\n<p>L'AFPC est née le 21 juin 2004 de la fusion de l'AFPLC (Association Française de Programmation Logique et de Programmation par Contraintes) et de la communauté animée par la conférence JNPC (Journées sur la résolution pratique de Problèmes NP-Complets).</p>
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

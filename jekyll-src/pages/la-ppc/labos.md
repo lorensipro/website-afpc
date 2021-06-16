@@ -1,11 +1,10 @@
 ---
 layout: page
 show_meta: false
-title: "Actualités et News autour de l'AFPC"
-subheadline: "Dernières informations et actualités autour de la programmation par Contraintes"
+title: "La Recherche en Programmation par Contraintes"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/actualites/"
+permalink: "/ppc/labos"
 ---
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
