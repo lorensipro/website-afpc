@@ -4,7 +4,7 @@ show_meta: false
 title: "L'édition 2021 des Journées Francophones de Programmation par Contraintes"
 subheadline: "La rencontre de la recherche autour de la PPC"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: jfpc-amphi-2015.jpg
 permalink: "/jfpc/2021"
 ---
 1. Open `_config.yml` and work it through, it's well documented

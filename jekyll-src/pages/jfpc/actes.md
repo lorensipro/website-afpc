@@ -4,7 +4,7 @@ show_meta: false
 title: "Actes Scientifiques des JFPC"
 subheadline: "Retrouvez les articles publiés aux JFPC"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: jfpc-amphi-2015.jpg
 permalink: "/jfpc/actes"
 ---
 1. Open `_config.yml` and work it through, it's well documented
