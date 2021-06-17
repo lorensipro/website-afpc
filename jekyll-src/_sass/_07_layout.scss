@@ -88,6 +88,14 @@ body.video cite { color: #fff; }
 #masthead-no-image-header #logo img {
     margin-top: 60px;
 }
+#masthead-slogan {
+    text-align: center;
+    font-size: rem-calc(36);
+    font-family: $header-font-family;
+    color: #a00;
+    text-shadow: 0 2px 3px rgba(0,0,0,.4);
+    background-color: rgba(255,255,255,.8);
+}
 
 /* Masthead › small-only
 ------------------------------------------------------------------- */
