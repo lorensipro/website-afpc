@@ -5,6 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+slogan: Association Française pour la Programmation par Contraintes
 header:
    image_fullwidth: header-schemas.jpg
    text: "
@@ -13,17 +14,17 @@ widget1:
   title: "La PPC, c'est quoi ?"
   url: '/ppc/'
   image: "widget-puzzle.png"
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: "La programmation par Contraintes (PPC pour les intimes) est considérée comme le <strong>graal</strong> de la programmation. Vous décrivez votre problème et la PPC le résoud. Découvrez ce qui se cache derrière et pourquoi il s'agit d'un domaine très important et très actif en Intelligence Artificielle, depuis plus de 60 ans !"
 widget2:
   title: "Les JFPC"
   url: '/jfpc/'
   image: "jfpc/jfpc-amphi-2015-thumb.png"
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: "L'AFPC organise son évènement scientifique annuel autour des Journées Francophones de Programmation par Contraintes. Durant 3 à 4 jours, les chercheurs du domaine se rencontrent et échangent autour de leurs derniers travaux, qu'ils soient originaux ou pubiés récemment dans les meilleurs conférences internationales.  C'est aussi l'occasion pour les jeunes chercheurs du domaine de faire connaissance avec la communauté grâce à une forte convivialité qui entoure ces rencontres."
 widget3:
   title: "Travaux autour de la PPC"
   url: '/ressources/'
   image: widget-travaux.png
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: "La communauté francophone est très active au niveau international et ces journées sont aussi l'occasion de présenter les meilleurs résultats publiés dans les conférences internationales de renom."
 #
 # Use the call for action to show a button on the frontpage
 #

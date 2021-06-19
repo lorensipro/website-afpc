@@ -2,6 +2,7 @@
 layout: page
 show_meta: false
 title: "AFPC: contactez nous"
+slogan: "Contactez-nous"
 subheadline: "Comment contacter l'Association Française de programmation par Contraintes"
 teaser: "Contacter l'AFPC"
 header:

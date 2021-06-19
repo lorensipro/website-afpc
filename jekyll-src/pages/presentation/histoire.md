@@ -2,6 +2,7 @@
 layout: page
 show_meta: false
 title: "Histoire de l'AFPC"
+slogan: "Histoire de l'AFPC"
 subheadline: "Histoire de l'Association Française de programmation par Contraintes"
 teaser: "Histoire de l'AFPC, société scientifique"
 header:

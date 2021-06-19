@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "La Journées Francophones de Programmation par Contraintes"
 subheadline: "Les Rencontres annuelles de la recherche autour de la PPC"
+slogan: "Les Rencontres annuelles de la recherche autour de la PPC"
 header:
    image_fullwidth: jfpc-amphi-2015.jpg
 permalink: "/jfpc/"
