@@ -1,0 +1,136 @@
+- type: "d'organisation"
+  presidence:
+    - name: Arnaud Malapert
+      institution: Université Côte d'Azur
+      website: http://i3s.unice.fr/~malapert/
+    - name: Marie Pelleau
+      institution: Université Côte d'Azur
+      website: http://i3s.unice.fr/~mpelleau/
+  autre:
+    - name: Elisabetta De Maria
+      institution: Université Côte d'Azur
+      website: https://www.i3s.unice.fr/~edemaria/index.html
+    - name: Arthur Finkelstein
+      institution: Instant System, Université Côte d'Azur
+    - name: Rémy Garcia
+      institution: Université Côte d'Azur
+      website: http://www.i3s.unice.fr/~garciar/
+    - name: Loïc Germerie
+      institution: Université Côte d'Azur
+    - name: Nicolas Isoart
+      institution: Université Côte d'Azur
+      website: http://www.i3s.unice.fr/~isoart/
+    - name: Victor Jung
+      institution: Université Côte d'Azur
+    - name: Laetitia Laversa
+      institution: Université Côte d'Azur
+      website: https://www.i3s.unice.fr/~laversa/
+    - name: Jean-Charles Régin
+      institution: Université Côte d'Azur
+      website: http://www.constraint-programming.com/people/regin/
+    - name: Sara Riva
+      institution: Université Côte d'Azur
+      website: https://www.i3s.unice.fr/~riva/
+
+- type: "scientifique"
+  presidence:
+    - name: Philippe Vismara
+      institution: Montpellier SupAgro
+#      website: http://www.lirmm.fr/~vismara/accueil.php
+  autre:
+    - name: David Allouche 
+      institution: INRAE Toulouse
+#      website: https://miat.inrae.fr/dallouche/
+    - name: Noureddine Aribi
+      institution: Université d'Oran, Algérie
+#      website: https://univ-oran.academia.edu/NourredineYahia/
+    - name: Gilles Audemard 
+      institution: CRIL, Lens
+#      website: http://www.cril.univ-artois.fr/~audemard/
+    - name: Vincent Barichard 
+      institution: LERIA, Université d'Angers
+#      website: 
+    - name: Mohamed-Bachir Belaid
+      institution: Simula Research Laboratory, Norvège
+#      website: https://www.simula.no/people/bachir/
+    - name: Quentin Cappart 
+      institution: École Polytechnique de Montréal, Canada
+#      website: 
+    - name: Clément Carbonnel 
+      institution: LIRMM, Montpellier
+#      website: http://www.lirmm.fr/~ccarbonnel/
+    - name: Thi-Bich-Hanh Dao 
+      institution: LIFO, Université d'Orléans
+#      website: http://www.univ-orleans.fr/lifo/Members/dao/
+    - name: Simon De Givry 
+      institution: INRAE Toulouse
+#      website: https://miat.inrae.fr/degivry/
+    - name: Sophie Demassey 
+      institution: CMA, MINES ParisTech, Sophia Antipolis
+#      website: https://sofdem.github.io/
+    - name: Redouane Ezzahir
+      institution: Université Ibn Zohr, Agadir, Maroc
+#      website: 
+#    - name: Jean-Guillaume Fages
+#      institution: COSLING, Nantes
+#      website: 
+    - name: Carmen Gervet
+      institution: Espace Dev, Montpellier
+#      website: https://sites.google.com/site/cgervet/home/
+    - name: Gaël Glorian 
+      institution: CRIL, Lens
+#      website: http://www.cril.univ-artois.fr/~glorian/
+    - name: Ratheil Houndji 
+      institution: Université d'Abomey-Calavi, Bénin
+#      website: https://ratheil.info/
+#    - name: Jean-Marie Lagniez
+#      institution: Huawei France
+#      website: 
+    - name: Frederic Lardeux 
+      institution: LERIA, Université d'Angers
+#      website: http://www.info.univ-angers.fr/~lardeux/
+    - name: Christophe Lecoutre 
+      institution: CRIL, Lens
+#      website: https://www.cril.univ-artois.fr/~lecoutre/
+    - name: Chu-Min Li 
+      institution: MIS, Université de Picardie Jules Verne, Amiens
+#      website: https://home.mis.u-picardie.fr/~cli/
+    - name: Arnaud Malapert
+      institution: Université Côte d'Azur
+#      website: http://i3s.unice.fr/~malapert/
+    - name: Margaux Nattaf 
+      institution: G-SCOP, INP Grenoble
+#      website: 
+    - name: Bertrand Neveu
+      institution: Ecole des Ponts ParisTech
+#      website: http://imagine.enpc.fr/~neveub/
+#    - name: Alexandre Niveau 
+#      institution: GREYC, Université de Caen
+#      website: https://niveau.users.greyc.fr/
+    - name: Abdelkader Ouali
+      institution: GREYC, Université Caen
+#      website: 
+    - name: Anastasia Paparrizou 
+      institution: CRIL, Lens
+#      website: http://www.cril.univ-artois.fr/~paparrizou/
+    - name: Eric Piette 
+      institution: Maastricht University, Pays-Bas
+#      website: http://piette.info/eric/
+    - name: Nicolas Prcovic
+      institution: LIS, Marseille
+#      website: http://piette.info/eric/
+    - name: Laurent Simon 
+      institution: LABRI, Bordeaux
+#      website: https://www.labri.fr/perso/lsimon/
+#    - name: Gilles Simonin
+#      institution: IMT Atlantique, Nantes
+#      website: 
+    - name: Christine Solnon 
+      institution: INSA Lyon
+#      website: https://perso.liris.cnrs.fr/christine.solnon/
+#    - name: Nicolas Szczepanski
+#      institution: CRIL, Lens
+#      website: http://www.cril.univ-artois.fr/~szczepanski/home_fr.html
+    - name: Julien Vion
+      institution: LAMIH, Valenciennes
+#      website: https://www.uphf.fr/LAMIH/en/membre?id=vion_julien
