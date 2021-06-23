@@ -25,7 +25,8 @@ author: CA de l'AFPC
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://localhost:4000'
+#url: 'http://localhost:4000'
+url: 'http://www.afpc-asso.org'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +39,8 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://localhost:4000/images/'
+#urlimg: 'http://localhost:4000/images/'
+urlimg: 'http://www.afpc-asso.org/images/'
 
 
 # Logo size is 600x80 pixels
@@ -77,6 +79,7 @@ exclude:
     - README.md
     - INSTALL.md
     - vendor
+    - launch-in-docker.sh
 
 
 # The language setting is used in /includes/header.html for html-settings
@@ -112,17 +115,18 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: AFPC     # Default author for pages
   -
     scope:
       path: ''
       type: 'posts'
+      path: _posts
     values:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
-
+      author: AFPC     # Default author for posts
+      permalink: /news/:categories/:title
 
 
 #       _   __            _             __  _
