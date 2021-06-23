@@ -1,0 +1,10 @@
+
+{% assign editions = include.editions %}
+
+{% for edition in editions -%}
+  {%- if edition.website %} 
+  - [{{ edition.lieu }}]({{ edition.website }}) -- ({{ edition.annee }})
+  {%- else %} 
+  - {{ edition.lieu }} ({{ edition.annee }}) 
+  {%- endif -%}
+{%- endfor %}
