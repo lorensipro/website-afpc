@@ -1,25 +1,18 @@
 ---
 layout: page
 show_meta: false
-title: "La Journées Francophones de Programmation par Contraintes"
+title: "Les Journées Francophones de Programmation par Contraintes"
 subheadline: "Les Rencontres annuelles de la recherche autour de la PPC"
 slogan: "Les Rencontres annuelles de la recherche autour de la PPC"
 header:
    image_fullwidth: jfpc-amphi-2015.jpg
 permalink: "/jfpc/"
 ---
-1. Open `_config.yml` and work it through, it's well documented
-1. Add your own `logo.png` to `/assets/img/`.
-1. Open `_data/socialmedia.yml` and add your own social media links.
-1. Open `_data/navigation.yml` and customize your navigation.
-1. Open `_data/language.yml` and translate the theme if necessary.
-1. Open `_data/services.yml` and customize links in the footer.
-1. Open `_data/network.yml` and customize links in the footer.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-1. Make it yours and add your own content.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+Depuis 2005, les Journées Francophones de Programmation par Contraintes (JFPC)) sont le principal congrès de la communauté francophone travaillant sur les problèmes de satisfaction de contraintes (CSP), le problème de la satisfiabilité d'une formule logique propositionnelle (SAT) et/ou la programmation logique avec contraintes (CLP). La communauté de programmation par contraintes entretient également des liens avec la recherche opérationnelle (RO), l'analyse par intervalles et différents domaines de l'intelligence artificielle.
 
+L'efficacité des méthodes de résolution et l'extension des modèles permettent à la programmation par contraintes de s'attaquer à des applications nombreuses et variées comme la logistique, l'ordonnancement de tâches, la conception d'emplois du temps, la conception en robotique, l'étude du génôme en bio-informatique, l'optimisation de pratiques agricoles, etc.
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+Les JFPC attirent une audience internationale, à travers la participation de chercheurs étrangers, principalement en provenance de Belgique, du Canada, des pays du Maghreb, et de l’Afrique francophone.
+
+Les JFPC se veulent un lieu convivial de rencontres, de discussions et d'échanges pour la communauté francophone, en particulier entre doctorants, chercheurs confirmés et industriels. L'importance des JFPC est reflétée par la part considérable (environ un tiers) de la communauté francophone dans la recherche mondiale dans ce domaine.
