@@ -5,6 +5,6 @@ Site web de l'AFPC
 
 Pour initialiser votre kekyll local: `bundle install`
 
-Puis pour servir le jekyll: `bundle exec jekyll serve`
+Puis pour servir le jekyll: `bundle exec jekyll serve --config _config.yml,_config_dev.yml`
 
 
