@@ -10,4 +10,4 @@ permalink: "/jfpc/2021"
 
 La toute dernière édition des JFPC a eu lieu à Nice (non, sur Zoom).
 
-Parfois la résolution de contraintes prend du temps... Le site est encore (temporairement) en cours de construction et cette page ne devrait pas tarder à être remplie de jolies choses.
+{% include messageConstruction %}

@@ -6,3 +6,5 @@ header:
    image_fullwidth: header-schemas.jpg
 permalink: "/ppc/international"
 ---
+
+{% include messageConstruction %}
