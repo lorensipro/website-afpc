@@ -8,7 +8,7 @@
   dropdown:
     - title: "Histoire de l'AFPC"
       url: "/presentation/histoire"
-    - title: "Status, Bureau, CA"
+    - title: "Statuts, Bureau, CA"
       url: "/presentation/association"
     - title: "Adhésion"
       url: "/presentation/adhesion"
