@@ -19,12 +19,12 @@ widget2:
   title: "Les JFPC"
   url: '/jfpc/'
   image: "jfpc/jfpc-amphi-2015-thumb.png"
-  text: "L'AFPC organise son évènement scientifique annuel autour des Journées Francophones de Programmation par Contraintes. Durant 3 à 4 jours, les chercheurs du domaine se rencontrent et échangent autour de leurs derniers travaux, qu'ils soient originaux ou pubiés récemment dans les meilleurs conférences internationales.  C'est aussi l'occasion pour les jeunes chercheurs du domaine de faire connaissance avec la communauté grâce à une forte convivialité qui entoure ces rencontres."
+  text: "L'AFPC organise son évènement scientifique annuel autour des Journées Francophones de Programmation par Contraintes. Durant 3 à 4 jours, les chercheurs du domaine se rencontrent et échangent autour de leurs derniers travaux, qu'ils soient originaux ou publiés récemment dans les meilleurs conférences internationales.  C'est aussi l'occasion pour les jeunes chercheurs du domaine de faire connaissance avec la communauté grâce à une forte convivialité qui entoure ces rencontres."
 widget3:
   title: "Travaux autour de la PPC"
   url: '/ressources/'
   image: widget-travaux.png
-  text: "La communauté francophone est très active au niveau international et ces journées sont aussi l'occasion de présenter les meilleurs résultats publiés dans les conférences internationales de renom."
+  text: "La communauté francophone est très active au niveau international et ses travaux comptent parmi les meilleurs au niveau mondial. Vous pouvez retrouver ici les thèses de doctorat et les habilitations à diriger les recherchesces journées sont aussi l'occasion de présenter les meilleurs résultats publiés dans les conférences internationales de renom."
 #
 # Use the call for action to show a button on the frontpage
 #
