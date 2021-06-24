@@ -7,4 +7,4 @@ header:
 permalink: "/ressources/documents"
 ---
 
-{% include messageConstruction %}
+{% include list_memoires %}

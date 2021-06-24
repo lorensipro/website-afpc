@@ -1,4 +1,9 @@
-- annee : 2017
+- annee: 2021
+- annee: 2020
+- annee: 2019
+- annee: 2018
+- annee: 2017
+  publis:
   - titre: Programmation par contraintes et découverte de motifs sur données séquentielles
     pdf: vigneron
     auteurs: Vincent Vigneron
@@ -6,6 +11,7 @@
     link: https://tel.archives-ouvertes.fr/tel-01758047v1
 
 - annee: 2016
+  publis:
   - titre: "Classes polynomiales du problème CSP : entre théorie et pratique"
     pdf: terrioux_hdr
     auteurs: Cyril Terrioux
@@ -30,6 +36,7 @@
     lieu: Université d'Artois
 
 - annee: 2015
+  publis:
   - titre: "Optimisation booléenne multiobjectif : complexité sous contraintes compilées et résolution via SAT"
     pdf: lonca
     auteurs: Emmanuel Lonca
