@@ -1,10 +1,14 @@
 
+## \--- 2017 --
+
 - titre: Programmation par contraintes et découverte de motifs sur données séquentielles
   pdf: vigneron
   auteurs: Vincent Vigneron
   lieu: Université d’Angers
   link: https://tel.archives-ouvertes.fr/tel-01758047v1
   annee: 2017
+
+## \--- 2016 --
 
 - titre: "Classes polynomiales du problème CSP : entre théorie et pratique"
   pdf: terrioux_hdr
@@ -33,6 +37,8 @@
   lieu: Université d'Artois
   annee: 2016
 
+## \--- 2015 --
+
 - titre: "Optimisation booléenne multiobjectif : complexité sous contraintes compilées et résolution via SAT"
   pdf: lonca
   auteurs: Emmanuel Lonca
@@ -52,807 +58,540 @@
   lieu: Université d'Artois
   annee: 2015
 
-- titre: "Configuration interactive et Contraintes : Connaissances, Filtrage et Extensions"
+- titre: "Configuration interactive et Contraintes : Connaissances
+  lieu: Filtrage et Extensions"
   pdf: vareilles_hdr
   auteurs: Élise Vareilles
   lieu: Institut National Polytechnique de Toulouse
   hdr: true
   annee: 2015
   link: https://tel.archives-ouvertes.fr/tel-01319053v1
-#
-#
-#
-#### Max-résolution et apprentissage pour la résolution du problème de
-#satisfiabilité maximum [[pdf]](memoire/abrame.pdf)
-#
-#
-#
-#André Abramé, Université d'Aix-Marseille, 2015
-#
-#
-#
-#### Strong consistencies for Weighted Constraint Satisfaction Problems
-#[[pdf]](memoire/hiep_nguyen.pdf)
-#
-#
-#
-#Thi Hong Hiep Nguyen, Université Toulouse, 2015
-#
-#
-#
-#### Search, propagation, and learning in sequencing and scheduling problems
-#[[pdf]](memoire/siala.pdf)
-#
-#
-#
-#Mohamed Siala, INSA de Toulouse, 2015
-#
-#
-#
-#### Hybridation d’algorithmes évolutionnaires et de méthodes d’intervalles
-#pour l’optimisation de problèmes difficiles [[pdf]](memoire/vanaret.pdf)
-#
-#
-#
-#Charlie Vanaret, Université de Toulouse, 2015
-#
-#
-#
+
+- titre: Max-résolution et apprentissage pour la résolution du problème de satisfiabilité maximum
+  pdf: abrame
+  auteurs: André Abramé
+  lieu: Université d'Aix-Marseille
+  annee: 2015
+
+- titre: Strong consistencies for Weighted Constraint Satisfaction Problems
+  pdf: hiep_nguyen
+  auteurs: Thi Hong Hiep Nguyen
+  lieu: Université Toulouse
+  annee: 2015
+
+- titre: Search, propagation, and learning in sequencing and scheduling problems
+  pdf: siala
+  auteurs: Mohamed Siala
+  lieu: INSA de Toulouse
+  annee: 2015
+
+- titre: Hybridation d’algorithmes évolutionnaires et de méthodes d’intervalles pour l’optimisation de problèmes difficiles
+  pdf: vanaret
+  auteurs: Charlie Vanaret
+  lieu: Université de Toulouse
+  annee: 2015
+
 ## \--- 2014 ---
-#
-#
-#
-#### Contrôle de la Propagation et de la Recherche dans un Solveur de
-#Contraintes [[pdf]](memoire/prudhomme.pdf)
-#
-#
-#
-#Charles Prud’Homme, Université de Nantes Angers Le Mans, 2014
-#
-#
-#
-#### Classes polynomiales pour CSP : de la théorie à la pratique
-#[[pdf]](memoire/elmouelhi.pdf)
-#
-#
-#
-#Achref el Mouelhi, Université d'Aix-Marseille, 2014
-#
-#
-#
-#### La substituabilité et la cohérence de tuples pour les réseaux de
-#contraintes pondérées [[pdf]](memoire/dehani.pdf)
-#
-#
-#
-#Djamel-Eddine Dehani, Université d'Artois, 2014
-#
-#
-#
-#### Exploitation de structures de graphe en programmation par contraintes
-#[[pdf]](memoire/fages.pdf)
-#
-#
-#
-#Jean-Guillaume Fages, l’Université de Nantes Angers Le Mans, 2014
-#
-#
-#
-#### Contributions à la résolution du problème de la Satisfiabilité
-#Propositionnelle [[pdf]](memoire/lonlac.pdf)
-#
-#
-#
-#Jerry Garvin Lonlac Konlac, Université d'Artois, 2014
-#
-#
-#
-#### Constraint Games: Modeling and Solving Games with Constraints
-#[[pdf]](memoire/nguyen.pdf)
-#
-#
-#
-#Thi Van Anh Nguyen, Université de Caen Basse-Normandie, 2014
-#
-#
-#
-#### Extraction de motifs sous contraintes souples, Université de Caen Basse-
-#Normandie [[pdf]](memoire/rojas.pdf)
-#
-#
-#
-#Willy Ugarte Rojas, Université de Caen Basse-Normandie, 2014
-#
-#
-#
-#### Intégration de techniques CSP pour la résolution du problème WCSP
-#[[pdf]](memoire/nicolasparis.pdf)
-#
-#
-#
-#Nicolas Paris, Université d'Artois, 2014
-#
-#
-#
-#### Solving the Boolean Satisfiability problem using the parallel paradigm
-#[[pdf]](memoire/hoessen.pdf)
-#
-#
-#
-#Benoît Hoessen, Université d'Artois, 2014
-#
-#
-#
-#### Constrained Clustering by Constraint Programming
-#[[pdf]](memoire/duong.pdf)
-#
-#
-#
-#Khanh-Chuong Duong, Université d'Orléans, 2014
-#
-#
-#
-#### Conception interactive d’environnements urbains durables à base de
-#résolution de contraintes [[pdf]](memoire/belin.pdf)
-#
-#
-#
-#Bruno Belin, Université de Nantes, Angers, Le Mans, 2014
-#
-#
-#
+
+- titre: Contrôle de la Propagation et de la Recherche dans un Solveur de Contraintes 
+  pdf: prudhomme
+  auteurs: Charles Prud’Homme
+  lieu: Université de Nantes Angers Le Mans
+  annee: 2014
+
+- titre: "Classes polynomiales pour CSP : de la théorie à la pratique"
+  pdf: elmouelhi
+  auteurs: Achref el Mouelhi
+  lieu: Université d'Aix-Marseille
+  annee: 2014
+
+- titre: La substituabilité et la cohérence de tuples pour les réseaux de contraintes pondérées 
+  pdf: dehani
+  auteurs: Djamel-Eddine Dehani
+  lieu: Université d'Artois
+  annee: 2014
+
+- titre: Exploitation de structures de graphe en programmation par contraintes
+  pdf: fages
+  auteurs: Jean-Guillaume Fages
+  lieu: l’Université de Nantes Angers Le Mans
+  annee: 2014
+
+- titre: Contributions à la résolution du problème de la Satisfiabilité Propositionnelle 
+  pdf: lonlac
+  auteurs: Jerry Garvin Lonlac Konlac
+  lieu: Université d'Artois
+  annee: 2014
+
+- titre: "Constraint Games: Modeling and Solving Games with Constraints"
+  pdf: nguyen
+  auteurs: Thi Van Anh Nguyen
+  lieu: Université de Caen Basse-Normandie
+  annee: 2014
+
+- titre: Extraction de motifs sous contraintes souples
+  pdf: rojas
+  auteurs: Willy Ugarte Rojas
+  lieu: Université de Caen Basse-Normandie
+  annee: 2014
+
+- titre: Intégration de techniques CSP pour la résolution du problème WCSP
+  pdf: nicolasparis
+  auteurs: Nicolas Paris
+  lieu: Université d'Artois
+  annee: 2014
+
+- titre: Solving the Boolean Satisfiability problem using the parallel paradigm
+  pdf: hoessen
+  auteurs: Benoît Hoessen
+  lieu: Université d'Artois
+  annee: 2014
+
+- titre: Constrained Clustering by Constraint Programming
+  pdf: duong
+  auteurs: Khanh-Chuong Duong
+  lieu: Université d'Orléans
+  annee: 2014
+
+- titre: Conception interactive d’environnements urbains durables à base de résolution de contraintes 
+  pdf: belin
+  auteurs: Bruno Belin
+  lieu: Université de Nantes, Angers, Le Mans
+  annee: 2014
+
 ## \--- 2013 ---
-#
-#
-#
-#### Résolution séquentielle et parallèle du problème de la Satisfiabilité
-#propositionnelle [[pdf]](memoire/guo.pdf)
-#
-#
-#
-#Long Guo, Université d'Artois, 2013
-#
-#
-#
+
+- titre: Résolution séquentielle et parallèle du problème de la Satisfiabilité propositionnelle 
+  pdf: guo
+  auteurs: Long Guo
+  lieu: Université d'Artois
+  annee: 2013
+
 ## \--- 2012 ---
-#
-#
-#
-#### Assistance à l'agencement d'environnements virtuels : apport de la
-#programmation par contraintes [[pdf]](memoire/kefi.pdf)
-#
-#
-#
-#Marouene Kefi, Université Nantes Angers le Mans, 2012
-#
-#
-#
-#### Algorithms and Ordering Heuristics for Distributed Constraint Satisfaction
-#Problems [[pdf]](memoire/wahbi.pdf)
-#
-#
-#
-#Mohamed Wahbi, Université Montpellier 2 et Université Mohammed V-Agdal, Maroc,
-#2012
-#
-#
-#
-#### Mémoire d'habilitation à diriger des recherches
-#[[pdf]](memoire/madelaine_hdr.pdf)
-#
-#
-#
-#Florent Madelaine, Clermont Université, 2012
-#
-#
-#
+
+- titre: "Assistance à l'agencement d'environnements virtuels : apport de la programmation par contraintes"
+  pdf: kefi
+  auteurs: Marouene Kefi
+  lieu: Université Nantes Angers le Mans
+  annee: 2012
+
+- titre: Algorithms and Ordering Heuristics for Distributed Constraint Satisfaction Problems 
+  pdf: wahbi
+  auteurs: Mohamed Wahbi
+  lieu: Université Montpellier 2 et Université Mohammed V-Agdal, Maroc
+  annee: 2012
+
+- titre: Mémoire d'habilitation à diriger des recherches
+  pdf: madelaine_hdr
+  auteurs: Florent Madelaine
+  lieu: Clermont Université
+  annee: 2012
+
 ## \--- 2011 ---
-#
-#
-#
-#### Méthodologie et outil de Test, de localisation de fautes et de correction
-#automatique des programmes à contraintes [[pdf]](memoire/lazaar.pdf)
-#
-#
-#
-#Nadjib Lazaar, Université de Rennes 1, 2011
-#
-#
-#
-#### Recherche locale pour l'optimisation en variables mixtes : méthodologie et
-#applications industrielles [[pdf]](memoire/jeanjean.pdf)
-#
-#
-#
-#Antoine Jeanjean, Ecole Polytechnique, 2011
-#
-#
-#
-#### Automates et programmation par contraintes pour la planification de
-#personnel [[pdf]](memoire/menana.pdf)
-#
-#
-#
-#Julien Menana, Université de Nantes, 2011
-#
-#
-#
-#### LS(Graph): A constraint-based local search framework for constrained
-#optimum trees and paths problems on graphs [[pdf]](memoire/pham.pdf)
-#
-#
-#
-#Quang Dung Pham, Université Catholique de Louvain, 2011
-#
-#
-#
-#### Constraint-Based Very Large-Scale Neighborhood Search
-#[[pdf]](memoire/mouthuy.pdf)
-#
-#
-#
-#Sébastien Mouthuy, Louvain School of Engineering, 2011
-#
-#
-#
-#### Symétries locales et globales en logique propositionnelle et leurs
-#extensions aux logiques non monotones[[pdf]](memoire/nabhani.pdf)
-#
-#
-#
-#Tarek Nabhani, Université de Provence - Aix-Marseille I, 2011
-#
-#
-#
-#### Techniques d’ordonnancement d’atelier et de fournées basées sur la
-#programmation par contraintes[[pdf]](memoire/malapert.pdf)
-#
-#
-#
-#Arnaud Malapert, ENSTIM Nantes, 2011
-#
-#
-#
-#### Satisfiabilité propositionnelle et raisonnement par contraintes : modèles
-#et algorithmes[[pdf]](memoire/lagniez.pdf)
-#
-#
-#
-#Jean-Marie Lagniez, Université d'Artois, 2011
-#
-#
-#
-#### Aspects calculatoires de l'apprentissage, du raisonnement et de la
-#décision [[pdf]](memoire/zanuttini_hdr.pdf)
-#
-#
-#
-#Bruno Zanuttini, Université de Caen Basse-Normandie, 2011 (HDR)
-#
-#
-#
-#### Optimisation combinatoire dans les réseaux de fonctions de coût
-#[[pdf]](memoire/degivry_hdr.pdf)
-#
-#
-#
-#Simon de Givry, INRA UBIA Toulouse, 2011 (HDR)
-#
-#
-#
+
+- titre: Méthodologie et outil de Test, de localisation de fautes et de correction automatique des programmes à contraintes 
+  pdf: lazaar
+  auteurs: Nadjib Lazaar
+  lieu: Université de Rennes 1
+  annee: 2011
+
+- titre: "Recherche locale pour l'optimisation en variables mixtes : méthodologie et applications industrielles" 
+  pdf: jeanjean
+  auteurs: Antoine Jeanjean
+  lieu: Ecole Polytechnique
+  annee: 2011
+
+- titre: Automates et programmation par contraintes pour la planification de personnel 
+  pdf: menana
+  auteurs: Julien Menana
+  lieu: Université de Nantes
+  annee: 2011
+
+- titre: "LS(Graph): A constraint-based local search framework for constrained optimum trees and paths problems on graphs"
+  pdf: pham
+  auteurs: Quang Dung Pham
+  lieu: Université Catholique de Louvain
+  annee: 2011
+
+- titre: Constraint-Based Very Large-Scale Neighborhood Search
+  pdf: mouthuy
+  auteurs: Sébastien Mouthuy
+  lieu: Louvain School of Engineering
+  annee: 2011
+
+- titre: Symétries locales et globales en logique propositionnelle et leurs extensions aux logiques non monotones
+  pdf: nabhani
+  auteurs: Tarek Nabhani
+  lieu: Université de Provence - Aix-Marseille I
+  annee: 2011
+
+- titre: Techniques d’ordonnancement d’atelier et de fournées basées sur la programmation par contraintes
+  pdf: malapert
+  auteurs: Arnaud Malapert
+  lieu: ENSTIM Nantes
+  annee: 2011
+
+- titre: "Satisfiabilité propositionnelle et raisonnement par contraintes : modèles et algorithmes"
+  pdf: lagniez
+  auteurs: Jean-Marie Lagniez
+  lieu: Université d'Artois
+  annee: 2011
+
+- titre: "Aspects calculatoires de l'apprentissage, du raisonnement et de la décision"
+  pdf: zanuttini_hdr
+  auteurs: Bruno Zanuttini
+  lieu: Université de Caen Basse-Normandie
+  annee: 2011
+  hdr: true
+
+- titre: Optimisation combinatoire dans les réseaux de fonctions de coût
+  pdf: degivry_hdr
+  auteurs: Simon de Givry
+  lieu: INRA UBIA Toulouse
+  annee: 2011
+  hdr: true
+
 ## \--- 2010 ---
-#
-#
-#
-#### Intégration des problèmes de satisfaction de contraintes distribués et
-#sécurisés dans les systèmes d'aide à la décision à base de connaissance
-#[[pdf]](memoire/saad.pdf)
-#
-#
-#
-#Belaïd Saad, Université de Paul Verlaine - Metz, 2010
-#
-#
-#
-#### Solving Scheduling problems from High-Level Models
-#[[pdf]](memoire/monette.pdf)
-#
-#
-#
-#Jean-Noël Monette, Université Catholique de Louvain, 2010
-#
-#
-#
-#### Relaxation de contraintes globales : Mise en oeuvre et application
-#[[pdf]](memoire/metivier.pdf)
-#
-#
-#
-#Jean-Philippe Métivier, Université de Caen Basse-Normandie, 2010
-#
-#
-#
-#### Exploitation des sous-expressions communes et de la monotonie des
-#fonctions pour les algorithmes de ltrage sur intervalles
-#[[pdf]](memoire/araya.pdf)
-#
-#
-#
-#Ignacio Araya, Université de Nice-Sophia Antipolis, 2010
-#
-#
-#
-#### Résolution de problèmes autour de SAT [[pdf]](memoire/audemard_hdr.pdf)
-#
-#
-#
-#Gilles Audemard, Université d'Artois, 2010 (HDR)
-#
-#
-#
-#### Modélisation et résolution en programmation par contraintes de problèmes
-#mixtes continu/discret de satisfaction de contraintes et d’optimisation
-#[[pdf]](memoire/berger.pdf)
-#
-#
-#
-#Nicolas Berger, Université de Nantes, 2010
-#
-#
-#
-#### Tabu-NG : hybridation de programmation par contraintes et recherche
-#localle pour la résolution de CSP [[pdf]](memoire/dib.pdf)
-#
-#
-#
-#Mohammad Dib, Université de Technologie de Belfort-Montbéliard et Université
-#de Franche-Comté, 2010
-#
-#
-#
-#### Sat4j, un moteur libre de raisonnement en logique propositionnelle
-#[[pdf]](memoire/leberre_hdr.pdf)
-#
-#
-#
-#Daniel le Berre, Université d'Artois, 2010 (HDR)
-#
-#
-#
-#### Un Langage de Modélisation à base de Règles pour la Programmation Par
-#Contraintes [[pdf]](memoire/martin.pdf)
-#
-#
-#
-#Julien Pierre Martin, Université Pierre et Marie Curie, 2010
-#
-#
-#
-#### SAT et au-delà de SAT : Modèles et Algorithmes
-#[[pdf]](memoire/mazure_hdr.pdf)
-#
-#
-#
-#Bertrand Mazure, Université d'Artois, 2010 (HDR)
-#
-#
-#
-#### Optimisation sous contraintes par Intelligence Collective Auto-adaptative
-#[[pdf]](memoire/khichane.pdf)
-#
-#
-#
-#Madjid Khichane, Université Claude Bernard Lyon 1, 2010
-#
-#
-#
+
+- titre: Intégration des problèmes de satisfaction de contraintes distribués et sécurisés dans les systèmes d'aide à la décision à base de connaissance
+  pdf: saad
+  auteurs: Belaïd Saad
+  lieu: Université de Paul Verlaine - Metz
+  annee: 2010
+
+- titre: Solving Scheduling problems from High-Level Models
+  pdf: monette
+  auteurs: Jean-Noël Monette
+  lieu: Université Catholique de Louvain
+  annee: 2010
+
+- titre: "Relaxation de contraintes globales : Mise en oeuvre et application"
+  pdf: metivier
+  auteurs: Jean-Philippe Métivier
+  lieu: Université de Caen Basse-Normandie
+  annee: 2010
+
+- titre: Exploitation des sous-expressions communes et de la monotonie des fonctions pour les algorithmes de ltrage sur intervalles
+  pdf: araya
+  auteurs: Ignacio Araya
+  lieu: Université de Nice-Sophia Antipolis
+  annee: 2010
+
+- titre: Résolution de problèmes autour de SAT 
+  pdf: audemard_hdr
+  auteurs: Gilles Audemard
+  lieu: Université d'Artois
+  annee: 2010
+  hdr: true
+
+- titre: Modélisation et résolution en programmation par contraintes de problèmes mixtes continu/discret de satisfaction de contraintes et d’optimisation
+  pdf: berger
+  auteurs: Nicolas Berger
+  lieu: Université de Nantes
+  annee: 2010
+
+- titre: "Tabu-NG : hybridation de programmation par contraintes et recherche localle pour la résolution de CSP"
+  pdf: dib
+  auteurs: Mohammad Dib
+  lieu: Université de Technologie de Belfort-Montbéliard et Université de Franche-Comté
+  annee: 2010
+
+- titre: Sat4j, un moteur libre de raisonnement en logique propositionnelle
+  pdf: leberre_hdr
+  auteurs: Daniel le Berre
+  lieu: Université d'Artois
+  annee: 2010
+  hdr: true
+
+- titre: Un Langage de Modélisation à base de Règles pour la Programmation Par Contraintes 
+  pdf: martin
+  auteurs: Julien Pierre Martin
+  lieu: Université Pierre et Marie Curie
+  annee: 2010
+
+- titre: "SAT et au-delà de SAT : Modèles et Algorithmes"
+  pdf: mazure_hdr
+  auteurs: Bertrand Mazure
+  lieu: Université d'Artois
+  annee: 2010
+  hdr: true
+
+- titre: Optimisation sous contraintes par Intelligence Collective Auto-adaptative
+  pdf: khichane
+  auteurs: Madjid Khichane
+  lieu: Université Claude Bernard Lyon 1
+  annee: 2010
+
 ## \--- 2009 ---
-#
-#
-#
-#### Solving Balancing and Bin-Packing problems with Constraint Programming
-#[[pdf]](memoire/schaus.pdf)
-#
-#
-#
-#Pierre Schaus, Université Catholique de Louvain, 2009
-#
-#
-#
-#### Planification de coût optimal basée sur les CSP pondérés
-#[[pdf]](memoire/deroquemaurel.pdf)
-#
-#
-#
-#Marie de Roquemaurel, Université Toulouse III - Paul Sabatier, 2009
-#
-#
-#
-#### Langages et transformation de modèles en programmation par contraintes
-#[[pdf]](memoire/soto.pdf)
-#
-#
-#
-#Ricardo Soto, Université de Nantes, 2009
-#
-#
-#
-#### Résolution de systèmes d’équations : l’essor de la programmation par
-#contraintes sur intervalles [[pdf]](memoire/trombettoni_hdr.pdf)
-#
-#
-#
-#Gilles Trombettoni, Université de Nice, 2009
-#
-#
-#
-#### Optimisation par colonies de fourmis pour des problèmes d'optimisation
-#multi-objectif [[pdf]](memoire/alaya.pdf)
-#
-#
-#
-#Inès Alaya, Institut Supérieur de Gestion de Tunis, 2009
-#
-#
-#
+
+- titre: Solving Balancing and Bin-Packing problems with Constraint Programming
+  pdf: schaus
+  auteurs: Pierre Schaus
+  lieu: Université Catholique de Louvain
+  annee: 2009
+
+- titre: Planification de coût optimal basée sur les CSP pondérés
+  pdf: deroquemaurel
+  auteurs: Marie de Roquemaurel
+  lieu: Université Toulouse III - Paul Sabatier
+  annee: 2009
+
+- titre: Langages et transformation de modèles en programmation par contraintes
+  pdf: soto
+  auteurs: Ricardo Soto
+  lieu: Université de Nantes
+  annee: 2009
+
+- titre: "Résolution de systèmes d’équations : l’essor de la programmation par contraintes sur intervalles"
+  pdf: trombettoni_hdr
+  auteurs: Gilles Trombettoni
+  lieu: Université de Nice
+  annee: 2009
+  hdr: true
+
+- titre: Optimisation par colonies de fourmis pour des problèmes d'optimisation multi-objectif 
+  pdf: alaya
+  auteurs: Inès Alaya
+  lieu: Institut Supérieur de Gestion de Tunis
+  annee: 2009
+
 ## \--- 2008 ---
-#
-#
-#
-#### A Constraint Programming Approach to Subgraph Isomorphism
-#[[pdf]](memoire/zampelli.pdf)
-#
-#
-#
-#Stéphane Zampelli, Université Catholique de Louvain, 2008
-#
-#
-#
-#### De la Satisfiabilité Propositionnelle aux Formules Booléennes Quantifiées
-#[[pdf]](memoire/jabbour.pdf)
-#
-#
-#
-#Saïd Jabbour, Université d'Artois, 2008
-#
-#
-#
-#### Fermetures et modules dans les langages concurrents avec contraintes
-#fondés sur la logique linéaire [[pdf]](memoire/haemmerle.pdf)
-#
-#
-#
-#Rémy Haemmerlé, Université Paris Diderot, 2008
-#
-#
-#
+
+- titre: A Constraint Programming Approach to Subgraph Isomorphism
+  pdf: zampelli
+  auteurs: Stéphane Zampelli
+  lieu: Université Catholique de Louvain
+  annee: 2008
+
+- titre: De la Satisfiabilité Propositionnelle aux Formules Booléennes Quantifiées
+  pdf: jabbour
+  auteurs: Saïd Jabbour
+  lieu: Université d'Artois
+  annee: 2008
+
+- titre: Fermetures et modules dans les langages concurrents avec contraintes fondés sur la logique linéaire 
+  pdf: haemmerle
+  auteurs: Rémy Haemmerlé
+  lieu: Université Paris Diderot
+  annee: 2008
+
 ## \--- 2007 ---
-#
-#
-#
-#### Allocation et partage équitables de ressources indivisibles :
-#modélisation, complexité et algorithmique [[pdf]](memoire/bouveret.pdf)
-#
-#
-#
-#Sylvain Bouveret, Université de Toulouse/ISAE, 2007
-#
-#
-#
-#### Contraintes de Partitionnement de Graphe [[pdf]](memoire/lorca.pdf)
-#
-#
-#
-#Xavier Lorca, Université de Nantes, 2007
-#
-#
-#
-#### Calcul et exploitation de recouvrements acycliques pour la résolution de
-#(V)CSP [[pdf]](memoire/ndiaye.pdf)
-#
-#
-#
-#Samba Ndojh Ndiaye, Université Paul Cézanne, 2007
-#
-#
-#
-#### Résolution par satisfaction de contraintes appliquée à l'aide à la
-#décision en conception architecturale [[pdf]](memoire/chenouard.pdf)
-#
-#
-#
-#Raphaël Chenouard, École Nationale Supérieure d'Arts et Métiers, 2007
-#
-#
-#
-#### Techniques algorithmiques pour l'extraction de formules minimales
-#inconsistantes [[pdf]](memoire/piette.pdf)
-#
-#
-#
-#Cédric Piette, Université d'Artois, 2007
-#
-#
-#
-#### Exploiter les conflits pour réduire l'effort de recherche en satisfaction
-#de contraintes[[pdf]](memoire/tabary.pdf)
-#
-#
-#
-#Sébastien Tabary, Université d'Artois, 2007
-#
-#
-#
-#### Localisation d'ARN non-codants par réseaux de contraintes pondérées
-#[[pdf]](memoire/zytnicki.pdf)
-#
-#
-#
-#Matthias Zytnicki, Université de Toulouse, 2007
-#
-#
-#
-#### Contributions à la résolution générique des problèmes de satisfaction de
-#contraintes [[pdf]](memoire/vion.pdf)
-#
-#
-#
-#Julien Vion, Université d'Artois, 2007
-#
-#
-#
-#### Contribution à l'utilisation de la Programmation par Contraintes pour la
-#Recherche de Modèles Finis en Intelligence
-#Artificielle[[pdf]](memoire/kleiner.pdf)
-#
-#
-#
-#Mathias Kleiner, Université de la Méditerranée, 2007
-#
-#
-#
-#### Approches pour les problèmes SAT et CSP : ensembles strong backdoor,
-#voisinage consistant et forme normale généralisée [[pdf]](memoire/paris.pdf)
-#
-#
-#
-#Lionel Paris, Université de Provence, 2007
-#
-#
-#
+
+- titre: "Allocation et partage équitables de ressources indivisibles : modélisation"
+  lieu: complexité et algorithmique 
+  pdf: bouveret
+  auteurs: Sylvain Bouveret
+  lieu: Université de Toulouse/ISAE
+  annee: 2007
+
+- titre: Contraintes de Partitionnement de Graphe 
+  pdf: lorca
+  auteurs: Xavier Lorca
+  lieu: Université de Nantes
+  annee: 2007
+
+- titre: Calcul et exploitation de recouvrements acycliques pour la résolution de (V)CSP 
+  pdf: ndiaye
+  auteurs: Samba Ndojh Ndiaye
+  lieu: Université Paul Cézanne
+  annee: 2007
+
+- titre: Résolution par satisfaction de contraintes appliquée à l'aide à la décision en conception architecturale 
+  pdf: chenouard
+  auteurs: Raphaël Chenouard
+  lieu: École Nationale Supérieure d'Arts et Métiers
+  annee: 2007
+
+- titre: Techniques algorithmiques pour l'extraction de formules minimales inconsistantes 
+  pdf: piette
+  auteurs: Cédric Piette
+  lieu: Université d'Artois
+  annee: 2007
+
+- titre: Exploiter les conflits pour réduire l'effort de recherche en satisfaction de contraintes
+  pdf: tabary
+  auteurs: Sébastien Tabary
+  lieu: Université d'Artois
+  annee: 2007
+
+- titre: Localisation d'ARN non-codants par réseaux de contraintes pondérées
+  pdf: zytnicki
+  auteurs: Matthias Zytnicki
+  lieu: Université de Toulouse
+  annee: 2007
+
+- titre: Contributions à la résolution générique des problèmes de satisfaction de contraintes 
+  pdf: vion
+  auteurs: Julien Vion
+  lieu: Université d'Artois
+  annee: 2007
+
+- titre: Contribution à l'utilisation de la Programmation par Contraintes pour la Recherche de Modèles Finis en Intelligence Artificielle
+  pdf: kleiner
+  auteurs: Mathias Kleiner
+  lieu: Université de la Méditerranée
+  annee: 2007
+
+- titre: "Approches pour les problèmes SAT et CSP : ensembles strong backdoor, voisinage consistant et forme normale généralisée"
+  pdf: paris
+  auteurs: Lionel Paris
+  lieu: Université de Provence
+  annee: 2007
+
 ## \--- 2006 ---
-#
-#
-#
-#### Solving Constrained Graph Problems using Reachability Constraints based on
-#Transitive Closure and Dominators [[pdf]](memoire/quesada.pdf)
-#
-#
-#
-#Luis Quesada, Université Catholique de Louvain, 2006
-#
-#
-#
-#### The CP(Graph) Computation Domain in Constraint Programming
-#[[pdf]](memoire/dooms.pdf)
-#
-#
-#
-#Grégoire Dooms, Université Catholique de Louvain, 2006
-#
-#
-#
-#### Mesurer la similarité de graphes [[pdf]](memoire/sorlin.pdf)
-#
-#
-#
-#Sébastien Sorlin, Université Claude Bernard Lyon 1, 2006
-#
-#
-#
-#### Résolution de problèmes combinatoires par des approches fondées sur la
-#notion d'explication [[pdf]](memoire/cambazard.pdf)
-#
-#
-#
-#Hadrien Cambazard, Université de Nantes, 2006
-#
-#
-#
+
+- titre: Solving Constrained Graph Problems using Reachability Constraints based on Transitive Closure and Dominators 
+  pdf: quesada
+  auteurs: Luis Quesada
+  lieu: Université Catholique de Louvain
+  annee: 2006
+
+- titre: The CP(Graph) Computation Domain in Constraint Programming
+  pdf: dooms
+  auteurs: Grégoire Dooms
+  lieu: Université Catholique de Louvain
+  annee: 2006
+
+- titre: Mesurer la similarité de graphes 
+  pdf: sorlin
+  auteurs: Sébastien Sorlin
+  lieu: Université Claude Bernard Lyon 1
+  annee: 2006
+
+- titre: Résolution de problèmes combinatoires par des approches fondées sur la notion d'explication 
+  pdf: cambazard
+  auteurs: Hadrien Cambazard
+  lieu: Université de Nantes
+  annee: 2006
+
 ## \--- 2005 ---
-#
-#
-#
-#### Contraintes globales et heuristiques de recherche pour les CSPs continus
-#[[pdf]](memoire/batnini.pdf)
-#
-#
-#
-#Heikel Batnini, Université de Nice-Sophia Antipolis, 2005
-#
-#
-#
-#### Consistency Techniques for Test Data Generation
-#[[pdf]](memoire/transy.pdf)
-#
-#
-#
-#Nguyen Tran Sy, Université Catholique de Louvain, 2005
-#
-#
-#
-#### Conception et approches par propagation de contraintes : contribution à la
-#mise en oeuvre d'un outil d'aide interactif [[pdf]](memoire/vareilles.pdf)
-#
-#
-#
-#Elise Vareilles, Institut National Polytechnique de Toulouse, 2005
-#
-#
-#
-#### De la validité des formules booléennes quantifiées : étude de complexité
-#et exploitation de classes traitables au sein d'un prouveur
-#[[pdf]](memoire/letombe.pdf)
-#
-#
-#
-#Florian Letombe, Université d'Artois, 2005
-#
-#
-#
-#### Techniques de résolution de problèmes de satisfaction de contraintes
-#[[pdf]](memoire/neveu_hdr.pdf)
-#
-#
-#
-#Bertrand Neveu, Université de Nice - Sophia Antipolis, 2005 (HDR)
-#
-#
-#
-#### Contributions à la résolution pratique de problèmes combinatoires —des
-#fourmis et des graphes— [[pdf]](memoire/solnon_hdr.pdf)
-#
-#
-#
-#Christine Solnon, Université Claude Bernard Lyon 1, 2005 (HDR)
-#
-#
-#
+
+- titre: Contraintes globales et heuristiques de recherche pour les CSPs continus
+  pdf: batnini
+  auteurs: Heikel Batnini
+  lieu: Université de Nice-Sophia Antipolis
+  annee: 2005
+
+- titre: Consistency Techniques for Test Data Generation
+  pdf: transy
+  auteurs: Nguyen Tran Sy
+  lieu: Université Catholique de Louvain
+  annee: 2005
+
+- titre: "Conception et approches par propagation de contraintes : contribution à la mise en oeuvre d'un outil d'aide interactif"
+  pdf: vareilles
+  auteurs: Elise Vareilles
+  lieu: Institut National Polytechnique de Toulouse
+  annee: 2005
+
+- titre: "De la validité des formules booléennes quantifiées : étude de complexité et exploitation de classes traitables au sein d'un prouveur"
+  pdf: letombe
+  auteurs: Florian Letombe
+  lieu: Université d'Artois
+  annee: 2005
+
+- titre: Techniques de résolution de problèmes de satisfaction de contraintes
+  pdf: neveu_hdr
+  auteurs: Bertrand Neveu
+  lieu: Université de Nice - Sophia Antipolis
+  annee: 2005
+  hdr: true
+
+- titre: Contributions à la résolution pratique de problèmes combinatoires —des fourmis et des graphes— 
+  pdf: solnon_hdr
+  auteurs: Christine Solnon
+  lieu: Université Claude Bernard Lyon 1
+  annee: 2005
+  hdr: true
+
 ## \--- 2004 ---
-#
-#
-#
-#### Modélisation et Contraintes Globales en Programmation par Contraintes
-#[[pdf]](memoire/regin_hdr.pdf)
-#
-#
-#
-#Jean-Charles Régin, Université de Nice, 2004 (HDR)
-#
-#
-#
+
+- titre: Modélisation et Contraintes Globales en Programmation par Contraintes
+  pdf: regin_hdr
+  auteurs: Jean-Charles Régin
+  lieu: Université de Nice
+  annee: 2004
+  hdr: true
+
 ## \--- 2003 ---
-#
-#
-#
-#### Explications de retraits de valeurs en programmation par contraintes et
-#application au diagnostic déclaratif[[pdf]](memoire/lesaint.pdf)
-#
-#
-#
-#Willy Lesaint, Université d'Orléans, 2003
-#
-#
-#
-#### Résolution de problèmes combinatoires modélisés par des contraintes
-#quantifiées [[pdf]](memoire/bordeaux.pdf)
-#
-#
-#
-#Lucas Bordeaux, Université de Nantes, 2003
-#
-#
-#
-#### Problèmes de satisfaction de contraintes : une étude logique et
-#combinatoire [[pdf]](memoire/madelaine.pdf)
-#
-#
-#
-#Florent Madelaine, Université de Caen, 2003
-#
-#
-#
-#### Acquisition de connaissances et raisonnement en logique propositionnelle
-#[[pdf]](memoire/zanuttini.pdf)
-#
-#
-#
-#Bruno Zanuttini, Université de Caen Basse-Normandie, 2003
-#
-#
-#
+
+- titre: Explications de retraits de valeurs en programmation par contraintes et application au diagnostic déclaratif
+  pdf: lesaint
+  auteurs: Willy Lesaint
+  lieu: Université d'Orléans
+  annee: 2003
+
+- titre: Résolution de problèmes combinatoires modélisés par des contraintes quantifiées 
+  pdf: bordeaux
+  auteurs: Lucas Bordeaux
+  lieu: Université de Nantes
+  annee: 2003
+
+- titre: "Problèmes de satisfaction de contraintes : une étude logique et combinatoire"
+  pdf: madelaine
+  auteurs: Florent Madelaine
+  lieu: Université de Caen
+  annee: 2003
+
+- titre: Acquisition de connaissances et raisonnement en logique propositionnelle
+  pdf: zanuttini
+  auteurs: Bruno Zanuttini
+  lieu: Université de Caen Basse-Normandie
+  annee: 2003
+
 ## \--- Avant 2003 ---
-#
-#
-#
-#### Approches structurelles et coopératives pour la résolution des problèmes
-#de satisfaction de contraintes [[pdf]](memoire/terrioux.pdf)
-#
-#
-#
-#Cyril Terrioux, Université d'Aix-Marseille I, 2002
-#
-#
-#
-#### Étude de la compilation des langages logiques de programmation par
-#contraintes sur les domaines finis : le système clp(FD)
-#[[pdf]](memoire/diaz.pdf)
-#
-#
-#
-#Daniel Diaz, Université d'Orléans, 1995
-#
-#
-#
-#### A Constraint Satisfaction Approach for Enclosing Solutions to Initial
-#Value Problems for Parametric Ordinary Differential Equations
-#[[pdf]](memoire/janssen.pdf)
-#
-#
-#
-#Micha Janssen, Université Catholique de Louvain, 2001
-#
-#
-#
-#### Résolution du problème SAT et génération de modèles finis en logique du
-#premier ordre [[pdf]](memoire/audemard.pdf)
-#
-#
-#
-#Gilles Audemard, Université d'Aix-Marseille I, 2001
-#
-#
-#
-#### Langages et environnements en programmation par contraintes d’intervalles
-#[[pdf]](memoire/goualard.pdf)
-#
-#
-#
-#Frédéric Goualard, Université de Nantes, 2000
-#
-#
-#
-#### Autour de SAT : le calcul d'impliquants P-restreints, algorithmes et
-#applications [[pdf]](memoire/leberre.pdf)
-#
-#
-#
-#Daniel Le Berre, Université Toulouse III, 2000
-#
-#
-#
-#### De la résolution du problème SAT à la résolution de problèmes autour de
-#SAT [[pdf]](memoire/sais_hdr.pdf)
-#
-#
-#
-#Lakhdar Saïs, Université d'Artois, 2000 (HDR)
-#
-#
-#
-#### De la satisfaisabilité à la compilation de bases connaissances
-#propositionnelles [[pdf]](memoire/mazure.pdf)
-#
-#
-#
-#Bertrand Mazure, Université d'Artois, 1999
-#
-#
-#
-#### Une étude théorique et expérimentale de la propagation des contraintes de
-#ressources [[pdf]](memoire/baptiste.pdf)
-#
-#
-#
-#Philippe Baptiste, Université de Technologie de Compiègne,1998
-#
+
+- titre: Approches structurelles et coopératives pour la résolution des problèmes de satisfaction de contraintes 
+  pdf: terrioux
+  auteurs: Cyril Terrioux
+  lieu: Université d'Aix-Marseille I
+  annee: 2002
+
+- titre: "Étude de la compilation des langages logiques de programmation par contraintes sur les domaines finis : le système clp(FD)"
+  pdf: diaz
+  auteurs: Daniel Diaz
+  lieu: Université d'Orléans
+  annee: 1995
+
+- titre: A Constraint Satisfaction Approach for Enclosing Solutions to Initial Value Problems for Parametric Ordinary Differential Equations
+  pdf: janssen
+  auteurs: Micha Janssen
+  lieu: Université Catholique de Louvain
+  annee: 2001
+
+- titre: Résolution du problème SAT et génération de modèles finis en logique du premier ordre 
+  pdf: audemard
+  auteurs: Gilles Audemard
+  lieu: Université d'Aix-Marseille I
+  annee: 2001
+
+- titre: Langages et environnements en programmation par contraintes d’intervalles
+  pdf: goualard
+  auteurs: Frédéric Goualard
+  lieu: Université de Nantes
+  annee: 2000
+
+- titre: "Autour de SAT : le calcul d'impliquants P-restreints, algorithmes et applications" 
+  pdf: leberre
+  auteurs: Daniel Le Berre
+  lieu: Université Toulouse III
+  annee: 2000
+
+- titre: De la résolution du problème SAT à la résolution de problèmes autour de SAT 
+  pdf: sais_hdr
+  auteurs: Lakhdar Saïs
+  lieu: Université d'Artois
+  annee: 2000
+  hdr: true
+
+- titre: De la satisfaisabilité à la compilation de bases connaissances propositionnelles 
+  pdf: mazure
+  auteurs: Bertrand Mazure
+  lieu: Université d'Artois
+  annee: 1999
+
+- titre: Une étude théorique et expérimentale de la propagation des contraintes de ressources 
+  pdf: baptiste
+  auteurs: Philippe Baptiste
+  lieu: Université de Technologie de Compiègne
+  annee: 1998

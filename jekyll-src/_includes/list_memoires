@@ -5,7 +5,7 @@
 <ul class="memoires">
     {% for entry in year.publis %}
   <li>
-    <memoire-titre><a href="{{ '/assets/memoires' | relative_url | append:year.annee | append:'/' | append:entry.pdf | append:'.pdf' }}">{{ entry.titre }}</a></memoire-titre>, <memoire-auteur>{{ entry.auteurs }}</memoire-auteur>, <memoire-lieu>{{  entry.lieu }}</memoire-lieu>{% if entry.link %} <memoire-link><a href="{{ entry.link }}" target="_blank">[tel]</a></memoire-link>{% endif %}
+    <memoire-titre><a href="{{ '/assets/memoires/' | relative_url | append:year.annee | append:'/' | append:entry.pdf | append:'.pdf' }}">{{ entry.titre }}</a></memoire-titre>, <memoire-auteur>{{ entry.auteurs }}</memoire-auteur>, <memoire-lieu>{{  entry.lieu }}</memoire-lieu>{% if entry.link %} <memoire-link><a href="{{ entry.link }}" target="_blank">[tel]</a></memoire-link>{% endif %}
   </li>
     {% endfor %}
 </ul>
