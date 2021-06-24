@@ -31,7 +31,10 @@ $ci-2: #45B29D;		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #912409;     // green
+$ci-6: #912409;     // red - afpc
+$ci-7: #0074a1;		// blue
+$ci-8: #7521D4;		// violet
+$ci-9: #2BA10D;		// green
 
 
 
@@ -41,9 +44,11 @@ $ci-6: #912409;     // green
 $primary-color: $ci-1;
 $secondary-color: $ci-6;
 $alert-color: $ci-5;
-$success-color: $ci-6;
+$success-color: $ci-9;
 $warning-color: $ci-4;
-$info-color: $ci-1;
+$info-color: $ci-7;
+$todo-color: $ci-2;
+$tip-color: $ci-8;
 
 
 

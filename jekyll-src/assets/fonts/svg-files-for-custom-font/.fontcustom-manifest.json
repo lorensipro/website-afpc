@@ -10,6 +10,10 @@
     "entypo-custom/entypo-custom.eot"
   ],
   "glyphs": {
+    "alarm": {
+      "codepoint": 61747,
+      "source": "./bell-solid.svg"
+    },
     "archive": {
       "codepoint": 61707,
       "source": "./archive.svg"
@@ -114,6 +118,10 @@
       "codepoint": 61738,
       "source": "./home.svg"
     },
+    "info": {
+      "codepoint": 61705,
+      "source": "./info-circle-solid.svg"
+    },
     "instagram": {
       "codepoint": 61699,
       "source": "./instagram.svg"
@@ -125,6 +133,10 @@
     "leaf": {
       "codepoint": 61736,
       "source": "./leaf.svg"
+    },
+    "light-bulb": {
+      "codepoint": 61701,
+      "source": "./lightbulb-regular.svg"
     },
     "linkedin": {
       "codepoint": 61700,
@@ -149,10 +161,6 @@
     "paper-plane": {
       "codepoint": 61724,
       "source": "./paper-plane.svg"
-    },
-    "pinterest": {
-      "codepoint": 61701,
-      "source": "./pinterest.svg"
     },
     "price-tag": {
       "codepoint": 61734,
@@ -201,10 +209,6 @@
     "video": {
       "codepoint": 61729,
       "source": "./video.svg"
-    },
-    "vimeo": {
-      "codepoint": 61705,
-      "source": "./vimeo.svg"
     },
     "warning": {
       "codepoint": 61730,

@@ -1,18 +1,20 @@
 {
   "checksum": {
-    "previous": "03f5dd2a3a893dc3637cdfbb6da25d276f597ea03db701e7220b5dfcde6ef9bf",
-    "current": "03f5dd2a3a893dc3637cdfbb6da25d276f597ea03db701e7220b5dfcde6ef9bf"
+    "current": "2056821c59e128e96f105963fd9d8470a1178446b25d2990cc073f23afc77d3f",
+    "previous": "03f5dd2a3a893dc3637cdfbb6da25d276f597ea03db701e7220b5dfcde6ef9bf"
   },
   "fonts": [
     "./iconfont.ttf",
-    "./iconfont.svg",
-    "./iconfont.woff",
-    "./iconfont.eot"
+    "./iconfont.svg"
   ],
   "glyphs": {
     "archive": {
       "codepoint": 61696,
       "source": "svg-files-for-custom-font/archive.svg"
+    },
+    "bell-solid": {
+      "codepoint": 61750,
+      "source": "svg-files-for-custom-font/bell-solid.svg"
     },
     "browser": {
       "codepoint": 61697,
@@ -106,10 +108,6 @@
       "codepoint": 61718,
       "source": "svg-files-for-custom-font/globe.svg"
     },
-    "googleplus": {
-      "codepoint": 61750,
-      "source": "svg-files-for-custom-font/googleplus.svg"
-    },
     "heart": {
       "codepoint": 61719,
       "source": "svg-files-for-custom-font/heart.svg"
@@ -122,6 +120,10 @@
       "codepoint": 61721,
       "source": "svg-files-for-custom-font/home.svg"
     },
+    "info-circle-solid": {
+      "codepoint": 61751,
+      "source": "svg-files-for-custom-font/info-circle-solid.svg"
+    },
     "instagram": {
       "codepoint": 61722,
       "source": "svg-files-for-custom-font/instagram.svg"
@@ -133,6 +135,10 @@
     "leaf": {
       "codepoint": 61724,
       "source": "svg-files-for-custom-font/leaf.svg"
+    },
+    "lightbulb-regular": {
+      "codepoint": 61752,
+      "source": "svg-files-for-custom-font/lightbulb-regular.svg"
     },
     "linkedin": {
       "codepoint": 61725,
@@ -234,6 +240,8 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".icon-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
@@ -243,8 +251,8 @@
     "font_name": "iconfont",
     "force": false,
     "input": {
-      "templates": "svg-files-for-custom-font/",
-      "vectors": "svg-files-for-custom-font/"
+      "templates": "svg-files-for-custom-font",
+      "vectors": "svg-files-for-custom-font"
     },
     "no_hash": true,
     "output": {

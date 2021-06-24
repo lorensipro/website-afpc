@@ -56,39 +56,91 @@
 ------------------------------------------------------------------- */
 
 .alert-box {
-  font-family: $font-family-sans-serif;
-  text-shadow: 0px 1px 1px rgba(0,0,0,0.9);
-}
-  .alert-box p {
-    margin-bottom: 0;
+  font-family: $font-family-sans-serif !important;
+  text-shadow: 0px 1px 1px rgba(0,0,0,0.9) !important;
+
+  p:first-child {
+    // let the icon wrap nicely
+    display: inline !important;
   }
-  .alert-box a {
-    text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
-    color: #fff;
-    border-bottom: 1px dotted #fff;
-  }
-  .alert-box a:hover {
-    border-bottom: 1px solid #fff;
-  }
-  .alert-box.terminal {
-    background: $grey-12; 
-    color: #fff; 
-    border-color: scale-color($grey-12, $lightness: -14%);
-    font-family: $font-family-monospace;
-  }
-  .alert-box.terminal::before {
-    content: "$ ";
-    color: $ci-6;
-    float: left;
-    margin: .25em .5em 0 0;
-  }
-  .alert-box.text {
-    background-color: $grey-2;
-    text-shadow: 0px 0px 0px rgba(0,0,0,0.9);
-    border-color: scale-color($grey-2, $lightness: -14%);
-    color: $grey-12;
+  > {
+    // some blocks shouldn't have a bottom margin, it puts too much space at the end inside the box
+    p:last-child,
+    ul:last-child,
+    .highlighter-rouge:last-child > .highlight > pre {
+      margin-bottom: 0 !important;
+    }
   }
 
+  a {
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 1) !important;
+    color: #fff !important;
+    border-bottom: 1px dotted #fff !important;
+    
+    &:hover {
+      border-bottom: 1px solid #fff !important;
+    }
+  }
+
+  &.terminal {
+    background: $grey-12 !important; 
+    color: #fff !important; 
+    border-color: scale-color($grey-12, $lightness: -14%) !important;
+    font-family: $font-family-monospace !important;
+    &::before {
+      content: "$" !important;
+      color: $ci-6 !important;
+    }
+  }
+  
+  &.text {
+    background-color: $grey-2 !important;
+    text-shadow: 0px 0px 0px rgba(0,0,0,0.9) !important;
+    border-color: scale-color($grey-2, $lightness: -14%) !important;
+    color: $grey-12 !important;
+  }
+  
+  &.todo {
+    @include alert-style($todo-color);
+    text-shadow: none !important;
+  }
+
+  &::before {
+    margin-right: rem-calc(6) !important;
+    font-size: rem-calc(22) !important;
+  }
+  
+  $alert-icon-opacity: 1;
+  $icon-color: white;
+
+  &.alert::before {
+    @extend .icon-alarm, :before;
+    color: rgba($icon-color, $alert-icon-opacity) !important;
+  }
+  &.warning::before {
+    @extend .icon-cone, :before;
+    color: opacify($icon-color, $alert-icon-opacity) !important;
+  }
+  &.info::before {
+    @extend .icon-info, :before;
+    color: opacify($icon-color, $alert-icon-opacity) !important;
+  }
+  &.success::before {
+    @extend .icon-check, :before;
+    color: opacify($icon-color, $alert-icon-opacity) !important;
+  }
+  &.tip::before {
+    @extend .icon-light-bulb, :before;
+    color: opacify($icon-color, $alert-icon-opacity) !important;
+  }
+  &.todo::before {
+    @extend .icon-lab-flask, :before;
+  }
+
+  @media print {
+    border: 3px solid $aluminum !important;
+  }
+}
 
 
 /* Button
@@ -150,13 +202,13 @@ img.lazy {
 }
 
 *:target:not([id^='fn:']):not([id^='fnref:']) {
-  &::before {
-    content: " ";
-    width: 0;
-    height: 0;
-
-    display: block;
-    padding-top: 50px;
-    margin-top: -50px;
+    &::before {
+      content: " ";
+      width: 0;
+      height: 0;
+  
+      display: block;
+      padding-top: 50px;
+      margin-top: -50px;
+    }
   }
-}
