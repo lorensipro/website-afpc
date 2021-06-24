@@ -1,11 +1,13 @@
+{% assign years = site.data.memoires | map: "annee" | uniq | sort |reverse %}
 
-{% for year in site.data.memoires %}
-## {{ year.annee }}
+{% for year in years %}
+## {{ year }}
 
 <ul class="memoires">
-    {% for entry in year.publis %}
+    {% assign toprint = site.data.memoires |  where: "annee", year %}
+    {% for entry in toprint %}
   <li>
-    <memoire-titre><a href="{{ '/assets/memoires/' | relative_url | append:year.annee | append:'/' | append:entry.pdf | append:'.pdf' }}">{{ entry.titre }}</a></memoire-titre>, <memoire-auteur>{{ entry.auteurs }}</memoire-auteur>, <memoire-lieu>{{  entry.lieu }}</memoire-lieu>{% if entry.link %} <memoire-link><a href="{{ entry.link }}" target="_blank">[tel]</a></memoire-link>{% endif %}
+    <memoire-titre><a href="{{ '/assets/memoires/' | relative_url | append:year | append:'/' | append:entry.pdf | append:'.pdf' }}">{{ entry.titre }}</a></memoire-titre>, <memoire-auteur>{{ entry.auteurs }}</memoire-auteur>, <memoire-lieu>{{  entry.lieu }}</memoire-lieu>{% if entry.link %} <memoire-link><a href="{{ entry.link }}" target="_blank">[tel]</a></memoire-link>{% endif %}
   </li>
     {% endfor %}
 </ul>

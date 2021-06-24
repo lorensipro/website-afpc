@@ -1,544 +1,597 @@
-- annee: 2021
-- annee: 2020
-- annee: 2019
-- annee: 2018
-- annee: 2017
-  publis:
-  - titre: Programmation par contraintes et découverte de motifs sur données séquentielles
-    pdf: vigneron
-    auteurs: Vincent Vigneron
-    lieu: Université d’Angers
-    link: https://tel.archives-ouvertes.fr/tel-01758047v1
 
-- annee: 2016
-  publis:
-  - titre: "Classes polynomiales du problème CSP : entre théorie et pratique"
-    pdf: terrioux_hdr
-    auteurs: Cyril Terrioux
-    lieu: Aix-Marseille Université
-    hdr: true
+## \--- 2017 --
 
-  - titre: Ordonnancement sous contraintes d’énergie
-    pdf: nattaf
-    auteurs: Margaux Nattaf
-    lieu: Université de Toulouse
-    link: https://tel.archives-ouvertes.fr/tel-01417288v1
+- titre: Programmation par contraintes et découverte de motifs sur données séquentielles
+  pdf: vigneron
+  auteurs: Vincent Vigneron
+  lieu: Université d’Angers
+  link: https://tel.archives-ouvertes.fr/tel-01758047v1
+  annee: 2017
 
-  - titre: Harnessing Tractability in Constraint Satisfaction Problems
-    pdf: carbonnel
-    auteurs: Clément Carbonnel
-    lieu: Université de Toulouse
-    link: https://tel.archives-ouvertes.fr/tel-01444799v1
-  
-  - titre: Une nouvelle approche au General Game Playing dirigée par les contraintes
-    pdf: epiette
-    auteurs: Éric Piette
-    lieu: Université d'Artois
+## \--- 2016 --
 
-- annee: 2015
-  publis:
-  - titre: "Optimisation booléenne multiobjectif : complexité sous contraintes compilées et résolution via SAT"
-    pdf: lonca
-    auteurs: Emmanuel Lonca
-    lieu: Université d’Artois
-    
-  - titre: Parallélisme en programmation par contraintes
-    pdf: rezgui
-    auteurs: Mohamed Rezgui
-    lieu: Université Nice Sophia Antipolis
-    link: https://tel.archives-ouvertes.fr/tel-01191760v1
+- titre: "Classes polynomiales du problème CSP : entre théorie et pratique"
+  pdf: terrioux_hdr
+  auteurs: Cyril Terrioux
+  lieu: Aix-Marseille Université
+  hdr: true
+  annee: 2016
 
-  - titre: On Compressing and Parallelizing Constraint Satisfaction Problems
-    pdf: gharbi
-    auteurs: Nebras Gharbi
-    lieu: Université d'Artois
+- titre: Ordonnancement sous contraintes d’énergie
+  pdf: nattaf
+  auteurs: Margaux Nattaf
+  lieu: Université de Toulouse
+  annee: 2016
+  link: https://tel.archives-ouvertes.fr/tel-01417288v1
 
-  - titre: "Configuration interactive et Contraintes : Connaissances, Filtrage et Extensions"
-    pdf: vareilles_hdr
-    auteurs: Élise Vareilles
-    lieu: Institut National Polytechnique de Toulouse
-    hdr: true
-    link: https://tel.archives-ouvertes.fr/tel-01319053v1
+- titre: Harnessing Tractability in Constraint Satisfaction Problems
+  pdf: carbonnel
+  auteurs: Clément Carbonnel
+  lieu: Université de Toulouse
+  annee: 2016
+  link: https://tel.archives-ouvertes.fr/tel-01444799v1
 
-  - titre: Max-résolution et apprentissage pour la résolution du problème de satisfiabilité maximum
-    pdf: abrame
-    auteurs: André Abramé
-    lieu: Université d'Aix-Marseille
-    
-  - titre: Strong consistencies for Weighted Constraint Satisfaction Problems
-    pdf: hiep_nguyen
-    auteurs: Thi Hong Hiep Nguyen
-    lieu: Université Toulouse
-  
-  - titre: Search, propagation, and learning in sequencing and scheduling problems
-    pdf: siala
-    auteurs: Mohamed Siala
-    lieu: INSA de Toulouse
-  
-  - titre: Hybridation d’algorithmes évolutionnaires et de méthodes d’intervalles pour l’optimisation de problèmes difficiles
-    pdf: vanaret
-    auteurs: Charlie Vanaret
-    lieu: Université de Toulouse
-    
-    ## \--- 2014 ---
-    
-- annee: 2014
-  publis:
-  - titre: Contrôle de la Propagation et de la Recherche dans un Solveur de Contraintes 
-    pdf: prudhomme
-    auteurs: Charles Prud’Homme
-    lieu: Université de Nantes Angers Le Mans
-  
-  - titre: "Classes polynomiales pour CSP : de la théorie à la pratique"
-    pdf: elmouelhi
-    auteurs: Achref el Mouelhi
-    lieu: Université d'Aix-Marseille
-  
-  - titre: La substituabilité et la cohérence de tuples pour les réseaux de contraintes pondérées 
-    pdf: dehani
-    auteurs: Djamel-Eddine Dehani
-    lieu: Université d'Artois
-  
-  - titre: Exploitation de structures de graphe en programmation par contraintes
-    pdf: fages
-    auteurs: Jean-Guillaume Fages
-    lieu: l’Université de Nantes Angers Le Mans
-  
-  - titre: Contributions à la résolution du problème de la Satisfiabilité Propositionnelle 
-    pdf: lonlac
-    auteurs: Jerry Garvin Lonlac Konlac
-    lieu: Université d'Artois
-  
-  - titre: "Constraint Games: Modeling and Solving Games with Constraints"
-    pdf: nguyen
-    auteurs: Thi Van Anh Nguyen
-    lieu: Université de Caen Basse-Normandie
-  
-  - titre: Extraction de motifs sous contraintes souples
-    pdf: rojas
-    auteurs: Willy Ugarte Rojas
-    lieu: Université de Caen Basse-Normandie
-  
-  - titre: Intégration de techniques CSP pour la résolution du problème WCSP
-    pdf: nicolasparis
-    auteurs: Nicolas Paris
-    lieu: Université d'Artois
-  
-  - titre: Solving the Boolean Satisfiability problem using the parallel paradigm
-    pdf: hoessen
-    auteurs: Benoît Hoessen
-    lieu: Université d'Artois
-  
-  - titre: Constrained Clustering by Constraint Programming
-    pdf: duong
-    auteurs: Khanh-Chuong Duong
-    lieu: Université d'Orléans
-  
-  - titre: Conception interactive d’environnements urbains durables à base de résolution de contraintes 
-    pdf: belin
-    auteurs: Bruno Belin
-    lieu: Université de Nantes, Angers, Le Mans
-  
-  ## \--- 2013 ---
+- titre: Une nouvelle approche au General Game Playing dirigée par les contraintes
+  pdf: epiette
+  auteurs: Éric Piette
+  lieu: Université d'Artois
+  annee: 2016
 
-- annee: 2013
-  publis:  
-  - titre: Résolution séquentielle et parallèle du problème de la Satisfiabilité propositionnelle 
-    pdf: guo
-    auteurs: Long Guo
-    lieu: Université d'Artois
-  
-  ## \--- 2012 ---
+## \--- 2015 --
 
-- annee: 2012
-  publis:  
-  - titre: "Assistance à l'agencement d'environnements virtuels : apport de la programmation par contraintes"
-    pdf: kefi
-    auteurs: Marouene Kefi
-    lieu: Université Nantes Angers le Mans
+- titre: "Optimisation booléenne multiobjectif : complexité sous contraintes compilées et résolution via SAT"
+  pdf: lonca
+  auteurs: Emmanuel Lonca
+  lieu: Université d’Artois
+  annee: 2015
   
-  - titre: Algorithms and Ordering Heuristics for Distributed Constraint Satisfaction Problems 
-    pdf: wahbi
-    auteurs: Mohamed Wahbi
-    lieu: Université Montpellier 2 et Université Mohammed V-Agdal, Maroc
-  
-  - titre: Mémoire d'habilitation à diriger des recherches
-    pdf: madelaine_hdr
-    auteurs: Florent Madelaine
-    lieu: Clermont Université
-  
-  ## \--- 2011 ---
+- titre: Parallélisme en programmation par contraintes
+  pdf: rezgui
+  auteurs: Mohamed Rezgui
+  lieu: Université Nice Sophia Antipolis
+  annee: 2015
+  link: https://tel.archives-ouvertes.fr/tel-01191760v1
 
-- annee: 2011
-  publis:  
-  - titre: Méthodologie et outil de Test, de localisation de fautes et de correction automatique des programmes à contraintes 
-    pdf: lazaar
-    auteurs: Nadjib Lazaar
-    lieu: Université de Rennes 1
-  
-  - titre: "Recherche locale pour l'optimisation en variables mixtes : méthodologie et applications industrielles" 
-    pdf: jeanjean
-    auteurs: Antoine Jeanjean
-    lieu: Ecole Polytechnique
-  
-  - titre: Automates et programmation par contraintes pour la planification de personnel 
-    pdf: menana
-    auteurs: Julien Menana
-    lieu: Université de Nantes
-  
-  - titre: "LS(Graph): A constraint-based local search framework for constrained optimum trees and paths problems on graphs"
-    pdf: pham
-    auteurs: Quang Dung Pham
-    lieu: Université Catholique de Louvain
-  
-  - titre: Constraint-Based Very Large-Scale Neighborhood Search
-    pdf: mouthuy
-    auteurs: Sébastien Mouthuy
-    lieu: Louvain School of Engineering
-  
-  - titre: Symétries locales et globales en logique propositionnelle et leurs extensions aux logiques non monotones
-    pdf: nabhani
-    auteurs: Tarek Nabhani
-    lieu: Université de Provence - Aix-Marseille I
-  
-  - titre: Techniques d’ordonnancement d’atelier et de fournées basées sur la programmation par contraintes
-    pdf: malapert
-    auteurs: Arnaud Malapert
-    lieu: ENSTIM Nantes
-  
-  - titre: "Satisfiabilité propositionnelle et raisonnement par contraintes : modèles et algorithmes"
-    pdf: lagniez
-    auteurs: Jean-Marie Lagniez
-    lieu: Université d'Artois
-  
-  - titre: "Aspects calculatoires de l'apprentissage, du raisonnement et de la décision"
-    pdf: zanuttini_hdr
-    auteurs: Bruno Zanuttini
-    lieu: Université de Caen Basse-Normandie
-    hdr: true
-  
-  - titre: Optimisation combinatoire dans les réseaux de fonctions de coût
-    pdf: degivry_hdr
-    auteurs: Simon de Givry
-    lieu: INRA UBIA Toulouse
-    hdr: true
-  
-  ## \--- 2010 ---
+- titre: On Compressing and Parallelizing Constraint Satisfaction Problems
+  pdf: gharbi
+  auteurs: Nebras Gharbi
+  lieu: Université d'Artois
+  annee: 2015
 
-- annee: 2010
-  publis:  
-  - titre: Intégration des problèmes de satisfaction de contraintes distribués et sécurisés dans les systèmes d'aide à la décision à base de connaissance
-    pdf: saad
-    auteurs: Belaïd Saad
-    lieu: Université de Paul Verlaine - Metz
-  
-  - titre: Solving Scheduling problems from High-Level Models
-    pdf: monette
-    auteurs: Jean-Noël Monette
-    lieu: Université Catholique de Louvain
-  
-  - titre: "Relaxation de contraintes globales : Mise en oeuvre et application"
-    pdf: metivier
-    auteurs: Jean-Philippe Métivier
-    lieu: Université de Caen Basse-Normandie
-  
-  - titre: Exploitation des sous-expressions communes et de la monotonie des fonctions pour les algorithmes de ltrage sur intervalles
-    pdf: araya
-    auteurs: Ignacio Araya
-    lieu: Université de Nice-Sophia Antipolis
-  
-  - titre: Résolution de problèmes autour de SAT 
-    pdf: audemard_hdr
-    auteurs: Gilles Audemard
-    lieu: Université d'Artois
-    hdr: true
-  
-  - titre: Modélisation et résolution en programmation par contraintes de problèmes mixtes continu/discret de satisfaction de contraintes et d’optimisation
-    pdf: berger
-    auteurs: Nicolas Berger
-    lieu: Université de Nantes
-  
-  - titre: "Tabu-NG : hybridation de programmation par contraintes et recherche localle pour la résolution de CSP"
-    pdf: dib
-    auteurs: Mohammad Dib
-    lieu: Université de Technologie de Belfort-Montbéliard et Université de Franche-Comté
-  
-  - titre: Sat4j, un moteur libre de raisonnement en logique propositionnelle
-    pdf: leberre_hdr
-    auteurs: Daniel le Berre
-    lieu: Université d'Artois
-    hdr: true
-  
-  - titre: Un Langage de Modélisation à base de Règles pour la Programmation Par Contraintes 
-    pdf: martin
-    auteurs: Julien Pierre Martin
-    lieu: Université Pierre et Marie Curie
-  
-  - titre: "SAT et au-delà de SAT : Modèles et Algorithmes"
-    pdf: mazure_hdr
-    auteurs: Bertrand Mazure
-    lieu: Université d'Artois
-    hdr: true
-  
-  - titre: Optimisation sous contraintes par Intelligence Collective Auto-adaptative
-    pdf: khichane
-    auteurs: Madjid Khichane
-    lieu: Université Claude Bernard Lyon 1
-  
-  ## \--- 2009 ---
+- titre: "Configuration interactive et Contraintes : Connaissances
+  lieu: Filtrage et Extensions"
+  pdf: vareilles_hdr
+  auteurs: Élise Vareilles
+  lieu: Institut National Polytechnique de Toulouse
+  hdr: true
+  annee: 2015
+  link: https://tel.archives-ouvertes.fr/tel-01319053v1
 
-- annee: 2009
-  publis:  
-  - titre: Solving Balancing and Bin-Packing problems with Constraint Programming
-    pdf: schaus
-    auteurs: Pierre Schaus
-    lieu: Université Catholique de Louvain
-  
-  - titre: Planification de coût optimal basée sur les CSP pondérés
-    pdf: deroquemaurel
-    auteurs: Marie de Roquemaurel
-    lieu: Université Toulouse III - Paul Sabatier
-  
-  - titre: Langages et transformation de modèles en programmation par contraintes
-    pdf: soto
-    auteurs: Ricardo Soto
-    lieu: Université de Nantes
-  
-  - titre: "Résolution de systèmes d’équations : l’essor de la programmation par contraintes sur intervalles"
-    pdf: trombettoni_hdr
-    auteurs: Gilles Trombettoni
-    lieu: Université de Nice
-    hdr: true
-  
-  - titre: Optimisation par colonies de fourmis pour des problèmes d'optimisation multi-objectif 
-    pdf: alaya
-    auteurs: Inès Alaya
-    lieu: Institut Supérieur de Gestion de Tunis
-  
-  ## \--- 2008 ---
+- titre: Max-résolution et apprentissage pour la résolution du problème de satisfiabilité maximum
+  pdf: abrame
+  auteurs: André Abramé
+  lieu: Université d'Aix-Marseille
+  annee: 2015
 
-- annee: 2008
-  publis:  
-  - titre: A Constraint Programming Approach to Subgraph Isomorphism
-    pdf: zampelli
-    auteurs: Stéphane Zampelli
-    lieu: Université Catholique de Louvain
-  
-  - titre: De la Satisfiabilité Propositionnelle aux Formules Booléennes Quantifiées
-    pdf: jabbour
-    auteurs: Saïd Jabbour
-    lieu: Université d'Artois
-  
-  - titre: Fermetures et modules dans les langages concurrents avec contraintes fondés sur la logique linéaire 
-    pdf: haemmerle
-    auteurs: Rémy Haemmerlé
-    lieu: Université Paris Diderot
-  
-  ## \--- 2007 ---
-  
-- annee: 2007
-  publis: 
-  - titre: "Allocation et partage équitables de ressources indivisibles : modélisation"
-    lieu: complexité et algorithmique 
-    pdf: bouveret
-    auteurs: Sylvain Bouveret
-    lieu: Université de Toulouse/ISAE
-  
-  - titre: Contraintes de Partitionnement de Graphe 
-    pdf: lorca
-    auteurs: Xavier Lorca
-    lieu: Université de Nantes
-  
-  - titre: Calcul et exploitation de recouvrements acycliques pour la résolution de (V)CSP 
-    pdf: ndiaye
-    auteurs: Samba Ndojh Ndiaye
-    lieu: Université Paul Cézanne
-  
-  - titre: Résolution par satisfaction de contraintes appliquée à l'aide à la décision en conception architecturale 
-    pdf: chenouard
-    auteurs: Raphaël Chenouard
-    lieu: École Nationale Supérieure d'Arts et Métiers
-  
-  - titre: Techniques algorithmiques pour l'extraction de formules minimales inconsistantes 
-    pdf: piette
-    auteurs: Cédric Piette
-    lieu: Université d'Artois
-  
-  - titre: Exploiter les conflits pour réduire l'effort de recherche en satisfaction de contraintes
-    pdf: tabary
-    auteurs: Sébastien Tabary
-    lieu: Université d'Artois
-  
-  - titre: Localisation d'ARN non-codants par réseaux de contraintes pondérées
-    pdf: zytnicki
-    auteurs: Matthias Zytnicki
-    lieu: Université de Toulouse
-  
-  - titre: Contributions à la résolution générique des problèmes de satisfaction de contraintes 
-    pdf: vion
-    auteurs: Julien Vion
-    lieu: Université d'Artois
-  
-  - titre: Contribution à l'utilisation de la Programmation par Contraintes pour la Recherche de Modèles Finis en Intelligence Artificielle
-    pdf: kleiner
-    auteurs: Mathias Kleiner
-    lieu: Université de la Méditerranée
-  
-  - titre: "Approches pour les problèmes SAT et CSP : ensembles strong backdoor, voisinage consistant et forme normale généralisée"
-    pdf: paris
-    auteurs: Lionel Paris
-    lieu: Université de Provence
-  
-  ## \--- 2006 ---
-  
-- annee: 2006
-  publis: 
-  - titre: Solving Constrained Graph Problems using Reachability Constraints based on Transitive Closure and Dominators 
-    pdf: quesada
-    auteurs: Luis Quesada
-    lieu: Université Catholique de Louvain
-  
-  - titre: The CP(Graph) Computation Domain in Constraint Programming
-    pdf: dooms
-    auteurs: Grégoire Dooms
-    lieu: Université Catholique de Louvain
-  
-  - titre: Mesurer la similarité de graphes 
-    pdf: sorlin
-    auteurs: Sébastien Sorlin
-    lieu: Université Claude Bernard Lyon 1
-  
-  - titre: Résolution de problèmes combinatoires par des approches fondées sur la notion d'explication 
-    pdf: cambazard
-    auteurs: Hadrien Cambazard
-    lieu: Université de Nantes
-  
-  ## \--- 2005 ---
-  
-- annee: 2005
-  publis: 
-  - titre: Contraintes globales et heuristiques de recherche pour les CSPs continus
-    pdf: batnini
-    auteurs: Heikel Batnini
-    lieu: Université de Nice-Sophia Antipolis
-  
-  - titre: Consistency Techniques for Test Data Generation
-    pdf: transy
-    auteurs: Nguyen Tran Sy
-    lieu: Université Catholique de Louvain
-  
-  - titre: "Conception et approches par propagation de contraintes : contribution à la mise en oeuvre d'un outil d'aide interactif"
-    pdf: vareilles
-    auteurs: Elise Vareilles
-    lieu: Institut National Polytechnique de Toulouse
-  
-  - titre: "De la validité des formules booléennes quantifiées : étude de complexité et exploitation de classes traitables au sein d'un prouveur"
-    pdf: letombe
-    auteurs: Florian Letombe
-    lieu: Université d'Artois
-  
-  - titre: Techniques de résolution de problèmes de satisfaction de contraintes
-    pdf: neveu_hdr
-    auteurs: Bertrand Neveu
-    lieu: Université de Nice - Sophia Antipolis
-    hdr: true
-  
-  - titre: Contributions à la résolution pratique de problèmes combinatoires —des fourmis et des graphes— 
-    pdf: solnon_hdr
-    auteurs: Christine Solnon
-    lieu: Université Claude Bernard Lyon 1
-    hdr: true
-  
-  ## \--- 2004 ---
-    
-- annee: 2004
-  publis: 
-  - titre: Modélisation et Contraintes Globales en Programmation par Contraintes
-    pdf: regin_hdr
-    auteurs: Jean-Charles Régin
-    lieu: Université de Nice
-    hdr: true
-  
-  ## \--- 2003 ---
-  
-- annee: 2003
-  publis: 
-  - titre: Explications de retraits de valeurs en programmation par contraintes et application au diagnostic déclaratif
-    pdf: lesaint
-    auteurs: Willy Lesaint
-    lieu: Université d'Orléans
-  
-  - titre: Résolution de problèmes combinatoires modélisés par des contraintes quantifiées 
-    pdf: bordeaux
-    auteurs: Lucas Bordeaux
-    lieu: Université de Nantes
-  
-  - titre: "Problèmes de satisfaction de contraintes : une étude logique et combinatoire"
-    pdf: madelaine
-    auteurs: Florent Madelaine
-    lieu: Université de Caen
-  
-  - titre: Acquisition de connaissances et raisonnement en logique propositionnelle
-    pdf: zanuttini
-    auteurs: Bruno Zanuttini
-    lieu: Université de Caen Basse-Normandie
-  
-  ## \--- Avant 2003 ---
-  
-- annee: 2002
-  publis: 
-  - titre: Approches structurelles et coopératives pour la résolution des problèmes de satisfaction de contraintes 
-    pdf: terrioux
-    auteurs: Cyril Terrioux
-    lieu: Université d'Aix-Marseille I
-  
-- annee: 2001
-  publis: 
-  - titre: A Constraint Satisfaction Approach for Enclosing Solutions to Initial Value Problems for Parametric Ordinary Differential Equations
-    pdf: janssen
-    auteurs: Micha Janssen
-    lieu: Université Catholique de Louvain
-  
-  - titre: Résolution du problème SAT et génération de modèles finis en logique du premier ordre 
-    pdf: audemard
-    auteurs: Gilles Audemard
-    lieu: Université d'Aix-Marseille I
-  
-- annee: 2000
-  publis: 
-  - titre: Langages et environnements en programmation par contraintes d’intervalles
-    pdf: goualard
-    auteurs: Frédéric Goualard
-    lieu: Université de Nantes
-  
-  - titre: "Autour de SAT : le calcul d'impliquants P-restreints, algorithmes et applications" 
-    pdf: leberre
-    auteurs: Daniel Le Berre
-    lieu: Université Toulouse III
-  
-  - titre: De la résolution du problème SAT à la résolution de problèmes autour de SAT 
-    pdf: sais_hdr
-    auteurs: Lakhdar Saïs
-    lieu: Université d'Artois
-    hdr: true
+- titre: Strong consistencies for Weighted Constraint Satisfaction Problems
+  pdf: hiep_nguyen
+  auteurs: Thi Hong Hiep Nguyen
+  lieu: Université Toulouse
+  annee: 2015
 
-- annee: 1999
-  publis: 
-  - titre: De la satisfaisabilité à la compilation de bases connaissances propositionnelles 
-    pdf: mazure
-    auteurs: Bertrand Mazure
-    lieu: Université d'Artois
+- titre: Search, propagation, and learning in sequencing and scheduling problems
+  pdf: siala
+  auteurs: Mohamed Siala
+  lieu: INSA de Toulouse
+  annee: 2015
 
-- annee: 1998
-  publis: 
-  - titre: Une étude théorique et expérimentale de la propagation des contraintes de ressources 
-    pdf: baptiste
-    auteurs: Philippe Baptiste
-    lieu: Université de Technologie de Compiègne
+- titre: Hybridation d’algorithmes évolutionnaires et de méthodes d’intervalles pour l’optimisation de problèmes difficiles
+  pdf: vanaret
+  auteurs: Charlie Vanaret
+  lieu: Université de Toulouse
+  annee: 2015
 
-- annee: 1995
-  publis: 
-  - titre: "Étude de la compilation des langages logiques de programmation par contraintes sur les domaines finis : le système clp(FD)"
-    pdf: diaz
-    auteurs: Daniel Diaz
-    lieu: Université d'Orléans
+## \--- 2014 ---
+
+- titre: Contrôle de la Propagation et de la Recherche dans un Solveur de Contraintes 
+  pdf: prudhomme
+  auteurs: Charles Prud’Homme
+  lieu: Université de Nantes Angers Le Mans
+  annee: 2014
+
+- titre: "Classes polynomiales pour CSP : de la théorie à la pratique"
+  pdf: elmouelhi
+  auteurs: Achref el Mouelhi
+  lieu: Université d'Aix-Marseille
+  annee: 2014
+
+- titre: La substituabilité et la cohérence de tuples pour les réseaux de contraintes pondérées 
+  pdf: dehani
+  auteurs: Djamel-Eddine Dehani
+  lieu: Université d'Artois
+  annee: 2014
+
+- titre: Exploitation de structures de graphe en programmation par contraintes
+  pdf: fages
+  auteurs: Jean-Guillaume Fages
+  lieu: l’Université de Nantes Angers Le Mans
+  annee: 2014
+
+- titre: Contributions à la résolution du problème de la Satisfiabilité Propositionnelle 
+  pdf: lonlac
+  auteurs: Jerry Garvin Lonlac Konlac
+  lieu: Université d'Artois
+  annee: 2014
+
+- titre: "Constraint Games: Modeling and Solving Games with Constraints"
+  pdf: nguyen
+  auteurs: Thi Van Anh Nguyen
+  lieu: Université de Caen Basse-Normandie
+  annee: 2014
+
+- titre: Extraction de motifs sous contraintes souples
+  pdf: rojas
+  auteurs: Willy Ugarte Rojas
+  lieu: Université de Caen Basse-Normandie
+  annee: 2014
+
+- titre: Intégration de techniques CSP pour la résolution du problème WCSP
+  pdf: nicolasparis
+  auteurs: Nicolas Paris
+  lieu: Université d'Artois
+  annee: 2014
+
+- titre: Solving the Boolean Satisfiability problem using the parallel paradigm
+  pdf: hoessen
+  auteurs: Benoît Hoessen
+  lieu: Université d'Artois
+  annee: 2014
+
+- titre: Constrained Clustering by Constraint Programming
+  pdf: duong
+  auteurs: Khanh-Chuong Duong
+  lieu: Université d'Orléans
+  annee: 2014
+
+- titre: Conception interactive d’environnements urbains durables à base de résolution de contraintes 
+  pdf: belin
+  auteurs: Bruno Belin
+  lieu: Université de Nantes, Angers, Le Mans
+  annee: 2014
+
+## \--- 2013 ---
+
+- titre: Résolution séquentielle et parallèle du problème de la Satisfiabilité propositionnelle 
+  pdf: guo
+  auteurs: Long Guo
+  lieu: Université d'Artois
+  annee: 2013
+
+## \--- 2012 ---
+
+- titre: "Assistance à l'agencement d'environnements virtuels : apport de la programmation par contraintes"
+  pdf: kefi
+  auteurs: Marouene Kefi
+  lieu: Université Nantes Angers le Mans
+  annee: 2012
+
+- titre: Algorithms and Ordering Heuristics for Distributed Constraint Satisfaction Problems 
+  pdf: wahbi
+  auteurs: Mohamed Wahbi
+  lieu: Université Montpellier 2 et Université Mohammed V-Agdal, Maroc
+  annee: 2012
+
+- titre: Mémoire d'habilitation à diriger des recherches
+  pdf: madelaine_hdr
+  auteurs: Florent Madelaine
+  lieu: Clermont Université
+  annee: 2012
+
+## \--- 2011 ---
+
+- titre: Méthodologie et outil de Test, de localisation de fautes et de correction automatique des programmes à contraintes 
+  pdf: lazaar
+  auteurs: Nadjib Lazaar
+  lieu: Université de Rennes 1
+  annee: 2011
+
+- titre: "Recherche locale pour l'optimisation en variables mixtes : méthodologie et applications industrielles" 
+  pdf: jeanjean
+  auteurs: Antoine Jeanjean
+  lieu: Ecole Polytechnique
+  annee: 2011
+
+- titre: Automates et programmation par contraintes pour la planification de personnel 
+  pdf: menana
+  auteurs: Julien Menana
+  lieu: Université de Nantes
+  annee: 2011
+
+- titre: "LS(Graph): A constraint-based local search framework for constrained optimum trees and paths problems on graphs"
+  pdf: pham
+  auteurs: Quang Dung Pham
+  lieu: Université Catholique de Louvain
+  annee: 2011
+
+- titre: Constraint-Based Very Large-Scale Neighborhood Search
+  pdf: mouthuy
+  auteurs: Sébastien Mouthuy
+  lieu: Louvain School of Engineering
+  annee: 2011
+
+- titre: Symétries locales et globales en logique propositionnelle et leurs extensions aux logiques non monotones
+  pdf: nabhani
+  auteurs: Tarek Nabhani
+  lieu: Université de Provence - Aix-Marseille I
+  annee: 2011
+
+- titre: Techniques d’ordonnancement d’atelier et de fournées basées sur la programmation par contraintes
+  pdf: malapert
+  auteurs: Arnaud Malapert
+  lieu: ENSTIM Nantes
+  annee: 2011
+
+- titre: "Satisfiabilité propositionnelle et raisonnement par contraintes : modèles et algorithmes"
+  pdf: lagniez
+  auteurs: Jean-Marie Lagniez
+  lieu: Université d'Artois
+  annee: 2011
+
+- titre: "Aspects calculatoires de l'apprentissage, du raisonnement et de la décision"
+  pdf: zanuttini_hdr
+  auteurs: Bruno Zanuttini
+  lieu: Université de Caen Basse-Normandie
+  annee: 2011
+  hdr: true
+
+- titre: Optimisation combinatoire dans les réseaux de fonctions de coût
+  pdf: degivry_hdr
+  auteurs: Simon de Givry
+  lieu: INRA UBIA Toulouse
+  annee: 2011
+  hdr: true
+
+## \--- 2010 ---
+
+- titre: Intégration des problèmes de satisfaction de contraintes distribués et sécurisés dans les systèmes d'aide à la décision à base de connaissance
+  pdf: saad
+  auteurs: Belaïd Saad
+  lieu: Université de Paul Verlaine - Metz
+  annee: 2010
+
+- titre: Solving Scheduling problems from High-Level Models
+  pdf: monette
+  auteurs: Jean-Noël Monette
+  lieu: Université Catholique de Louvain
+  annee: 2010
+
+- titre: "Relaxation de contraintes globales : Mise en oeuvre et application"
+  pdf: metivier
+  auteurs: Jean-Philippe Métivier
+  lieu: Université de Caen Basse-Normandie
+  annee: 2010
+
+- titre: Exploitation des sous-expressions communes et de la monotonie des fonctions pour les algorithmes de ltrage sur intervalles
+  pdf: araya
+  auteurs: Ignacio Araya
+  lieu: Université de Nice-Sophia Antipolis
+  annee: 2010
+
+- titre: Résolution de problèmes autour de SAT 
+  pdf: audemard_hdr
+  auteurs: Gilles Audemard
+  lieu: Université d'Artois
+  annee: 2010
+  hdr: true
+
+- titre: Modélisation et résolution en programmation par contraintes de problèmes mixtes continu/discret de satisfaction de contraintes et d’optimisation
+  pdf: berger
+  auteurs: Nicolas Berger
+  lieu: Université de Nantes
+  annee: 2010
+
+- titre: "Tabu-NG : hybridation de programmation par contraintes et recherche localle pour la résolution de CSP"
+  pdf: dib
+  auteurs: Mohammad Dib
+  lieu: Université de Technologie de Belfort-Montbéliard et Université de Franche-Comté
+  annee: 2010
+
+- titre: Sat4j, un moteur libre de raisonnement en logique propositionnelle
+  pdf: leberre_hdr
+  auteurs: Daniel le Berre
+  lieu: Université d'Artois
+  annee: 2010
+  hdr: true
+
+- titre: Un Langage de Modélisation à base de Règles pour la Programmation Par Contraintes 
+  pdf: martin
+  auteurs: Julien Pierre Martin
+  lieu: Université Pierre et Marie Curie
+  annee: 2010
+
+- titre: "SAT et au-delà de SAT : Modèles et Algorithmes"
+  pdf: mazure_hdr
+  auteurs: Bertrand Mazure
+  lieu: Université d'Artois
+  annee: 2010
+  hdr: true
+
+- titre: Optimisation sous contraintes par Intelligence Collective Auto-adaptative
+  pdf: khichane
+  auteurs: Madjid Khichane
+  lieu: Université Claude Bernard Lyon 1
+  annee: 2010
+
+## \--- 2009 ---
+
+- titre: Solving Balancing and Bin-Packing problems with Constraint Programming
+  pdf: schaus
+  auteurs: Pierre Schaus
+  lieu: Université Catholique de Louvain
+  annee: 2009
+
+- titre: Planification de coût optimal basée sur les CSP pondérés
+  pdf: deroquemaurel
+  auteurs: Marie de Roquemaurel
+  lieu: Université Toulouse III - Paul Sabatier
+  annee: 2009
+
+- titre: Langages et transformation de modèles en programmation par contraintes
+  pdf: soto
+  auteurs: Ricardo Soto
+  lieu: Université de Nantes
+  annee: 2009
+
+- titre: "Résolution de systèmes d’équations : l’essor de la programmation par contraintes sur intervalles"
+  pdf: trombettoni_hdr
+  auteurs: Gilles Trombettoni
+  lieu: Université de Nice
+  annee: 2009
+  hdr: true
+
+- titre: Optimisation par colonies de fourmis pour des problèmes d'optimisation multi-objectif 
+  pdf: alaya
+  auteurs: Inès Alaya
+  lieu: Institut Supérieur de Gestion de Tunis
+  annee: 2009
+
+## \--- 2008 ---
+
+- titre: A Constraint Programming Approach to Subgraph Isomorphism
+  pdf: zampelli
+  auteurs: Stéphane Zampelli
+  lieu: Université Catholique de Louvain
+  annee: 2008
+
+- titre: De la Satisfiabilité Propositionnelle aux Formules Booléennes Quantifiées
+  pdf: jabbour
+  auteurs: Saïd Jabbour
+  lieu: Université d'Artois
+  annee: 2008
+
+- titre: Fermetures et modules dans les langages concurrents avec contraintes fondés sur la logique linéaire 
+  pdf: haemmerle
+  auteurs: Rémy Haemmerlé
+  lieu: Université Paris Diderot
+  annee: 2008
+
+## \--- 2007 ---
+
+- titre: "Allocation et partage équitables de ressources indivisibles : modélisation"
+  lieu: complexité et algorithmique 
+  pdf: bouveret
+  auteurs: Sylvain Bouveret
+  lieu: Université de Toulouse/ISAE
+  annee: 2007
+
+- titre: Contraintes de Partitionnement de Graphe 
+  pdf: lorca
+  auteurs: Xavier Lorca
+  lieu: Université de Nantes
+  annee: 2007
+
+- titre: Calcul et exploitation de recouvrements acycliques pour la résolution de (V)CSP 
+  pdf: ndiaye
+  auteurs: Samba Ndojh Ndiaye
+  lieu: Université Paul Cézanne
+  annee: 2007
+
+- titre: Résolution par satisfaction de contraintes appliquée à l'aide à la décision en conception architecturale 
+  pdf: chenouard
+  auteurs: Raphaël Chenouard
+  lieu: École Nationale Supérieure d'Arts et Métiers
+  annee: 2007
+
+- titre: Techniques algorithmiques pour l'extraction de formules minimales inconsistantes 
+  pdf: piette
+  auteurs: Cédric Piette
+  lieu: Université d'Artois
+  annee: 2007
+
+- titre: Exploiter les conflits pour réduire l'effort de recherche en satisfaction de contraintes
+  pdf: tabary
+  auteurs: Sébastien Tabary
+  lieu: Université d'Artois
+  annee: 2007
+
+- titre: Localisation d'ARN non-codants par réseaux de contraintes pondérées
+  pdf: zytnicki
+  auteurs: Matthias Zytnicki
+  lieu: Université de Toulouse
+  annee: 2007
+
+- titre: Contributions à la résolution générique des problèmes de satisfaction de contraintes 
+  pdf: vion
+  auteurs: Julien Vion
+  lieu: Université d'Artois
+  annee: 2007
+
+- titre: Contribution à l'utilisation de la Programmation par Contraintes pour la Recherche de Modèles Finis en Intelligence Artificielle
+  pdf: kleiner
+  auteurs: Mathias Kleiner
+  lieu: Université de la Méditerranée
+  annee: 2007
+
+- titre: "Approches pour les problèmes SAT et CSP : ensembles strong backdoor, voisinage consistant et forme normale généralisée"
+  pdf: paris
+  auteurs: Lionel Paris
+  lieu: Université de Provence
+  annee: 2007
+
+## \--- 2006 ---
+
+- titre: Solving Constrained Graph Problems using Reachability Constraints based on Transitive Closure and Dominators 
+  pdf: quesada
+  auteurs: Luis Quesada
+  lieu: Université Catholique de Louvain
+  annee: 2006
+
+- titre: The CP(Graph) Computation Domain in Constraint Programming
+  pdf: dooms
+  auteurs: Grégoire Dooms
+  lieu: Université Catholique de Louvain
+  annee: 2006
+
+- titre: Mesurer la similarité de graphes 
+  pdf: sorlin
+  auteurs: Sébastien Sorlin
+  lieu: Université Claude Bernard Lyon 1
+  annee: 2006
+
+- titre: Résolution de problèmes combinatoires par des approches fondées sur la notion d'explication 
+  pdf: cambazard
+  auteurs: Hadrien Cambazard
+  lieu: Université de Nantes
+  annee: 2006
+
+## \--- 2005 ---
+
+- titre: Contraintes globales et heuristiques de recherche pour les CSPs continus
+  pdf: batnini
+  auteurs: Heikel Batnini
+  lieu: Université de Nice-Sophia Antipolis
+  annee: 2005
+
+- titre: Consistency Techniques for Test Data Generation
+  pdf: transy
+  auteurs: Nguyen Tran Sy
+  lieu: Université Catholique de Louvain
+  annee: 2005
+
+- titre: "Conception et approches par propagation de contraintes : contribution à la mise en oeuvre d'un outil d'aide interactif"
+  pdf: vareilles
+  auteurs: Elise Vareilles
+  lieu: Institut National Polytechnique de Toulouse
+  annee: 2005
+
+- titre: "De la validité des formules booléennes quantifiées : étude de complexité et exploitation de classes traitables au sein d'un prouveur"
+  pdf: letombe
+  auteurs: Florian Letombe
+  lieu: Université d'Artois
+  annee: 2005
+
+- titre: Techniques de résolution de problèmes de satisfaction de contraintes
+  pdf: neveu_hdr
+  auteurs: Bertrand Neveu
+  lieu: Université de Nice - Sophia Antipolis
+  annee: 2005
+  hdr: true
+
+- titre: Contributions à la résolution pratique de problèmes combinatoires —des fourmis et des graphes— 
+  pdf: solnon_hdr
+  auteurs: Christine Solnon
+  lieu: Université Claude Bernard Lyon 1
+  annee: 2005
+  hdr: true
+
+## \--- 2004 ---
+
+- titre: Modélisation et Contraintes Globales en Programmation par Contraintes
+  pdf: regin_hdr
+  auteurs: Jean-Charles Régin
+  lieu: Université de Nice
+  annee: 2004
+  hdr: true
+
+## \--- 2003 ---
+
+- titre: Explications de retraits de valeurs en programmation par contraintes et application au diagnostic déclaratif
+  pdf: lesaint
+  auteurs: Willy Lesaint
+  lieu: Université d'Orléans
+  annee: 2003
+
+- titre: Résolution de problèmes combinatoires modélisés par des contraintes quantifiées 
+  pdf: bordeaux
+  auteurs: Lucas Bordeaux
+  lieu: Université de Nantes
+  annee: 2003
+
+- titre: "Problèmes de satisfaction de contraintes : une étude logique et combinatoire"
+  pdf: madelaine
+  auteurs: Florent Madelaine
+  lieu: Université de Caen
+  annee: 2003
+
+- titre: Acquisition de connaissances et raisonnement en logique propositionnelle
+  pdf: zanuttini
+  auteurs: Bruno Zanuttini
+  lieu: Université de Caen Basse-Normandie
+  annee: 2003
+
+## \--- Avant 2003 ---
+
+- titre: Approches structurelles et coopératives pour la résolution des problèmes de satisfaction de contraintes 
+  pdf: terrioux
+  auteurs: Cyril Terrioux
+  lieu: Université d'Aix-Marseille I
+  annee: 2002
+
+- titre: "Étude de la compilation des langages logiques de programmation par contraintes sur les domaines finis : le système clp(FD)"
+  pdf: diaz
+  auteurs: Daniel Diaz
+  lieu: Université d'Orléans
+  annee: 1995
+
+- titre: A Constraint Satisfaction Approach for Enclosing Solutions to Initial Value Problems for Parametric Ordinary Differential Equations
+  pdf: janssen
+  auteurs: Micha Janssen
+  lieu: Université Catholique de Louvain
+  annee: 2001
+
+- titre: Résolution du problème SAT et génération de modèles finis en logique du premier ordre 
+  pdf: audemard
+  auteurs: Gilles Audemard
+  lieu: Université d'Aix-Marseille I
+  annee: 2001
+
+- titre: Langages et environnements en programmation par contraintes d’intervalles
+  pdf: goualard
+  auteurs: Frédéric Goualard
+  lieu: Université de Nantes
+  annee: 2000
+
+- titre: "Autour de SAT : le calcul d'impliquants P-restreints, algorithmes et applications" 
+  pdf: leberre
+  auteurs: Daniel Le Berre
+  lieu: Université Toulouse III
+  annee: 2000
+
+- titre: De la résolution du problème SAT à la résolution de problèmes autour de SAT 
+  pdf: sais_hdr
+  auteurs: Lakhdar Saïs
+  lieu: Université d'Artois
+  annee: 2000
+  hdr: true
+
+- titre: De la satisfaisabilité à la compilation de bases connaissances propositionnelles 
+  pdf: mazure
+  auteurs: Bertrand Mazure
+  lieu: Université d'Artois
+  annee: 1999
+
+- titre: Une étude théorique et expérimentale de la propagation des contraintes de ressources 
+  pdf: baptiste
+  auteurs: Philippe Baptiste
+  lieu: Université de Technologie de Compiègne
+  annee: 1998
