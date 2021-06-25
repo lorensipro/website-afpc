@@ -7,10 +7,4 @@ header:
 permalink: "/ressources/documents"
 ---
 
-# V1
-
 {% include list_memoires %}
-
-# V2
-
-{% include list_memoiresv2 %}
