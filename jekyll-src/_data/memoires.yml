@@ -5,7 +5,7 @@
   pdf: vigneron
   auteurs: Vincent Vigneron
   lieu: Université d’Angers
-  link: https://tel.archives-ouvertes.fr/tel-01758047v1
+  link: https://tel.archives-ouvertes.fr/tel-01758047
   annee: 2017
 
 ## \--- 2016 --
@@ -22,14 +22,14 @@
   auteurs: Margaux Nattaf
   lieu: Université de Toulouse
   annee: 2016
-  link: https://tel.archives-ouvertes.fr/tel-01417288v1
+  link: https://tel.archives-ouvertes.fr/tel-01417288
 
 - titre: Harnessing Tractability in Constraint Satisfaction Problems
   pdf: carbonnel
   auteurs: Clément Carbonnel
   lieu: Université de Toulouse
   annee: 2016
-  link: https://tel.archives-ouvertes.fr/tel-01444799v1
+  link: https://tel.archives-ouvertes.fr/tel-01444799
 
 - titre: Une nouvelle approche au General Game Playing dirigée par les contraintes
   pdf: epiette
@@ -50,7 +50,7 @@
   auteurs: Mohamed Rezgui
   lieu: Université Nice Sophia Antipolis
   annee: 2015
-  link: https://tel.archives-ouvertes.fr/tel-01191760v1
+  link: https://tel.archives-ouvertes.fr/tel-01191760
 
 - titre: On Compressing and Parallelizing Constraint Satisfaction Problems
   pdf: gharbi
@@ -65,7 +65,7 @@
   lieu: Institut National Polytechnique de Toulouse
   hdr: true
   annee: 2015
-  link: https://tel.archives-ouvertes.fr/tel-01319053v1
+  link: https://tel.archives-ouvertes.fr/tel-01319053
 
 - titre: Max-résolution et apprentissage pour la résolution du problème de satisfiabilité maximum
   pdf: abrame
@@ -84,12 +84,14 @@
   auteurs: Mohamed Siala
   lieu: INSA de Toulouse
   annee: 2015
+  link: https://tel.archives-ouvertes.fr/tel-01164291
 
 - titre: Hybridation d’algorithmes évolutionnaires et de méthodes d’intervalles pour l’optimisation de problèmes difficiles
   pdf: vanaret
   auteurs: Charlie Vanaret
   lieu: Université de Toulouse
   annee: 2015
+  link: https://tel.archives-ouvertes.fr/tel-01132106
 
 ## \--- 2014 ---
 
@@ -116,6 +118,7 @@
   auteurs: Jean-Guillaume Fages
   lieu: l’Université de Nantes Angers Le Mans
   annee: 2014
+  link: https://tel.archives-ouvertes.fr/tel-01085253
 
 - titre: Contributions à la résolution du problème de la Satisfiabilité Propositionnelle 
   pdf: lonlac
@@ -128,6 +131,7 @@
   auteurs: Thi Van Anh Nguyen
   lieu: Université de Caen Basse-Normandie
   annee: 2014
+  link: https://tel.archives-ouvertes.fr/tel-01138960
 
 - titre: Extraction de motifs sous contraintes souples
   pdf: rojas
@@ -152,12 +156,22 @@
   auteurs: Khanh-Chuong Duong
   lieu: Université d'Orléans
   annee: 2014
+  link: https://tel.archives-ouvertes.fr/tel-01202674
 
 - titre: Conception interactive d’environnements urbains durables à base de résolution de contraintes 
   pdf: belin
   auteurs: Bruno Belin
   lieu: Université de Nantes, Angers, Le Mans
   annee: 2014
+  link: https://tel.archives-ouvertes.fr/tel-01095433
+
+- titre: Éléments de flexibilité et d'efficacité en programmation par contraintes
+  pdf: lorca_hdr
+  auteurs: Xavier Lorca
+  lieu: École des Mines de Nantes, Université de Nantes, Inria
+  annee: 2014
+  hdr: true
+  link: https://tel.archives-ouvertes.fr/tel-01096401
 
 ## \--- 2013 ---
 
@@ -180,12 +194,22 @@
   auteurs: Mohamed Wahbi
   lieu: Université Montpellier 2 et Université Mohammed V-Agdal, Maroc
   annee: 2012
+  link: https://tel.archives-ouvertes.fr/tel-00718537
 
 - titre: Mémoire d'habilitation à diriger des recherches
   pdf: madelaine_hdr
   auteurs: Florent Madelaine
   lieu: Clermont Université
+  hdr: true
   annee: 2012
+  link: https://tel.archives-ouvertes.fr/tel-01096078
+
+- titre: Domaines abstraits en programmation par contraintes
+  pdf: pelleau
+  auteurs: Marie Pelleau
+  lieu: Université de Nantes
+  annee: 2012
+  link: https://tel.archives-ouvertes.fr/tel-03299271
 
 ## \--- 2011 ---
 
@@ -200,12 +224,14 @@
   auteurs: Antoine Jeanjean
   lieu: Ecole Polytechnique
   annee: 2011
+  link: https://tel.archives-ouvertes.fr/pastel-00670147
 
 - titre: Automates et programmation par contraintes pour la planification de personnel 
   pdf: menana
   auteurs: Julien Menana
   lieu: Université de Nantes
   annee: 2011
+  link: https://tel.archives-ouvertes.fr/tel-00785838
 
 - titre: "LS(Graph): A constraint-based local search framework for constrained optimum trees and paths problems on graphs"
   pdf: pham
@@ -230,12 +256,14 @@
   auteurs: Arnaud Malapert
   lieu: ENSTIM Nantes
   annee: 2011
+  link: https://tel.archives-ouvertes.fr/tel-00630122
 
 - titre: "Satisfiabilité propositionnelle et raisonnement par contraintes : modèles et algorithmes"
   pdf: lagniez
   auteurs: Jean-Marie Lagniez
   lieu: Université d'Artois
   annee: 2011
+  link: https://tel.archives-ouvertes.fr/tel-02488400
 
 - titre: "Aspects calculatoires de l'apprentissage, du raisonnement et de la décision"
   pdf: zanuttini_hdr
@@ -243,6 +271,7 @@
   lieu: Université de Caen Basse-Normandie
   annee: 2011
   hdr: true
+  link: https://tel.archives-ouvertes.fr/tel-00995250
 
 - titre: Optimisation combinatoire dans les réseaux de fonctions de coût
   pdf: degivry_hdr
@@ -250,6 +279,7 @@
   lieu: INRA UBIA Toulouse
   annee: 2011
   hdr: true
+  link: https://tel.archives-ouvertes.fr/tel-02810001
 
 ## \--- 2010 ---
 
@@ -258,6 +288,7 @@
   auteurs: Belaïd Saad
   lieu: Université de Paul Verlaine - Metz
   annee: 2010
+  link: https://tel.archives-ouvertes.fr/tel-01752684
 
 - titre: Solving Scheduling problems from High-Level Models
   pdf: monette
@@ -270,6 +301,7 @@
   auteurs: Jean-Philippe Métivier
   lieu: Université de Caen Basse-Normandie
   annee: 2010
+  link: https://tel.archives-ouvertes.fr/tel-01016976
 
 - titre: Exploitation des sous-expressions communes et de la monotonie des fonctions pour les algorithmes de ltrage sur intervalles
   pdf: araya
@@ -289,12 +321,14 @@
   auteurs: Nicolas Berger
   lieu: Université de Nantes
   annee: 2010
+  link: https://tel.archives-ouvertes.fr/tel-00560963
 
 - titre: "Tabu-NG : hybridation de programmation par contraintes et recherche localle pour la résolution de CSP"
   pdf: dib
   auteurs: Mohammad Dib
   lieu: Université de Technologie de Belfort-Montbéliard et Université de Franche-Comté
   annee: 2010
+  link: https://tel.archives-ouvertes.fr/tel-00644178
 
 - titre: Sat4j, un moteur libre de raisonnement en logique propositionnelle
   pdf: leberre_hdr
@@ -302,6 +336,7 @@
   lieu: Université d'Artois
   annee: 2010
   hdr: true
+  link: https://tel.archives-ouvertes.fr/tel-02884327
 
 - titre: Un Langage de Modélisation à base de Règles pour la Programmation Par Contraintes 
   pdf: martin
@@ -321,6 +356,7 @@
   auteurs: Madjid Khichane
   lieu: Université Claude Bernard Lyon 1
   annee: 2010
+  link: https://tel.archives-ouvertes.fr/tel-00720232
 
 ## \--- 2009 ---
 
@@ -335,12 +371,14 @@
   auteurs: Marie de Roquemaurel
   lieu: Université Toulouse III - Paul Sabatier
   annee: 2009
+  link: https://tel.archives-ouvertes.fr/tel-00394415
 
 - titre: Langages et transformation de modèles en programmation par contraintes
   pdf: soto
   auteurs: Ricardo Soto
   lieu: Université de Nantes
   annee: 2009
+  link: https://tel.archives-ouvertes.fr/tel-00483262
 
 - titre: "Résolution de systèmes d’équations : l’essor de la programmation par contraintes sur intervalles"
   pdf: trombettoni_hdr
@@ -354,6 +392,7 @@
   auteurs: Inès Alaya
   lieu: Institut Supérieur de Gestion de Tunis
   annee: 2009
+  link: https://tel.archives-ouvertes.fr/tel-00603780
 
 ## \--- 2008 ---
 
@@ -389,6 +428,7 @@
   auteurs: Xavier Lorca
   lieu: Université de Nantes
   annee: 2007
+  link: https://tel.archives-ouvertes.fr/tel-00484354
 
 - titre: Calcul et exploitation de recouvrements acycliques pour la résolution de (V)CSP 
   pdf: ndiaye
@@ -401,6 +441,7 @@
   auteurs: Raphaël Chenouard
   lieu: École Nationale Supérieure d'Arts et Métiers
   annee: 2007
+  link: https://tel.archives-ouvertes.fr/tel-00486662
 
 - titre: Techniques algorithmiques pour l'extraction de formules minimales inconsistantes 
   pdf: piette
@@ -419,12 +460,14 @@
   auteurs: Matthias Zytnicki
   lieu: Université de Toulouse
   annee: 2007
+  link: https://tel.archives-ouvertes.fr/tel-00258877
 
 - titre: Contributions à la résolution générique des problèmes de satisfaction de contraintes 
   pdf: vion
   auteurs: Julien Vion
   lieu: Université d'Artois
   annee: 2007
+  link: https://tel.archives-ouvertes.fr/tel-00262080
 
 - titre: Contribution à l'utilisation de la Programmation par Contraintes pour la Recherche de Modèles Finis en Intelligence Artificielle
   pdf: kleiner
@@ -483,6 +526,7 @@
   auteurs: Elise Vareilles
   lieu: Institut National Polytechnique de Toulouse
   annee: 2005
+  link: https://tel.archives-ouvertes.fr/tel-01857862
 
 - titre: "De la validité des formules booléennes quantifiées : étude de complexité et exploitation de classes traitables au sein d'un prouveur"
   pdf: letombe
@@ -503,6 +547,7 @@
   lieu: Université Claude Bernard Lyon 1
   annee: 2005
   hdr: true
+  link: https://tel.archives-ouvertes.fr/hal-01470067
 
 ## \--- 2004 ---
 
@@ -512,6 +557,7 @@
   lieu: Université de Nice
   annee: 2004
   hdr: true
+  link: https://tel.archives-ouvertes.fr/tel-00460193
 
 ## \--- 2003 ---
 
@@ -538,6 +584,7 @@
   auteurs: Bruno Zanuttini
   lieu: Université de Caen Basse-Normandie
   annee: 2003
+  link: https://tel.archives-ouvertes.fr/tel-00995247
 
 ## \--- Avant 2003 ---
 
@@ -552,6 +599,7 @@
   auteurs: Daniel Diaz
   lieu: Université d'Orléans
   annee: 1995
+  link: https://tel.archives-ouvertes.fr/tel-00981853
 
 - titre: A Constraint Satisfaction Approach for Enclosing Solutions to Initial Value Problems for Parametric Ordinary Differential Equations
   pdf: janssen
@@ -576,6 +624,7 @@
   auteurs: Daniel Le Berre
   lieu: Université Toulouse III
   annee: 2000
+  link: https://tel.archives-ouvertes.fr/tel-02881946
 
 - titre: De la résolution du problème SAT à la résolution de problèmes autour de SAT 
   pdf: sais_hdr
@@ -595,3 +644,11 @@
   auteurs: Philippe Baptiste
   lieu: Université de Technologie de Compiègne
   annee: 1998
+
+  - titre: Résultats de complexité et programmation par contraintes pour l'ordonnancement
+  pdf: baptiste_hdr
+  auteurs: Philippe Baptiste
+  lieu: Université de Technologie de Compiègne
+  annee: 2002
+  hdr: true
+  link: https://tel.archives-ouvertes.fr/tel-00124998
