@@ -626,26 +626,26 @@
   annee: 2000
   link: https://tel.archives-ouvertes.fr/tel-02881946
 
-- titre: De la résolution du problème SAT à la résolution de problèmes autour de SAT 
+- titre: "De la résolution du problème SAT à la résolution de problèmes autour de SAT"
   pdf: sais_hdr
   auteurs: Lakhdar Saïs
-  lieu: Université d'Artois
+  lieu: "Université d'Artois"
   annee: 2000
   hdr: true
 
-- titre: De la satisfaisabilité à la compilation de bases connaissances propositionnelles 
+- titre: "De la satisfaisabilité à la compilation de bases connaissances propositionnelles"
   pdf: mazure
   auteurs: Bertrand Mazure
-  lieu: Université d'Artois
+  lieu: "Université d'Artois"
   annee: 1999
 
-- titre: Une étude théorique et expérimentale de la propagation des contraintes de ressources 
+- titre: "Une étude théorique et expérimentale de la propagation des contraintes de ressources"
   pdf: baptiste
   auteurs: Philippe Baptiste
   lieu: Université de Technologie de Compiègne
   annee: 1998
 
-  - titre: Résultats de complexité et programmation par contraintes pour l'ordonnancement
+- titre: "Résultats de complexité et programmation par contraintes pour l'ordonnancement"
   pdf: baptiste_hdr
   auteurs: Philippe Baptiste
   lieu: Université de Technologie de Compiègne
