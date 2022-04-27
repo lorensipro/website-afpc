@@ -32,17 +32,11 @@
   url: "/jfpc/"
   side: left
 
-- title: "Ressources"
-  url: "/ressources/"
+- title: "Thèses et HDR"
+  url: "/documents/"
   side: "left"
-  dropdown:
-    - title: "Derniers travaux"
-      url: "/ressources/travaux"
-    - title: "Thèses et HDR autour de la PPC"
-      url: "/ressources/documents"
-    - title: "Soumettre un lien"
-      url: "/ressources/soumettre"
 
-- title: "Contacts"
+
+- title: "Contact"
   url: "/contact/"
   side: right
