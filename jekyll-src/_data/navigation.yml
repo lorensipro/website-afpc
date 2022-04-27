@@ -24,9 +24,6 @@
     - title: "la PPC à l'international"
       url: /ppc/international
 
-- title: "Actualité"
-  url: "/blog/"
-  side: left
 
 - title: "Les JFPC"
   url: "/jfpc/"
@@ -35,6 +32,13 @@
 - title: "Thèses et HDR"
   url: "/documents/"
   side: "left"
+
+- title: "Actualité"
+  url: "/blog/"
+  side: left
+  dropdown:
+    - title: "Archives"
+      url: /blog/archive
 
 
 - title: "Contact"
