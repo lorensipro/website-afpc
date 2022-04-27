@@ -16,3 +16,9 @@ L'efficacité des méthodes de résolution et l'extension des modèles permetten
 Les JFPC attirent une audience internationale, à travers la participation de chercheurs étrangers, principalement en provenance de Belgique, du Canada, des pays du Maghreb, et de l’Afrique francophone.
 
 Les JFPC se veulent un lieu convivial de rencontres, de discussions et d'échanges pour la communauté francophone, en particulier entre doctorants, chercheurs confirmés et industriels. L'importance des JFPC est reflétée par la part considérable (environ un tiers) de la communauté francophone dans la recherche mondiale dans ce domaine.
+
+### Actes scientifiques
+
+### Anciennes éditions
+
+{% include list_editions editions = site.data.anciennes-editions %}

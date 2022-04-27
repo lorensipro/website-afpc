@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+show_meta: false
+title: "AFPC: contactez nous"
+slogan: "Contactez-nous"
+subheadline: "Comment contacter l'Association Française de programmation par Contraintes"
+teaser: "Contacter l'AFPC"
+header:
+   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-
- [1]: http://www.wufoo.com/
+<p>Pour participer au développement de l'AFPC, ou tout simplement poster des nouvelles, des offres d'emploi, etc., envoyez simplement un courrier électronique à Laurent Simon (lsimon@labri.fr) en précisant vos prénom et nom de famille.</p>

@@ -1,4 +1,4 @@
-- title: AFPC 
+- title: AFPC
   url: "/"
   side: left
 
@@ -12,8 +12,6 @@
       url: "/presentation/association"
     - title: "Adhésion"
       url: "/presentation/adhesion"
-    - title: "Contacts"
-      url: "/presentation/contacts"
 
 - title: "La PPC"
   side: left
@@ -33,13 +31,6 @@
 - title: "Les JFPC"
   url: "/jfpc/"
   side: left
-  dropdown:
-    - title: "les JFPC"
-      url: "/jfpc/2021"
-    - title: "les Actes des JFPCS"
-      url: "/jfpc/actes"
-    - title: "Anciennes éditions"
-      url: "/jfpc/anciennes-editions"
 
 - title: "Ressources"
   url: "/ressources/"
@@ -53,5 +44,5 @@
       url: "/ressources/soumettre"
 
 - title: "Contacts"
-  url: "/presentation/contacts/"
+  url: "/contact/"
   side: right

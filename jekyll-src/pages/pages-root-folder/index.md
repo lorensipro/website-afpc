@@ -22,9 +22,9 @@ widget2:
   text: "L'AFPC organise son évènement scientifique annuel autour des Journées Francophones de Programmation par Contraintes. Durant 3 à 4 jours, les chercheurs du domaine se rencontrent et échangent autour de leurs derniers travaux, qu'ils soient originaux ou publiés récemment dans les meilleurs conférences internationales.  C'est aussi l'occasion pour les jeunes chercheurs du domaine de faire connaissance avec la communauté grâce à une forte convivialité qui entoure ces rencontres."
 widget3:
   title: "Travaux autour de la PPC"
-  url: '/ressources/'
+  url: '/ressources/documents'
   image: widget-travaux.png
-  text: "La communauté francophone est très active au niveau international et ses travaux comptent parmi les meilleurs au niveau mondial. Vous pouvez retrouver ici les thèses de doctorat et les habilitations à diriger les recherchesces journées sont aussi l'occasion de présenter les meilleurs résultats publiés dans les conférences internationales de renom."
+  text: "La communauté francophone est très active au niveau international et ses travaux comptent parmi les meilleurs au niveau mondial. Vous pouvez retrouver ici les thèses de doctorat et les habilitations à diriger les recherches."
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -36,8 +36,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https:/https://www.i3s.unice.fr/jfpc_2021/
-  text: Aller vers le site des JFPC 2021 >
+  url: https://ci.mines-stetienne.fr/pfia2022/conferences/jfpc/
+  text: Aller vers le site des JFPC 2022 >
   style: alert
 permalink: /index.html
 #
@@ -46,5 +46,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-
