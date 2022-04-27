@@ -1,3 +1,8 @@
+- lieu: Saint-Étienne
+  annee: 2022
+  website: https://ci.mines-stetienne.fr/pfia2022/conferences/jfpc/
+
+
 - lieu: Nice/ Zoom
   annee: 2021
   website: https://www.i3s.unice.fr/jfpc_2021/
@@ -7,45 +12,58 @@
 
 - lieu: "~~Nice~~ (COVID19)"
   annee: 2020
-#  actes:
-#    hal: https://www.i3s.unice.fr/jfpc_2021/
 
 - lieu: Albi
   annee: 2019
   website: https://jfpc2019.mines-albi.fr
-#  actes:
-#    pdf: jfpc2019.pdf # le fichier doit être dans assets/actes/
+  actes:
+    pdf: actes-JFPC-2019.pdf
+    hal: https://hal.archives-ouvertes.fr/hal-02159866
 
 - lieu: Amiens
   annee: 2018
   website: https://home.mis.u-picardie.fr/~evenement/JFPC2018/
-#  actes:
-#    pdf: # n'affiche rien si le champs est vide
-#    hal: # n'affiche rien si le champs est vide
+  actes:
+    pdf: actes-JFPC-2018.pdf
+    hal: https://hal.archives-ouvertes.fr/hal-02064794/
 
 - lieu: Montreuil sur Mer
   annee: 2017
   website: http://www.cril.univ-artois.fr/jfpc2017/
+  actes:
+    pdf: actes-JFPC-2017.pdf
 
 - lieu: Montpellier
   annee: 2016
   website: https://www.supagro.fr/jfpc_jiaf_2016/
+  actes:
+    pdf: actes-JFPC-2016.pdf
+    hal: https://hal.archives-ouvertes.fr/hal-01340084
 
 - lieu: Bordeaux
   annee: 2015
   website: https://jfpc2015.labri.fr/
+  actes:
+    pdf: actes-JFPC-2015.pdf
 
 - lieu: Angers
   annee: 2014
   website: http://jfpc-jiaf2014.univ-angers.fr/
+  actes:
+    pdf: actes-JFPC-2014.pdf
 
 - lieu: Aix-en-Provence
   annee: 2013
   website: http://www.lsis.org/jfpc-jiaf2013/
+  actes:
+    hal: https://hal.archives-ouvertes.fr/JFPC2013
 
 - lieu: Toulouse
   annee: 2012
   website: http://conf.laas.fr/jfpc-jiaf2012/
+  actes:
+    pdf: actes-JFPC-2012.pdf
+
 
 - lieu: Lyon
   annee: 2011
@@ -54,23 +72,35 @@
 - lieu: Caen
   annee: 2010
   website: https://jfpc2010.greyc.fr/
+  actes:
+    hal: https://hal.archives-ouvertes.fr/JFPC2010
 
 - lieu: Orléans
   annee: 2009
   website: https://hal.archives-ouvertes.fr/JFPC09
+  actes:
+    hal: https://hal.archives-ouvertes.fr/JFPC09
 
 - lieu: Nantes
   annee: 2008
   website: https://hal.inria.fr/JFPC08
+  actes:
+    hal: https://hal.inria.fr/JFPC08
 
 - lieu: Rocquencourt
   annee: 2007
   website: http://contraintes.inria.fr/JFPC07/
+  actes:
+    hal: https://hal.inria.fr/JFPC07
 
 - lieu: Nîmes
   annee: 2006
   website: https://hal.archives-ouvertes.fr/JFPC06/
+  actes:
+    hal: https://hal.archives-ouvertes.fr/JFPC06/
 
 - lieu: Lens
   annee: 2005
   website: http://www.cril.univ-artois.fr/JFPC05/
+  actes:
+    hal: https://hal.inria.fr/JFPC05
