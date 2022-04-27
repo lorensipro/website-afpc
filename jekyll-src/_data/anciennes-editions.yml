@@ -1,17 +1,27 @@
 - lieu: Nice/ Zoom
   annee: 2021
   website: https://www.i3s.unice.fr/jfpc_2021/
-- lieu: <strike>Nice</strike> (COVID19)
+#  actes:
+#    hal: https://www.i3s.unice.fr/jfpc_2021/
+#    pdf: jfpc2021.pdf # le fichier doit être dans assets/actes/
+
+- lieu: "~~Nice~~ (COVID19)"
   annee: 2020
-  website: "#"
+#  actes:
+#    hal: https://www.i3s.unice.fr/jfpc_2021/
 
 - lieu: Albi
   annee: 2019
   website: https://jfpc2019.mines-albi.fr
+#  actes:
+#    pdf: jfpc2019.pdf # le fichier doit être dans assets/actes/
 
 - lieu: Amiens
   annee: 2018
   website: https://home.mis.u-picardie.fr/~evenement/JFPC2018/
+#  actes:
+#    pdf: # n'affiche rien si le champs est vide
+#    hal: # n'affiche rien si le champs est vide
 
 - lieu: Montreuil sur Mer
   annee: 2017

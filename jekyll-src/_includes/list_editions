@@ -3,8 +3,21 @@
 
 {% for edition in editions -%}
   {%- if edition.website %} 
-  - [{{ edition.lieu }}]({{ edition.website }}) -- ({{ edition.annee }})
+    {% assign editionname = "["| append: edition.lieu | append: "](" | append : edition.website | append : ")" %}
   {%- else %} 
-  - {{ edition.lieu }} ({{ edition.annee }}) 
-  {%- endif -%}
+    {% assign editionname = edition.lieu %}
+  {%- endif %}
+  {%- assign actes = nil }} %}
+  {%- if edition.actes %} 
+    {%- if edition.actes.pdf %} 
+      {% assign actes = actes | append: "[\[pdf\]](" | append: absolute_url | append: "/assets/actes/" | append: edition.actes.pdf | append: ") " %}
+    {%- endif %}
+    {%- if edition.actes.hal %} 
+      {% assign actes = actes | append: "[\[hal\]](" | append: edition.actes.hal | append: ") " %}
+    {%- endif %}
+    {%- if actes %}
+      {% assign actes = actes | prepend: "-- actes " %}
+    {%- endif %}
+  {%- endif %}
+  - {{ editionname }} -- ({{ edition.annee }}) {{ actes }}
 {%- endfor %}
