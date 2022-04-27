@@ -1,13 +1,14 @@
 ---
 layout: page
 show_meta: false
-title: "AFPC: contactez nous"
+title: "Contactez l'AFPC"
 slogan: "Contactez-nous"
-subheadline: "Comment contacter l'Association Française de programmation par Contraintes"
-teaser: "Contacter l'AFPC"
+subheadline: "Association Française de programmation par Contraintes"
+teaser: "Utilisez la <b>liste de diffusion</b> pour poster des annonces, nouvelles, offres d'emploi, etc. Contactez le <b>conseil d'administration</b> pour participer au développement de l'AFPC, vous inscrire à la liste de diffusion,  ou ajouter un document à notre collection."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/contact/"
 ---
 
-<p>Pour participer au développement de l'AFPC, ou tout simplement poster des nouvelles, des offres d'emploi, etc., envoyez simplement un courrier électronique à Laurent Simon (lsimon@labri.fr) en précisant vos prénom et nom de famille.</p>
+- Liste de diffusion : [tous@afpc-asso.org](mailto:tous@afpc-asso.org)
+- Conseil d'administration : [ca@afpc-asso.org](mailto:ca@afpc-asso.org)
