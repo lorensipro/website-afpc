@@ -1,7 +1,9 @@
 
 {% assign editions = include.editions %}
 
-{% for edition in editions -%}
+| Année | Lieu | Actes |
+|+------|+-----|+------|
+{%- for edition in editions -%}
   {%- if edition.website %} 
     {% assign editionname = "["| append: edition.lieu | append: "](" | append : edition.website | append : ")" %}
   {%- else %} 
@@ -15,9 +17,6 @@
     {%- if edition.actes.hal %} 
       {% assign actes = actes | append: "[\[hal\]](" | append: edition.actes.hal | append: ") " %}
     {%- endif %}
-    {%- if actes %}
-      {% assign actes = actes | prepend: "-- actes " %}
-    {%- endif %}
   {%- endif %}
-  - {{ editionname }} -- ({{ edition.annee }}) {{ actes }}
+  | {{ edition.annee }} | {{ editionname }} | {{ actes }} |
 {%- endfor %}
