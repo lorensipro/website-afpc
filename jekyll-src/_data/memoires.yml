@@ -9,19 +9,7 @@
 
 ## \--- 2016 --
 
-- titre: "Classes polynomiales du problème CSP : entre théorie et pratique"
-  pdf: terrioux_hdr
-  auteurs: Cyril Terrioux
-  lieu: Aix-Marseille Université
-  hdr: true
-  annee: 2016
 
-
-- titre: Une nouvelle approche au General Game Playing dirigée par les contraintes
-  pdf: epiette
-  auteurs: Éric Piette
-  lieu: Université d'Artois
-  annee: 2016
 
 ## \--- 2015 --
 
@@ -44,11 +32,6 @@
   lieu: Université d'Aix-Marseille
   annee: 2015
 
-- titre: Strong consistencies for Weighted Constraint Satisfaction Problems
-  pdf: hiep_nguyen
-  auteurs: Thi Hong Hiep Nguyen
-  lieu: Université Toulouse
-  annee: 2015
 
 ## \--- 2014 ---
 
@@ -73,11 +56,6 @@
   annee: 2014
 
 
-- titre: Extraction de motifs sous contraintes souples
-  pdf: rojas
-  auteurs: Willy Ugarte Rojas
-  lieu: Université de Caen Basse-Normandie
-  annee: 2014
 
 - titre: Intégration de techniques CSP pour la résolution du problème WCSP
   pdf: nicolasparis
@@ -225,7 +203,6 @@
 ## \--- 2007 ---
 
 - titre: "Allocation et partage équitables de ressources indivisibles : modélisation"
-  lieu: complexité et algorithmique
   pdf: bouveret
   auteurs: Sylvain Bouveret
   lieu: Université de Toulouse/ISAE
@@ -332,12 +309,6 @@
   lieu: Université de Caen
   annee: 2003
 
-- titre: Acquisition de connaissances et raisonnement en logique propositionnelle
-  pdf: zanuttini
-  auteurs: Bruno Zanuttini
-  lieu: Université de Caen Basse-Normandie
-  annee: 2003
-  link: https://tel.archives-ouvertes.fr/tel-00995247
 
 ## \--- Avant 2003 ---
 
@@ -366,12 +337,6 @@
   lieu: Université de Nantes
   annee: 2000
 
-- titre: "Autour de SAT : le calcul d'impliquants P-restreints, algorithmes et applications"
-  pdf: leberre
-  auteurs: Daniel Le Berre
-  lieu: Université Toulouse III
-  annee: 2000
-  link: https://tel.archives-ouvertes.fr/tel-02881946
 
 - titre: "De la résolution du problème SAT à la résolution de problèmes autour de SAT"
   pdf: sais_hdr
@@ -391,11 +356,3 @@
   auteurs: Philippe Baptiste
   lieu: Université de Technologie de Compiègne
   annee: 1998
-
-- titre: "Résultats de complexité et programmation par contraintes pour l'ordonnancement"
-  pdf: baptiste_hdr
-  auteurs: Philippe Baptiste
-  lieu: Université de Technologie de Compiègne
-  annee: 2002
-  hdr: true
-  link: https://tel.archives-ouvertes.fr/tel-00124998
