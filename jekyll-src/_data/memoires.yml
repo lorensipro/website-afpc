@@ -6,14 +6,6 @@
   lieu: Louvain School of Engineering
   annee: 2021
 
-## \--- 2017 --
-
-- titre: Programmation par contraintes et découverte de motifs sur données séquentielles
-  pdf: vigneron
-  auteurs: Vincent Vigneron
-  lieu: Université d’Angers
-  link: https://tel.archives-ouvertes.fr/tel-01758047
-  annee: 2017
 
 ## \--- 2016 --
 
@@ -24,19 +16,6 @@
   hdr: true
   annee: 2016
 
-- titre: Ordonnancement sous contraintes d’énergie
-  pdf: nattaf
-  auteurs: Margaux Nattaf
-  lieu: Université de Toulouse
-  annee: 2016
-  link: https://tel.archives-ouvertes.fr/tel-01417288
-
-- titre: Harnessing Tractability in Constraint Satisfaction Problems
-  pdf: carbonnel
-  auteurs: Clément Carbonnel
-  lieu: Université de Toulouse
-  annee: 2016
-  link: https://tel.archives-ouvertes.fr/tel-01444799
 
 - titre: Une nouvelle approche au General Game Playing dirigée par les contraintes
   pdf: epiette
@@ -58,14 +37,6 @@
   lieu: Université d'Artois
   annee: 2015
 
-- titre: "Configuration interactive et Contraintes : Connaissances
-  lieu: Filtrage et Extensions"
-  pdf: vareilles_hdr
-  auteurs: Élise Vareilles
-  lieu: Institut National Polytechnique de Toulouse
-  hdr: true
-  annee: 2015
-  link: https://tel.archives-ouvertes.fr/tel-01319053
 
 - titre: Max-résolution et apprentissage pour la résolution du problème de satisfiabilité maximum
   pdf: abrame
@@ -81,12 +52,6 @@
 
 ## \--- 2014 ---
 
-- titre: Contrôle de la Propagation et de la Recherche dans un Solveur de Contraintes
-  pdf: prudhomme
-  auteurs: Charles Prud’Homme
-  lieu: Université de Nantes Angers Le Mans
-  annee: 2014
-  link: https://tel.archives-ouvertes.fr/tel-01060921/
 
 - titre: "Classes polynomiales pour CSP : de la théorie à la pratique"
   pdf: elmouelhi
@@ -107,12 +72,6 @@
   lieu: Université d'Artois
   annee: 2014
 
-- titre: "Constraint Games: Modeling and Solving Games with Constraints"
-  pdf: nguyen
-  auteurs: Thi Van Anh Nguyen
-  lieu: Université de Caen Basse-Normandie
-  annee: 2014
-  link: https://tel.archives-ouvertes.fr/tel-01138960
 
 - titre: Extraction de motifs sous contraintes souples
   pdf: rojas
@@ -133,12 +92,6 @@
   annee: 2014
 
 
-- titre: Conception interactive d’environnements urbains durables à base de résolution de contraintes
-  pdf: belin
-  auteurs: Bruno Belin
-  lieu: Université de Nantes, Angers, Le Mans
-  annee: 2014
-  link: https://tel.archives-ouvertes.fr/tel-01095433
 
 
 ## \--- 2013 ---
@@ -157,20 +110,6 @@
   lieu: Université Nantes Angers le Mans
   annee: 2012
 
-- titre: Algorithms and Ordering Heuristics for Distributed Constraint Satisfaction Problems
-  pdf: wahbi
-  auteurs: Mohamed Wahbi
-  lieu: Université Montpellier 2 et Université Mohammed V-Agdal, Maroc
-  annee: 2012
-  link: https://tel.archives-ouvertes.fr/tel-00718537
-
-- titre: Mémoire d'habilitation à diriger des recherches
-  pdf: madelaine_hdr
-  auteurs: Florent Madelaine
-  lieu: Clermont Université
-  hdr: true
-  annee: 2012
-  link: https://tel.archives-ouvertes.fr/tel-01096078
 
 
 ## \--- 2011 ---
@@ -180,13 +119,6 @@
   auteurs: Nadjib Lazaar
   lieu: Université de Rennes 1
   annee: 2011
-
-- titre: "Recherche locale pour l'optimisation en variables mixtes : méthodologie et applications industrielles"
-  pdf: jeanjean
-  auteurs: Antoine Jeanjean
-  lieu: Ecole Polytechnique
-  annee: 2011
-  link: https://tel.archives-ouvertes.fr/pastel-00670147
 
 
 - titre: "LS(Graph): A constraint-based local search framework for constrained optimum trees and paths problems on graphs"
@@ -212,32 +144,11 @@
   auteurs: Jean-Marie Lagniez
   lieu: Université d'Artois
   annee: 2011
-  link: https://tel.archives-ouvertes.fr/tel-02488400
+  link: https://www.theses.fr/2011ARTO0404
 
-- titre: "Aspects calculatoires de l'apprentissage, du raisonnement et de la décision"
-  pdf: zanuttini_hdr
-  auteurs: Bruno Zanuttini
-  lieu: Université de Caen Basse-Normandie
-  annee: 2011
-  hdr: true
-  link: https://tel.archives-ouvertes.fr/tel-00995250
-
-- titre: Optimisation combinatoire dans les réseaux de fonctions de coût
-  pdf: degivry_hdr
-  auteurs: Simon de Givry
-  lieu: INRA UBIA Toulouse
-  annee: 2011
-  hdr: true
-  link: https://tel.archives-ouvertes.fr/tel-02810001
 
 ## \--- 2010 ---
 
-- titre: Intégration des problèmes de satisfaction de contraintes distribués et sécurisés dans les systèmes d'aide à la décision à base de connaissance
-  pdf: saad
-  auteurs: Belaïd Saad
-  lieu: Université de Paul Verlaine - Metz
-  annee: 2010
-  link: https://tel.archives-ouvertes.fr/tel-01752684
 
 - titre: Solving Scheduling problems from High-Level Models
   pdf: monette
@@ -245,12 +156,6 @@
   lieu: Université Catholique de Louvain
   annee: 2010
 
-- titre: "Relaxation de contraintes globales : Mise en oeuvre et application"
-  pdf: metivier
-  auteurs: Jean-Philippe Métivier
-  lieu: Université de Caen Basse-Normandie
-  annee: 2010
-  link: https://tel.archives-ouvertes.fr/tel-01016976
 
 - titre: Exploitation des sous-expressions communes et de la monotonie des fonctions pour les algorithmes de ltrage sur intervalles
   pdf: araya
@@ -265,21 +170,6 @@
   annee: 2010
   hdr: true
 
-
-- titre: "Tabu-NG : hybridation de programmation par contraintes et recherche localle pour la résolution de CSP"
-  pdf: dib
-  auteurs: Mohammad Dib
-  lieu: Université de Technologie de Belfort-Montbéliard et Université de Franche-Comté
-  annee: 2010
-  link: https://tel.archives-ouvertes.fr/tel-00644178
-
-- titre: Sat4j, un moteur libre de raisonnement en logique propositionnelle
-  pdf: leberre_hdr
-  auteurs: Daniel le Berre
-  lieu: Université d'Artois
-  annee: 2010
-  hdr: true
-  link: https://tel.archives-ouvertes.fr/tel-02884327
 
 - titre: Un Langage de Modélisation à base de Règles pour la Programmation Par Contraintes
   pdf: martin
@@ -303,13 +193,6 @@
   lieu: Université Catholique de Louvain
   annee: 2009
 
-- titre: Planification de coût optimal basée sur les CSP pondérés
-  pdf: deroquemaurel
-  auteurs: Marie de Roquemaurel
-  lieu: Université Toulouse III - Paul Sabatier
-  annee: 2009
-  link: https://tel.archives-ouvertes.fr/tel-00394415
-
 
 - titre: "Résolution de systèmes d’équations : l’essor de la programmation par contraintes sur intervalles"
   pdf: trombettoni_hdr
@@ -318,12 +201,6 @@
   annee: 2009
   hdr: true
 
-- titre: Optimisation par colonies de fourmis pour des problèmes d'optimisation multi-objectif
-  pdf: alaya
-  auteurs: Inès Alaya
-  lieu: Institut Supérieur de Gestion de Tunis
-  annee: 2009
-  link: https://tel.archives-ouvertes.fr/tel-00603780
 
 ## \--- 2008 ---
 
@@ -374,12 +251,6 @@
   lieu: Université d'Artois
   annee: 2007
 
-- titre: Localisation d'ARN non-codants par réseaux de contraintes pondérées
-  pdf: zytnicki
-  auteurs: Matthias Zytnicki
-  lieu: Université de Toulouse
-  annee: 2007
-  link: https://tel.archives-ouvertes.fr/tel-00258877
 
 
 - titre: Contribution à l'utilisation de la Programmation par Contraintes pour la Recherche de Modèles Finis en Intelligence Artificielle
@@ -440,13 +311,6 @@
 
 ## \--- 2004 ---
 
-- titre: Modélisation et Contraintes Globales en Programmation par Contraintes
-  pdf: regin_hdr
-  auteurs: Jean-Charles Régin
-  lieu: Université de Nice
-  annee: 2004
-  hdr: true
-  link: https://tel.archives-ouvertes.fr/tel-00460193
 
 ## \--- 2003 ---
 
