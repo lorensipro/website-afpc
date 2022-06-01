@@ -18,7 +18,15 @@
 
 */
 
+#top-of-page {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
 
+.content {
+    flex: 1 0 auto;
+}
 
 /* Adjustments: Video Layout
 ------------------------------------------------------------------- */
@@ -88,21 +96,41 @@ body.video cite { color: #fff; }
 #masthead-no-image-header #logo img {
     margin-top: 60px;
 }
-#masthead-slogan {
-    text-align: center;
-    font-size: rem-calc(36);
-    font-family: $header-font-family;
-    color: #a00;
-    text-shadow: 0 2px 3px rgba(0,0,0,.4);
-    background-color: rgba(255,255,255,.8);
-}
 
 /* Masthead › small-only
 ------------------------------------------------------------------- */
+@mixin flush-l {
+    float: left;
+}
+
+@mixin flush-r {
+    float: right;
+}
+
+@mixin flush-c {
+    display: block;
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@mixin small {
+    height: 150px !important;
+    margin-top: 25px;
+}
 
 @media #{$small-only} {
     #logo img {
-        display: none;
+        @include flush-l;
+        @include small;
+    }
+    #logo-r img {
+        @include flush-r;
+        @include small;
+    }
+    #logo-c img {
+        @include flush-c;
+        @include small;
     }
     #masthead {
         height: 200px;
@@ -127,9 +155,23 @@ body.video cite { color: #fff; }
 /* Masthead › medium-only
 ------------------------------------------------------------------- */
 
+@mixin medium {
+    height: 200px !important;
+    margin-top: 40px;
+}
+
 @media #{$medium-only} {
     #logo img {
-        margin-top: 60px;
+        @include flush-l;
+        @include medium;
+    }
+    #logo-r img {
+        @include flush-r;
+        @include medium;
+    }
+    #logo-c img {
+        @include flush-c;
+        @include medium;
     }
     #masthead {
         height: 280px;
@@ -150,9 +192,23 @@ body.video cite { color: #fff; }
 /* Masthead › large-only
 ------------------------------------------------------------------- */
 
+@mixin large {
+    height: 250px !important;
+    margin-top: 30px;
+}
+
 @media #{$large-only} {
     #logo img {
-        margin-top: 80px;
+        @include flush-l;
+        @include large;
+    }
+    #logo-r img {
+        @include flush-r;
+        @include large;
+    }
+    #logo-c img {
+        @include flush-c;
+        @include large;
     }
     #masthead {
         height: 310px;
@@ -173,9 +229,23 @@ body.video cite { color: #fff; }
 /* Masthead › xlarge-up
 ------------------------------------------------------------------- */
 
+@mixin xlarge {
+    height: 250px !important;
+    margin-top: 65px;
+}
+
 @media #{$xlarge-up} {
     #logo img {
-        margin-top: 110px;
+        @include flush-l;
+        @include xlarge;
+    }
+    #logo-r img {
+        @include flush-r;
+        @include xlarge;
+    }
+    #logo-c img {
+        @include flush-c;
+        @include xlarge;
     }
     #masthead {
         height: 380px;
@@ -272,6 +342,9 @@ body.video cite { color: #fff; }
 
 /* Footer
 ------------------------------------------------------------------- */
+footer {
+    flex-shrink: 0;
+}
 
 #footer-content p,
 #footer-content li {
@@ -284,17 +357,17 @@ body.video cite { color: #fff; }
     padding-bottom: 20px;
     background: $footer-bg;
     color: $footer-color;
-    }
+}
 
-    #footer a {
-        color: $footer-link-color;
-    }
-    #footer h4,
-    #footer h5 {
-        letter-spacing: 1px;
-        color: #fff;
-        text-transform: uppercase;
-    }
+#footer a {
+    color: $footer-link-color;
+}
+#footer h4,
+#footer h5 {
+    letter-spacing: 1px;
+    color: #fff;
+    text-transform: uppercase;
+}
 
 
 
@@ -305,42 +378,33 @@ body.video cite { color: #fff; }
     background: $subfooter-bg;
     color: $subfooter-color;
     padding-top: 30px;
+    padding-bottom: 10px;
 }
-
-#subfooter-left ul.inline-list {
-    float: left;
-}
-
-.credits a {
-    color: $subfooter-link-color;
-    border: 0;
-    text-transform: uppercase;
-    &:hover {
-        color: #fff;
-  }
-}
-
-.social-icons {
-    margin-bottom: 10px !important;
-
-// Beware of SCSS-Syntax here
-  li {
-    padding: 0 0 20px 0;
-  }
-  a {
-    font-size: rem-calc(23);
-    display: block;
-    width: 36px;
-    border-radius: 50%;
-    color: $subfooter-bg;
-    background: $subfooter-color;
-    text-align: center;
-    &:hover {
-      background: $subfooter-bg;
-      color: #fff;
+    #subfooter-left ul.inline-list {
+        float: left;
     }
-  }
-}
+    #subfooter .credits a {
+        color: $subfooter-link-color;
+        border: 0;
+        text-transform: uppercase;
+        &:hover {
+            color: #fff;
+        }
+    }
+
+    #subfooter .social-icons li a {
+        font-size: rem-calc(23);
+        display: block;
+        width: 36px;
+        border-radius: 50%;
+        color: $subfooter-bg;
+        background: $subfooter-color;
+        text-align: center;
+    }
+    #subfooter .social-icons li a:hover {
+        background: $subfooter-bg;
+        color: #fff;
+    }
 
 
 

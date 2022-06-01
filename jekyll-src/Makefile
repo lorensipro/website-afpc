@@ -7,5 +7,8 @@ serve:
 draft:
 	${JEKYLL} serve ${JOPTS} ${DEVCONF} --draft --future
 
+build:
+	${JEKYLL} build
+
 clean:
 	rm -fr _site/
