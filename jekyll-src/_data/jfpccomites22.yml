@@ -1,0 +1,58 @@
+- type: "de programme"
+  presidence:
+    - name: Nicolas Prcovic
+      institution: LIS, Université d'Aix-Marseille
+  autre:
+    - name: Quentin Cappart
+      institution: Ecole Polytechnique de Montréal
+    - name: Clément Carbonnel
+      institution: CNRS
+    - name: Mohamed Sami Cherif
+      institution: Aix-Marseille Université, LIS
+    - name: Thi-Bich-Hanh Dao
+      institution: Université d'Orléans
+    - name: Sophie Demassey
+      institution: CMA, MINES ParisTech
+    - name: Guillaume Derval
+      institution: Université Catholique de Louvain
+    - name: Jean-Guillaume Fages
+      institution: COSLING S.A.S.
+    - name: Xavier Gillard
+      institution: Université Catholique de Louvain
+    - name: Jin-Kao Hao
+      institution: Université d'Angers
+    - name: Arnaud Lallouet
+      institution: Huawei Technologies Ltd
+    - name: Olivier Lhomme
+      institution: IBM France
+    - name: Chu-Min Li
+      institution: Université de Picardie Jules Verne
+    - name: Giovanni Lo Bianco
+      institution: Université de Toronto
+    - name: Pierre Montalbano
+      institution: ANITI/INRAE
+    - name: Margaux Nattaf
+      institution: Grenoble INP - G-SCOP
+    - name: Samba Ndojh Ndiaye
+      institution: Liris
+    - name: Bertrand Neveu
+      institution: Ecole des ponts
+    - name: Abdelkader Ouali
+      institution: GREYC, Université de Caen Normandie
+    - name: Marie Pelleau
+      institution: Université Côte d'Azur, I3S
+    - name: Guillaume Perez
+      institution: Université Côte d'Azur, I3S
+    - name: Eric Piette
+      institution: DKE
+    - name: Charles Prud'Homme
+      institution: IMT Atlantique, LS2N
+    - name: Mathieu Py
+      institution: LIS, Aix-Marseille Université
+    - name: Julien Vion
+      institution: LAMIH, Université de Valenciennes et du Hainaut-Cambrésis
+    - name: Romain Wallon
+      institution: CRIL, Université d'Artois
+    - name: Ghiles Ziat
+      institution: LIP6
+      
