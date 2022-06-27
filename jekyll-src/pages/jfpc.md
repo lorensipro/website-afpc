@@ -18,7 +18,7 @@ Les JFPC se veulent un lieu convivial de rencontres, de discussions et d'échang
 
 ## JFPC 2022 à Saint-Étienne
 
-![banniere-jfpc]({{ site.url }}{{ site.baseurl }}/images/banniere-jfpc-2022.jpg)
+![banniere-jfpc]({{ site.url }}{{ site.baseurl }}/images/banniere-JFPC-2022.jpg)
 
 ### Historique des précédentes éditions
 

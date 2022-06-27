@@ -1,0 +1,14 @@
+{% assign fichier = include.fichier %}
+
+Pour information, les JFPC ont été (magnifiquement) organisées par les personnes suivantes, très impliquées dans la PPC :
+
+{%- for comite in fichier %}
+## Comité {{ comite.type }}
+
+### Présidence
+{% include list_members members = comite.presidence %}
+
+### Autre Membres
+{% include list_members members = comite.autre %}
+
+{% endfor %}
