@@ -9,9 +9,9 @@
 - lieu: Nice/ Zoom
   annee: 2021
   website: https://www.i3s.unice.fr/jfpc_2021/
-#  actes:
+  actes:
+    pdf: actes-JFPC-2021.pdf
 #    hal: https://www.i3s.unice.fr/jfpc_2021/
-#    pdf: jfpc2021.pdf # le fichier doit être dans assets/actes/
 
 - lieu: "~~Nice~~ (COVID19)"
   annee: 2020
