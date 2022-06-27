@@ -1,6 +1,9 @@
 - lieu: Saint-Étienne
   annee: 2022
   website: https://ci.mines-stetienne.fr/pfia2022/conferences/jfpc/
+  actes:
+    pdf: actes-JFPC-2022.pdf
+#    hal: https://hal.archives-ouvertes.fr/hal-02159866
 
 
 - lieu: Nice/ Zoom
