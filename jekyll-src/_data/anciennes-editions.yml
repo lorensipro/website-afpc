@@ -71,17 +71,21 @@
 - lieu: Lyon
   annee: 2011
   website: https://projet.liris.cnrs.fr/jfpcjiaf/
+  actes:
+    pdf: actes-JFPC-2011.pdf
 
 - lieu: Caen
   annee: 2010
   website: https://jfpc2010.greyc.fr/
   actes:
+    pdf: actes-JFPC-2010.pdf
     hal: https://hal.archives-ouvertes.fr/JFPC2010
 
 - lieu: Orléans
   annee: 2009
   website: https://hal.archives-ouvertes.fr/JFPC09
   actes:
+    pdf: actes-JFPC-2009.pdf
     hal: https://hal.archives-ouvertes.fr/JFPC09
 
 - lieu: Nantes
