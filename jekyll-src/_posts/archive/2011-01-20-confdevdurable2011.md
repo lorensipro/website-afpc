@@ -3,6 +3,7 @@ layout: page
 title: Conference Debat Optimisation et Developpement Durable (27 janvier, Microsoft)
 title_content: Conference Debat Optimisation et Develop...
 date_content: 2011-01-20 11:54:01.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Poste de MCF 27 à Sophia Antipolis
 title_content: Poste de MCF 27 à Sophia Antipolis
 date_content: 2011-02-07 03:33:00.000000
+hidden: true
 tags:
   - archive
 ---

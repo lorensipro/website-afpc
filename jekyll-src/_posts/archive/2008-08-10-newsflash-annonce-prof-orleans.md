@@ -3,6 +3,7 @@ layout: page
 title: Newsflash Annonce Prof Orléans
 title_content: Newsflash Annonce Prof Orléans
 date_content: 2008-08-10 06:30:34.000000
+hidden: true
 tags:
   - archive
 ---

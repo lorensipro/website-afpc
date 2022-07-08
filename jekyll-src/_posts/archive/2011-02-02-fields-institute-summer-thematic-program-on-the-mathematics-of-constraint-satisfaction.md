@@ -3,6 +3,7 @@ layout: page
 title: Fields Institute Summer Thematic Program on the Mathematics of Constraint Satisfaction
 title_content: Fields Institute Summer Thematic Program...
 date_content: 2011-02-02 15:54:12.000000
+hidden: true
 tags:
   - archive
 ---

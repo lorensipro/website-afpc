@@ -3,6 +3,7 @@ layout: page
 title: "[CDD 44] Ingénieur d'études CNRS"
 title_content: "[CDD 44] Ingénieur d'études CNRS"
 date_content: 2012-02-01 14:00:57.000000
+hidden: true
 tags:
   - archive
 ---

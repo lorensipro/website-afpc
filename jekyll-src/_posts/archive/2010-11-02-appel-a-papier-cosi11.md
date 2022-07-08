@@ -3,6 +3,7 @@ layout: page
 title_content: Appel à papier COSI'11
 title: Appel à papier COSI'11
 date_content: 2010-11-02 00:00:00.000000
+hidden: true
 tags:
   - archive
 ---

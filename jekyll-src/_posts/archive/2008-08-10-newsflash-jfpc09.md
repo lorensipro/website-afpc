@@ -3,6 +3,7 @@ layout: page
 title: Newsflash JFPC09
 title_content: Newsflash JFPC09
 date_content: 2008-08-10 06:30:34.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Offre de thèse au CRI / Univ. Paris 1
 title_content: Offre de thèse au CRI / Univ. Paris 1
 date_content: 2012-06-13 13:00:45.000000
+hidden: true
 tags:
   - archive
 ---

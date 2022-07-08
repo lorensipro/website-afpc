@@ -3,6 +3,7 @@ layout: page
 title: Post-doctoral position for studying computational methods for chemogenomics
 title_content: Post-doctoral position for studying comp...
 date_content: 2011-03-14 11:25:30.000000
+hidden: true
 tags:
   - archive
 ---

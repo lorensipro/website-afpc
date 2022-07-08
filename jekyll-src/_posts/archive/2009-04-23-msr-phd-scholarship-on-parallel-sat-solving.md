@@ -3,6 +3,7 @@ layout: page
 title: MSR PhD Scholarship on Parallel SAT Solving
 title_content: MSR PhD Scholarship on Parallel SAT Solv...
 date_content: 2009-04-23 12:19:06.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Sujet de thèse au LERIA
 title_content: Sujet de thèse au LERIA
 date_content: 2012-05-26 08:45:30.000000
+hidden: true
 tags:
   - archive
 ---

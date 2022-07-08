@@ -3,6 +3,7 @@ layout: page
 title: Collection "programmation par contraintes" chez Hermes / ISTE / Wiley
 title_content: Collection "programmation par contrainte...
 date_content: 2012-03-13 00:00:00.000000
+hidden: true
 tags:
   - archive
 ---

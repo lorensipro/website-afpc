@@ -3,6 +3,7 @@ layout: page
 title: Sr. R&D Engineer / Software Architect - Formal verification at ATRENTA (Grenoble)
 title_content: Sr. R&D Engineer / Software Architect - ...
 date_content: 2014-04-03 08:50:03.000000
+hidden: true
 tags:
   - archive
 ---

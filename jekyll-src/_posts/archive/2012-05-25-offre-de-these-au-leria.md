@@ -3,6 +3,7 @@ layout: page
 title: Offre de thèse au LERIA
 title_content: Offre de thèse au LERIA
 date_content: 2012-05-25 16:25:31.000000
+hidden: true
 tags:
   - archive
 ---

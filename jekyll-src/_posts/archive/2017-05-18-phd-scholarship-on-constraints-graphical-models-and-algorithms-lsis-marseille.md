@@ -3,6 +3,7 @@ layout: page
 title: PhD scholarship on Constraints, Graphical Models and Algorithms -- LSIS, Marseille
 title_content: PhD scholarship on Constraints, Graphica...
 date_content: 2017-05-18 07:52:32.000000
+hidden: true
 tags:
   - archive
 ---

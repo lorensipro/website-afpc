@@ -3,6 +3,7 @@ layout: page
 title: Liste des séminaires passés 
 title_content: Liste des séminaires passés 
 date_content: 2009-01-09 20:45:47.000000
+hidden: true
 tags:
   - archive
 ---

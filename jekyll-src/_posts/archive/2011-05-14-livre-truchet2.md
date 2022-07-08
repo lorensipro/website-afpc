@@ -3,6 +3,7 @@ layout: page
 title: Constraint Programming in Music
 title_content: Constraint Programming in Music
 date_content: 2011-05-14 15:10:13.000000
+hidden: true
 tags:
   - archive
 ---

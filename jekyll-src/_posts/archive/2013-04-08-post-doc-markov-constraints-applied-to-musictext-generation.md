@@ -3,6 +3,7 @@ layout: page
 title: "Post-doc: Markov constraints applied to music/text generation"
 title_content: "Post-doc: Markov constraints applied to ..."
 date_content: 2013-04-08 13:35:38.000000
+hidden: true
 tags:
   - archive
 ---

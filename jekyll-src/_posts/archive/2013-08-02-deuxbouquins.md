@@ -3,6 +3,7 @@ layout: page
 title: Deux ouvrages d'intérêt pour l'AFPC
 title_content: Deux ouvrages d'intérêt pour l'AFPC
 date_content: 2013-08-02 12:32:40.000000
+hidden: true
 tags:
   - archive
 ---

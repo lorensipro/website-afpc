@@ -3,6 +3,7 @@ layout: page
 title: Programme LAD et Isomorphisme de sous-graphes
 title_content: Programme LAD et Isomorphisme de sous-gr...
 date_content: 2010-06-03 14:29:10.000000
+hidden: true
 tags:
   - archive
 ---

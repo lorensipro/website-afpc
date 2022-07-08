@@ -3,6 +3,7 @@ layout: page
 title: Instructions soumission
 title_content: Instructions soumission
 date_content: 2011-09-23 15:02:06.000000
+hidden: true
 tags:
   - archive
 ---

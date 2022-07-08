@@ -3,6 +3,7 @@ layout: page
 title: Les séminaires de l'AFPC
 title_content: Les séminaires de l'AFPC
 date_content: 2008-08-09 07:49:20.000000
+hidden: true
 tags:
   - archive
 ---

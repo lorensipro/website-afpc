@@ -3,6 +3,7 @@ layout: page
 title: PhD Thesis in CP and SMT-solving at Inria Rennes
 title_content: PhD Thesis in CP and SMT-solving at Inri...
 date_content: 2015-03-17 12:21:03.000000
+hidden: true
 tags:
   - archive
 ---

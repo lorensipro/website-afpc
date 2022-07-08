@@ -3,6 +3,7 @@ layout: page
 title: Proposals for phd thesis - coconut team - lirmm - Montpellier
 title_content: Proposals for phd thesis - coconut team ...
 date_content: 2015-05-03 12:50:31.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: ICORES 2018-- International Conference on Operations Research and Enterprise Systems
 title_content: ICORES 2018-- International Conference o...
 date_content: 2017-10-09 11:34:14.000000
+hidden: true
 tags:
   - archive
 ---

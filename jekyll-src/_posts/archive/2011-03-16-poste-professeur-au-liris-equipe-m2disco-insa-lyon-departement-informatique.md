@@ -3,6 +3,7 @@ layout: page
 title: Poste Professeur au LIRIS équipe M2DisCo - INSA Lyon département Informatique
 title_content: Poste Professeur au LIRIS équipe M2DisCo...
 date_content: 2011-03-16 19:48:20.000000
+hidden: true
 tags:
   - archive
 ---

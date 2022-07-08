@@ -3,6 +3,7 @@ layout: page
 title: Trois questions à Francesca Rossi
 title_content: Trois questions à Francesca Rossi
 date_content: 2007-07-07 09:54:06.000000
+hidden: true
 tags:
   - archive
 ---

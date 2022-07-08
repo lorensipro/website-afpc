@@ -3,6 +3,7 @@ layout: page
 title: Appel à mémoire
 title_content: Appel à mémoire
 date_content: 2010-04-26 12:46:20.000000
+hidden: true
 tags:
   - archive
 ---

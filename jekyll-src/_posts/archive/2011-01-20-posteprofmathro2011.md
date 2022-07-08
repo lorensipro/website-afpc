@@ -3,6 +3,7 @@ layout: page
 title: Poste de professeur en Math appliqués / Recherche Opérationnelle à Polytechnique Montréal
 title_content: Poste de professeur en Math appliqués / ...
 date_content: 2011-01-20 11:55:51.000000
+hidden: true
 tags:
   - archive
 ---

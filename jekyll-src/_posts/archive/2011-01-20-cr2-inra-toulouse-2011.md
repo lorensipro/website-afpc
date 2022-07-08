@@ -3,6 +3,7 @@ layout: page
 title: Poste CR2 "Optimisation combinatoire pour la Bioinformatique" à Toulouse
 title_content: Poste CR2 "Optimisation combinatoire pou...
 date_content: 2011-01-20 11:51:47.000000
+hidden: true
 tags:
   - archive
 ---

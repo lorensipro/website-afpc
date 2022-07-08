@@ -3,6 +3,7 @@ layout: page
 title: PhD position to work on SAT available at KTH
 title_content: PhD position to work on SAT available at...
 date_content: 2018-09-27 08:41:48.000000
+hidden: true
 tags:
   - archive
 ---

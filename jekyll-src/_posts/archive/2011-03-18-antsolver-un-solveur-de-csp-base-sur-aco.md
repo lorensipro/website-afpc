@@ -3,6 +3,7 @@ layout: page
 title: "AntSolver : un solveur de CSP basé sur ACO"
 title_content: "AntSolver : un solveur de CSP basé sur A..."
 date_content: 2011-03-18 21:19:44.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: CP & OR Summer School - Call for participation
 title_content: CP & OR Summer School - Call for partici...
 date_content: 2017-03-27 08:13:15.000000
+hidden: true
 tags:
   - archive
 ---

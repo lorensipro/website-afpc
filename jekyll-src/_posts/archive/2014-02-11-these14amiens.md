@@ -3,6 +3,7 @@ layout: page
 title: Offre de thèse de l'Universite de Picardie Jules Verne
 title_content: Offre de thèse de l'Universite de Picard...
 date_content: 2014-02-11 15:21:58.000000
+hidden: true
 tags:
   - archive
 ---

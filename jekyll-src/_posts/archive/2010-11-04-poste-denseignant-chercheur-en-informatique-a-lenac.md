@@ -3,6 +3,7 @@ layout: page
 title: Poste d'enseignant chercheur en informatique à l'ENAC
 title_content: Poste d'enseignant chercheur en informat...
 date_content: 2010-11-04 00:00:00.000000
+hidden: true
 tags:
   - archive
 ---

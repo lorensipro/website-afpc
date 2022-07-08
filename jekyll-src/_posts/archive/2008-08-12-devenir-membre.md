@@ -3,6 +3,7 @@ layout: page
 title: Devenir membre
 title_content: Devenir membre
 date_content: 2008-08-12 16:50:48.000000
+hidden: true
 tags:
   - archive
 ---

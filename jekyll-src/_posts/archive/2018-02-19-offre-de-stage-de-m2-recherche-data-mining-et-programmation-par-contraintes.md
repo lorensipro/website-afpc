@@ -3,6 +3,7 @@ layout: page
 title: Offre de stage de M2 recherche Data mining et Programmation par contraintes
 title_content: Offre de stage de M2 recherche Data mini...
 date_content: 2018-02-19 09:16:26.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Deux sujets de thèse financés au CRIL (Lens, France)
 title_content: Deux sujets de thèse financés au CRIL (L...
 date_content: 2011-05-11 15:36:12.000000
+hidden: true
 tags:
   - archive
 ---

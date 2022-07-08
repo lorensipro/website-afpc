@@ -3,6 +3,7 @@ layout: page
 title: Workshop on nonlinear optimization in constraint programming at CP2012
 title_content: Workshop on nonlinear optimization in co...
 date_content: 2012-09-05 06:45:57.000000
+hidden: true
 tags:
   - archive
 ---

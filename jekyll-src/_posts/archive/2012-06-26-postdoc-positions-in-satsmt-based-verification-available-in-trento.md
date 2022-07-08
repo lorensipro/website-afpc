@@ -3,6 +3,7 @@ layout: page
 title: Postdoc positions in SAT/SMT-based Verification available in Trento
 title_content: Postdoc positions in SAT/SMT-based Verif...
 date_content: 2012-06-26 07:29:04.000000
+hidden: trues
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: PhD funding available - Theory of constraints
 title_content: PhD funding available - Theory of constr...
 date_content: 2016-03-08 14:51:09.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Appel à candidatures pour l'organisation de JFPC 2013
 title_content: Appel à candidatures pour l'organisation...
 date_content: 2012-05-11 13:03:49.000000
+hidden: true
 tags:
   - archive
 ---

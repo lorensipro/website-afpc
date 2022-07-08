@@ -3,6 +3,7 @@ layout: page
 title: Poste MCF Montpellier équipe Coconut (contraintes, apprentissage)
 title_content: Poste MCF Montpellier équipe Coconut (co...
 date_content: 2011-03-17 18:46:32.000000
+hidden: true
 tags:
   - archive
 ---

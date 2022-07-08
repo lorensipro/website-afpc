@@ -3,6 +3,7 @@ layout: page
 title: Postdoc position in Propositional Satisfiability at CRIL University of Artois, Lens (France)
 title_content: Postdoc position in Propositional Satisf...
 date_content: 2014-06-20 11:06:58.000000
+hidden: true
 tags:
   - archive
 ---

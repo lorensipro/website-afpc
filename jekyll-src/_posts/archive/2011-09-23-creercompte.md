@@ -3,6 +3,7 @@ layout: page
 title: Instructions pour créer un compte
 title_content: Instructions pour créer un compte
 date_content: 2011-09-23 12:45:06.000000
+hidden: true
 tags:
   - archive
 ---

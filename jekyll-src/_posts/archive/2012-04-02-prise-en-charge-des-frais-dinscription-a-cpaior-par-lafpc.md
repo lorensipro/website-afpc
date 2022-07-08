@@ -3,6 +3,7 @@ layout: page
 title: Prise en charge des frais d'inscription à CPAIOR par l'AFPC
 title_content: Prise en charge des frais d'inscription ...
 date_content: 2012-04-02 09:21:14.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Open Research Positions, Microsoft Research Cambridge Lab
 title_content: Open Research Positions, Microsoft Resea...
 date_content: 2013-12-17 12:59:45.000000
+hidden: true
 tags:
   - archive
 ---

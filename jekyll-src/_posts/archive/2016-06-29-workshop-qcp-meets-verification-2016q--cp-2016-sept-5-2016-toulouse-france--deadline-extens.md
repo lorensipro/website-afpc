@@ -3,6 +3,7 @@ layout: page
 title: Workshop "CP Meets Verification 2016" @ CP 2016, Sept. 5, 2016, Toulouse, France (** deadline extens
 title_content: Workshop "CP Meets Verification 2016" @ ...
 date_content: 2016-06-29 09:22:11.000000
+hidden: true
 tags:
   - archive
 ---

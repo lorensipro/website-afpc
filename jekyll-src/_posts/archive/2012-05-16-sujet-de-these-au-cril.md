@@ -3,6 +3,7 @@ layout: page
 title: sujet de thèse au CRIL
 title_content: sujet de thèse au CRIL
 date_content: 2012-05-16 14:56:59.000000
+hidden: true
 tags:
   - archive
 ---

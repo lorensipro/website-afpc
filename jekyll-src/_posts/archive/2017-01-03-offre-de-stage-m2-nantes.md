@@ -3,6 +3,7 @@ layout: page
 title: Offre de stage M2 Nantes
 title_content: Offre de stage M2 Nantes
 date_content: 2017-01-03 14:37:38.000000
+hidden: true
 tags:
   - archive
 ---

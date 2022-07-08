@@ -3,6 +3,7 @@ layout: page
 title: Azure for Research
 title_content: Azure for Research
 date_content: 2013-10-03 11:21:14.000000
+hidden: true
 tags:
   - archive
 ---

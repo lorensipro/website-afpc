@@ -3,6 +3,7 @@ layout: page
 title: ICTAI 2010, Arras, 27-29 octobre
 title_content: ICTAI 2010, Arras, 27-29 octobre
 date_content: 2010-06-01 15:28:44.000000
+hidden: true
 tags:
   - archive
 ---

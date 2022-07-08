@@ -3,6 +3,7 @@ layout: page
 title: Workshop on Progress Towards the Holy Grail
 title_content: Workshop on Progress Towards the Holy Gr...
 date_content: 2017-05-18 21:53:32.000000
+hidden: true
 tags:
   - archive
 ---

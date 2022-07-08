@@ -3,6 +3,7 @@ layout: page
 title: L'association
 title_content: L'association
 date_content: 2008-08-11 00:42:31.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Bourses Jeunes Chercheurs JFPC 2012
 title_content: Bourses Jeunes Chercheurs JFPC 2012
 date_content: 2012-05-02 08:03:43.000000
+hidden: true
 tags:
   - archive
 ---

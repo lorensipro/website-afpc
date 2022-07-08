@@ -3,6 +3,7 @@ layout: page
 title: Sujet de thèse de doctorat en informatique @ Marseille
 title_content: Sujet de thèse de doctorat en informati...
 date_content: 2018-04-12 11:17:20.000000
+hidden: true
 tags:
   - archive
 ---

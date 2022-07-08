@@ -3,6 +3,7 @@ layout: page
 title: Optimization Challenge by Kaggle and FICO
 title_content: Optimization Challenge by Kaggle and FIC...
 date_content: 2014-12-08 13:04:11.000000
+hidden: true
 tags:
   - archive
 ---

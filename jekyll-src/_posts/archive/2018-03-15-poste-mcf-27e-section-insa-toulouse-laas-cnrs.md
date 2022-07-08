@@ -3,6 +3,7 @@ layout: page
 title: Poste MCF 27e section - INSA Toulouse - LAAS-CNRS
 title_content: Poste MCF 27e section - INSA Toulouse - ...
 date_content: 2018-03-15 11:13:28.000000
+hidden: true
 tags:
   - archive
 ---

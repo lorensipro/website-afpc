@@ -3,6 +3,7 @@ layout: page
 title: Proposition de stage post-doctoral
 title_content: Proposition de stage post-doctoral
 date_content: 2013-08-02 12:35:32.000000
+hidden: true
 tags:
   - archive
 ---

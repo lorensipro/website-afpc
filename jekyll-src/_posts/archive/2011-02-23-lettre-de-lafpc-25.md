@@ -3,6 +3,7 @@ layout: page
 title: Lettre de l'AFPC #25
 title_content: Lettre de l'AFPC #25
 date_content: 2011-02-23 13:22:05.000000
+hidden: true
 tags:
   - archive
 ---

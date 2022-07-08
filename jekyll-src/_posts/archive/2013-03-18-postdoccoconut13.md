@@ -3,6 +3,7 @@ layout: page
 title: Postdoc news (de C. Bessière)
 title_content: Postdoc news (de C. Bessière)
 date_content: 2013-03-18 09:32:52.000000
+hidden: true
 tags:
   - archive
 ---

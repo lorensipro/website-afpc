@@ -3,6 +3,7 @@ layout: page
 title: HdR Florent Madelaine le 4 décembre à Clermont-Ferrand
 title_content: HdR Florent Madelaine le 4 décembre à Cl...
 date_content: 2012-11-30 08:43:46.000000
+hidden: true
 tags:
   - archive
 ---

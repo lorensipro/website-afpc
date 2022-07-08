@@ -3,6 +3,7 @@ layout: page
 title: CADE-24 Workshop CFPs
 title_content: CADE-24 Workshop CFPs
 date_content: 2013-01-29 19:57:20.000000
+hidden: true
 tags:
   - archive
 ---

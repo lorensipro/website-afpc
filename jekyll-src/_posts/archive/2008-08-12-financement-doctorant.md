@@ -3,6 +3,7 @@ layout: page
 title: Financement mission JFPC (jeunes chercheurs) par l'AFPC
 title_content: Financement mission JFPC (jeunes cherche...
 date_content: 2008-08-12 10:00:00.000000
+hidden: true
 tags:
   - archive
 ---

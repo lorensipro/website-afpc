@@ -3,6 +3,7 @@ layout: page
 title: Poste de CR2 en optimisation combinatoire pour la bioinformatique
 title_content: Poste de CR2 en optimisation combinatoir...
 date_content: 2011-01-31 09:55:13.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: "ACP Summer School 2011: Hybrid Methods for Constraint Programming"
 title_content: "ACP Summer School 2011: Hybrid Methods f..."
 date_content: 2011-02-10 02:46:14.000000
+hidden: true
 tags:
   - archive
 ---

@@ -3,6 +3,7 @@ layout: page
 title: 4 postes ATER 27e section Faculté des Sciences et Techniques (Aix-Marseille 3)
 title_content: 4 postes ATER 27e section Faculté des Sc...
 date_content: 2011-08-09 18:36:44.000000
+hidden: true
 tags:
   - archive
 ---

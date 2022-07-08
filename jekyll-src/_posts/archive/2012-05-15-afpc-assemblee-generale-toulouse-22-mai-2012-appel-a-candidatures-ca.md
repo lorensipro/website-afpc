@@ -3,6 +3,7 @@ layout: page
 title: AFPC Assemblee Generale - Toulouse 22 mai 2012 - APPEL A CANDIDATURES CA
 title_content: AFPC Assemblee Generale - Toulouse 22 ma...
 date_content: 2012-05-15 13:28:03.000000
+hidden: true
 tags:
   - archive
 ---

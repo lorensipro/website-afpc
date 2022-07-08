@@ -3,6 +3,7 @@ layout: page
 title: PhD position LIX/MSR
 title_content: PhD position LIX/MSR
 date_content: 2012-10-25 09:36:41.000000
+hidden: true
 tags:
   - archive
 ---

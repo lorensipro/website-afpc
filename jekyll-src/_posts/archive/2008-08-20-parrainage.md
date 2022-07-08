@@ -3,6 +3,7 @@ layout: page
 title: Parrainage
 title_content: Parrainage
 date_content: 2008-08-20 10:11:07.000000
+hidden: true
 tags:
   - archive
 ---
