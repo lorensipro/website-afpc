@@ -39,6 +39,8 @@
   dropdown:
     - title: "Archives"
       url: /blog/archive
+    - title: "Offres"
+      url: /blog/offres
 
 
 - title: "Contact"
