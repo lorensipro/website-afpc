@@ -1,0 +1,47 @@
+{% comment %}
+*   
+*   The possible parameters for this loop:
+*   
+*    › category
+*    › tag
+*   
+*   Example for Category: {% include posts category='design' %}
+*   
+*   Example for Tag: {% include posts tag='terminal' %}
+*
+*   Example for both: {% include posts category='design' tag='terminal' %}
+*   
+*   
+*   This loop works like this:
+*   
+*   1. First we check if there was given a category for filtering › if include.categories == NULL 
+*   2. If no category is given for filtering do a general loop.
+*   3. If a category/tag was given, assign category/tag to the variable category/tag › assign category = include.categories 
+*   
+{% endcomment %}
+
+
+{% assign category = include.category %}
+{% assign tag = include.tag %}
+{% assign posts = include.posts %}
+
+{% if category == NULL and tag == NULL %}
+    {% assign posts = site.posts %}
+{% elsif category and tag == NULL %}
+    {% assign posts = site.categories.[category] %}
+{% elsif category == NULL and tag %}
+    {% assign posts = site.tags.[tag] %}
+{% endif %}
+
+{% if posts %}
+{% for post in posts %}
+  {% include posts-item item=post %}
+{% endfor %}
+{% else %}
+{% for post in site.categories.[category] limit:1000 offset:0 %}
+
+    {% if post.tags contains tag %}
+      {% include posts-item item=post %}
+    {% endif %}             
+{% endfor %}   
+{% endif %}
