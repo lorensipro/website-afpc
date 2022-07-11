@@ -6,7 +6,7 @@ noindex: true
 title: "Offres"
 teaser: "Liste des offres de postes."
 header:
-   image_fullwidth: header-grapheO.png
+   image_fullwidth: header_roadmap_2.jpg
 permalink: "blog/offres/"
 ---
 
