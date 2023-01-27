@@ -275,3 +275,14 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+
+mini_magick:
+  thumbnail:
+    source: images/img-multisize
+    destination: images/img-multisize/thumbnail
+    resize: "120x120"
+  medium:
+    source: images/img-multisize
+    destination: images/img-multisize/medium
+    resize: "600x400"

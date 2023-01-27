@@ -16,9 +16,9 @@ Les JFPC attirent une audience internationale, à travers la participation de ch
 
 Les JFPC se veulent un lieu convivial de rencontres, de discussions et d'échanges pour la communauté francophone, en particulier entre doctorants, chercheurs confirmés et industriels. L'importance des JFPC est reflétée par la part considérable (environ un tiers) de la communauté francophone dans la recherche mondiale dans ce domaine.
 
-## JFPC 2022 à Saint-Étienne
+## JFPC 2023 à Strasbourg
 
-![banniere-jfpc]({{ site.url }}{{ site.baseurl }}/images/banniere-JFPC-2022.jpg)
+![banniere-jfpc]({{ site.url }}{{ site.baseurl }}/images/banniere-JFPC-2023.jpg)
 
 ### Historique des précédentes éditions
 

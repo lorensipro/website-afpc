@@ -36,8 +36,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://ci.mines-stetienne.fr/pfia2022/conferences/jfpc/
-  text: Aller vers le site des JFPC 2022 >
+  url: https://pfia23.icube.unistra.fr/conferences/jfpc/index.html
+  text: Aller vers le site des JFPC 2023 >
   style: alert
 permalink: /index.html
 #
