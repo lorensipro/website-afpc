@@ -1,0 +1,5 @@
+
+{% assign filename = include.name %}
+{% assign altern = include.alt %}
+
+![{{ altern }}]({{ site.url }}{{ site.baseurl }}/images/{{ filename }})

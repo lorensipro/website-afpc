@@ -5,6 +5,7 @@ layout: page
 #
 title: PhD Position
 subheadline: IMT Atlantique (France) and Polytechnique de Montréal (Canada)
+teaser: PhD position in co-supervising between IMT Atlantique (France) and Polytechnic of Montréal (Canada)
 categories:
   - offres
 tag: 
@@ -20,7 +21,7 @@ header:
   image_fullwidth: imt+polymtl.svg
 ---
 
-PhD position in co-supervising between IMT Atlantique (France) and Polytechnic of Montréal (Canada). The PhD contract is expected to start in **November/December 2022**.
+The PhD contract is expected to start in **November/December 2022**.
 
 The details are also online from the IMT website ([subject 9](https://www.imt.fr/limt-recrute-10-nouveaux-doctorants-en-ia-dans-le-cadre-du-programme-doctoral-aiimt/)).
 

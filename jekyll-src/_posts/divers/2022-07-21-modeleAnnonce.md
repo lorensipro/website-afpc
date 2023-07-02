@@ -9,7 +9,6 @@ teaser: "Petit teaser"
 categories:
   - divers
 #  - exposé # pour les exposés invités comme l'annonce faite pour l'éxposé invité à CP 2022
-#  - offres # pour les annonces concernant les stages, les doctorats, post-doctorats, postes...
 #  - conférences # pour les conférences
 #tag:
 #  - important # pour apparaître sur la page d'accueil

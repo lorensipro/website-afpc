@@ -18,7 +18,7 @@ Les JFPC se veulent un lieu convivial de rencontres, de discussions et d'échang
 
 ## JFPC 2023 à Strasbourg
 
-![banniere-jfpc]({{ site.url }}{{ site.baseurl }}/images/banniere-JFPC-2023.jpg)
+{% include image name = "banniere-JFPC-2023.png" alt = "banniere-jfpc" %}
 
 ### Historique des précédentes éditions
 
