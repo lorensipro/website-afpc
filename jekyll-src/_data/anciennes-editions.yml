@@ -1,8 +1,8 @@
 - lieu: Strasbourg
   annee: 2023
   website: https://pfia23.icube.unistra.fr/conferences/jfpc/index.html
-  # actes:
-  #   pdf: actes-JFPC-2023.pdf
+  actes:
+    pdf: actes-JFPC-2023.pdf
   #   hal: https://hal.archives-ouvertes.fr/
 
 - lieu: Saint-Étienne
