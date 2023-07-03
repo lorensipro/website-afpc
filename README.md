@@ -75,3 +75,7 @@ Configurez la pull request de la manière suivante :
   ![pull request](jekyll-src/images/manuel/github-pullrequest2.png)
  
 Normalement, il ne devrait plus y avoir de conflits.
+
+  ![pull request](jekyll-src/images/manuel/github-pullrequest3.png)
+
+Il ne reste qu'à cliquer sur `Create pull request`.
