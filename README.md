@@ -12,16 +12,20 @@ Site web de l'AFPC : https://www.afpc-asso.org/
 
 Contribuer au site est facile.
 
-1. Forker le [projet](https://github.com/lorensipro/website-afpc).
-2. Travailler avec le code source : le site est basé sur [jekyll](https://jekyllrb.com/), générateur de site statique simple, prêt-à-bloguer.
-3. Modifier le site et le tester localement.
-4. Envoyer une pull request sur Github.
+Deux options s'offrent à vous, envoyer votre annonce ou offre (au format markdown `.md` de préférence) soit par mail soit directement sur Github.
 
 Vous écrivez une annonce ? Inspirez-vous d'une autre annonce ou du [modèle](https://github.com/lorensipro/website-afpc/blob/main/jekyll-src/_posts/divers/2022-07-21-modeleAnnonce.md).
 Vous écrivez une offre ? Inspirez-vous d'une autre offre ou du [modèle](https://github.com/lorensipro/website-afpc/blob/main/jekyll-src/_posts/offres/2022-07-21-modeleOffre.md).  
 Vous débutez avec git ? Lisez le guide ci-dessous.
 
-## Forker le projet
+## Soumission par Github
+
+1. Forker le [projet](https://github.com/lorensipro/website-afpc).
+2. Travailler avec le code source : le site est basé sur [jekyll](https://jekyllrb.com/), générateur de site statique simple, prêt-à-bloguer.
+3. Modifier le site et le tester localement.
+4. Envoyer une pull request sur Github.
+
+### Forker le projet
 
 1. Créez un compte sur github
 2. Forkez le projet en cliquant sur le bouton en haut à droite de cette page.
@@ -39,9 +43,9 @@ git remote add upstream git@github.com:lorensipro/website-afpc.git
 
 Il est possible de contribuer sans compte github (en clonant et patchant) si vous êtes déjà familier avec `git`. 
 
-## Travailler sur sa version locale
+### Travailler sur sa version locale
 
-## Synchroniser ses modifications
+### Synchroniser ses modifications
 C'est le moment le plus délicat. Le risque est de corrompre votre historique.  
 Votre copie de travail doit être propre. Utilisez `git stash` pour sauvegarder vos modifications non commitées.
 
